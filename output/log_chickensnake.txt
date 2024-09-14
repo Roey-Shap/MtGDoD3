@@ -1,4 +1,4 @@
-September 15, 2024 at 01:25
+September 15, 2024 at 01:31
 Welcome to ChickenSnake, for fast custom playtest cards!
 [User input]: y
 
@@ -76,7 +76,7 @@ Generating card images...
 
 Done!
 
-Program execution time: 19.58 seconds
+Program execution time: 15.20 seconds
 =========================================
 Generated card images at:
 >>>   C:\Users\Roey Shapiro\Documents\AAB Backup\Programming\MtG\DoD3\output\Playtest_Card_Images

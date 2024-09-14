@@ -2749,7 +2749,7 @@
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/output/Playtest_Card_Images/The Raze.jpg"
                         }
-    },
+    }
 ]
 [Common]
 Sneaking Dile
@@ -2885,18 +2885,6 @@ Determinate
 Fearful Megafauna
 Make Amends
 Gode the Gloating Goat
-Plant
-Rabbit
-Spirit
-Boulder
-Ooze
-Outcast
-Reflection
-Rabbit Spider
-Dung
-Bird
-Skeleton
-Trilobite
 [Uncommon]
 Secret Wrangler
 Ambitious Contortionist
