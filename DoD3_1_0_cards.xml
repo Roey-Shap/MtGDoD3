@@ -79,7 +79,7 @@ Equipped creature gets +X/+0 for each revealed card in your hand and +0/+X for e
     <manacost>1UB</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Target opponent loses life and you gain life equal to the number of revealed cards in your hand and deck.
+    <text>Target opponent loses life and you gain life equal to the number of revealed cards in your hand.
 Unreveal a card in your hand, then draw a card and put a card from your hand on the bottom of your library.</text>
 </card>
 
@@ -103,8 +103,7 @@ Cycling {2}</text>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Exploit
-Shaming Nymph gets +1/+1 whenever it attacks alone.
-When Shaming Nymph exploits a creature, target opponent reveals a card if able. Target creature they control gets -1/-1 until end of turn.</text>
+When Shaming Nymph exploits a creature, target opponent reveals a card if able. Put a -1/-1 counter on target creature they control.</text>
 </card>
 
 <card>
@@ -156,13 +155,13 @@ Blundering Ninja enters with a stun counter on it if it's tapped.</text>
 <card>
     <name>Pure-Mind Trainee</name>
     <set picURL="/Pure-Mind Trainee.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WU</color>
-    <manacost>{U/W}</manacost>
+    <color>U</color>
+    <manacost>1U</manacost>
     <type>Creature - Alpaca Monk</type>
 	<pt>1/1</pt>
     <tablerow>0</tablerow>
-    <text>You may reveal Pure-Mind Trainee as it is put into your hand. If you do, scry 2.
-Pure-Mind Trainee enters with a +1/+1 counter on it if it was not revealed when it was put into your hand.</text>
+    <text>Expose - You may reveal Pure-Mind Trainee as it is put into your hand. If you do, scry 2.
+Pure-Mind Trainee enters with a +1/+1 counter on it if it was not exposed.</text>
 </card>
 
 <card>
@@ -209,7 +208,7 @@ Haste</text>
 	<pt>3/2</pt>
     <tablerow>0</tablerow>
     <text>Haste
-Whenever Clumsy Secretary attacks a player, you may shuffle a random revealed card from your hand back into your library and draw a card. If you do, it deals 1 damage to that player. </text>
+Whenever Clumsy Secretary attacks, you may shuffle a revealed card from your hand back into your library and then draw a card. If you do, it deals 1 damage to defending player. </text>
 </card>
 
 <card>
@@ -256,8 +255,8 @@ Tactless Show-Host gets +2/+2 as long as it's attacking a player whose entire ha
     <tablerow>0</tablerow>
     <text>As an additional cost to this spell, reveal a creature card from your hand.
 Spree - 
-{g} - Target creature you control gets +1/+1 and gains trample until end of turn. 
-{1}{g} - Target creature you control gets +X/+0 until end of turn, where X is the revealed creature's power.</text>
+{1} - Target creature you control gets +1/+1 and gains trample until end of turn. 
+{g}{g} - Target creature you control gets +X/+0 until end of turn, where X is the revealed creature's power.</text>
 </card>
 
 <card>
@@ -267,7 +266,7 @@ Spree -
     <manacost>1RR</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Reveal any number of cards in your hand. Target opponent reveals that many unrevealed cards (or as many as they can). Obliging Confession deals damage equal to them equal to the number of revealed cards in their hand.</text>
+    <text>Reveal any number of cards in your hand. Target opponent reveals that many cards. Obliging Confession deals damage equal to them equal to the number of revealed cards in their hand.</text>
 </card>
 
 <card>
@@ -276,11 +275,11 @@ Spree -
     <color>UR</color>
     <manacost>UR</manacost>
     <type>Creature - Bird Weird</type>
-	<pt>1/2</pt>
+	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Pop-up {u}{r}
-Whenever you discard a card, Excitable Weird deals 1 damage to target creature.
-Whenever you draw a card, untap Excitable Weird.</text>
+Whenever you discard, Excitable Weird deals 1 damage to target creature.
+Whenever you draw, untap Excitable Weird.</text>
 </card>
 
 <card>
@@ -292,7 +291,7 @@ Whenever you draw a card, untap Excitable Weird.</text>
 	<pt>4/3</pt>
     <tablerow>0</tablerow>
     <text>Whenever another creature enters under your control, Celebratory Giant deals 1 damage to each creature without flying.
-Pop-up costs of spells and spells with backup you cast are reduced by {1}.</text>
+Pop-up costs of spells you control cost {1} less.</text>
 </card>
 
 <card>
@@ -327,20 +326,18 @@ Trample</text>
     <manacost>1G</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>Reveal target card from your hand. Add X mana of any one color, where X is the number of non-colorless, non-generic symbols in its mana cost.</text>
+    <text>Reveal target card from your hand. Add X mana of any one color, where X is the number of non-colorless symbols in its mana cost.</text>
 </card>
 
 <card>
     <name>Preemptive Funeral</name>
     <set picURL="/Preemptive Funeral.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>BG</color>
-    <manacost>{B/G}</manacost>
-    <type>Sorcery</type>
+    <manacost>BG</manacost>
+    <type>Instant</type>
     <tablerow>0</tablerow>
     <text>As an additional cost to casting this spell, sacrifice a creature.
-Mill the top 4 cards of your library. Then choose one, where X is the sacrificed creature's mana value--
-- Cast a creature from among them with mana value at most X. 
-- Gain X life.</text>
+Mill the top 4 cards of your library. You may cast a creature from among them with mana value less than or equal to that of the sacrificed creature.</text>
 </card>
 
 <card>
@@ -350,9 +347,9 @@ Mill the top 4 cards of your library. Then choose one, where X is the sacrificed
     <manacost>6{B/G}{B/G}</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>This spell costs {2} less to cast for each card you reveal or and {1} less for each card you exile from your graveyard as you cast it.
-Exile target land you control, then return it to the battlefield under your control. Untap it.
-Return target creature from a graveyard under your control with a finality counter. Untap it. It gains haste until end of turn.</text>
+    <text>This spell costs {1} less to cast for each card you reveal as you cast it.
+Return target creature from any graveyard under your control with a finality counter. Untap it. It gains haste until end of turn.
+Search your graveyard for a land and put it on the battlefield. Untap it.</text>
 </card>
 
 <card>
@@ -385,8 +382,8 @@ Return target creature from a graveyard under your control with a finality count
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Spree - 
-{1} - Return target creature to its owner's hand. They reveal it there.
-{r} - Kickback deals damage to target creature equal to the number of revealed cards in its controller's hand and library.</text>
+{1} - Return target creature to its owner's hand.
+{r} - Kickback deals damage to target creature equal to the number of revealed cards in its controller's hand.</text>
 </card>
 
 <card>
@@ -446,7 +443,7 @@ Cycling {1}{w}</text>
 	<pt>4/4</pt>
     <tablerow>0</tablerow>
     <text>Reach, Trample
-When The Chortle-Beast enters, you may reveal a card from your hand.
+When The Chortle-Beast enters, you may reveal a card.
 Whenever you reveal a card from your hand, put a +1/+1 counter on The Chortle-Beast. Then you may reveal the top card of your library and, if it's a land, put it onto the battlefield tapped.</text>
 </card>
 
@@ -456,7 +453,7 @@ Whenever you reveal a card from your hand, put a +1/+1 counter on The Chortle-Be
     <color>W</color>
     <manacost>2WW</manacost>
     <type>Creature - Bird</type>
-	<pt>2/3</pt>
+	<pt>2/4</pt>
     <tablerow>0</tablerow>
     <text>Pop-up {2}{w}
 As Law-Bind Eagle enters, if it was cast for its pop-up cost, tap target creature.
@@ -523,11 +520,10 @@ Duck - Gain control of target artifact token you don't control.</text>
     <type>Enchantment Creature - Rabbit Spirit</type>
 	<pt>1/1</pt>
     <tablerow>0</tablerow>
-    <text>Pop-up {1}{w/r}
-Bestow {2}{w/r}
+    <text>Pop-up {w/r}
+Bestow {1}{w/r}
 Death-Leap Messenger can be cast as an aura for its pop-up cost.
-Enchanted creature gets +1/+1 and haste.
-Haste</text>
+Enchanted creature gets +1/+1.</text>
 </card>
 
 <card>
@@ -552,8 +548,8 @@ Double Strike</text>
 	<pt>1/2</pt>
     <tablerow>0</tablerow>
     <text>Courageous Yaunling gets +1/+1 for each creature you control.
-At the beginning of your endstep, you may pay {1}{g/w} and create a 0/1 green and white Plant enchantment creature token.
-Horde 5 - If you control 5 or more creatures, this creature has ward {1}.</text>
+At the beginning of your endstep, you may pay {1}{g/w} and create a 0/1 green Plant enchantment creature token.
+Horde 5 - If you control 5 or more creatures, Courageous Yaunling has ward {1}.</text>
 </card>
 
 <card>
@@ -562,11 +558,11 @@ Horde 5 - If you control 5 or more creatures, this creature has ward {1}.</text>
     <color>G</color>
     <manacost>2G</manacost>
     <type>Creature -  Mole Citizen</type>
-	<pt>2/3</pt>
+	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Pop-up {1}{r}
 As Nervous Digger enters, if it was cast for its pop-up cost, it gains haste until end of turn.
-Duck - exile target land you control and return it to the battlefield under your control. Untap it.</text>
+Duck - Flicker target land you control. Untap it.</text>
 </card>
 
 <card>
@@ -600,7 +596,7 @@ Whenever a creature dies the same turn it was dealt combat damage by Prinoc, dra
     <manacost>1{G/W}{G/W}</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>Until end of turn, whenever an enchantment or enchanted creature you control with mana cost X deals combat damage to a player, you may search your library for an enchantment permanent with mana cost or bestow cost at most X minus one and put it onto the battlefield, then shuffle.</text>
+    <text>Until end of turn, whenever an enchantment or enchanted creature you control with mana value X deals combat damage to a player, you may search your library for an enchantment with mana cost or bestow cost at less than X and put it onto the battlefield, then shuffle.</text>
 </card>
 
 <card>
@@ -610,7 +606,7 @@ Whenever a creature dies the same turn it was dealt combat damage by Prinoc, dra
     <manacost></manacost>
     <type>Enchantment Land</type>
     <tablerow>0</tablerow>
-    <text>As Geist-Grove enters, you may tap two enchantment creatures you control. If you don't, it enters tapped.
+    <text>Geist-Grove enters tapped unless you tap two enchantment creatures you control.
 {t}: Add {w}, {g}, or {b}.
 {t}: Add {c}{c}. Spend this mana only to cast enchantments. </text>
 </card>
@@ -624,9 +620,7 @@ Whenever a creature dies the same turn it was dealt combat damage by Prinoc, dra
 	<pt>3/2</pt>
     <tablerow>0</tablerow>
     <text>When Imminent-Flame Crollock enters, it deals 3 damage to target creature.
-When Imminent-Flame Crollock dies, you may pay {r}{r} and choose 1--
-- It deals 3 damage to any target and 1 damage to you.
-- Destroy target artifact. </text>
+When Imminent-Flame Crollock dies, destroy target artifact.</text>
 </card>
 
 <card>
@@ -647,8 +641,8 @@ When Imminent-Flame Crollock dies, you may pay {r}{r} and choose 1--
     <type>Creature - Bird Demon</type>
 	<pt>1/1</pt>
     <tablerow>0</tablerow>
-    <text>Flying
-Mosh Demon gets +1/+0 for each life you've lost this turn.</text>
+    <text>Mosh Demon gets +1/+0 for each life you've lost this turn.
+{2}{b}: Mosh Demon gains flying until end of turn.</text>
 </card>
 
 <card>
@@ -695,7 +689,7 @@ Discard Oversee - Scry 1.</text>
     <type>Creature - Alpaca Artisan</type>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
-    <text>Duck - Rummaging Mapmaker or the creature it's ducking behind explores. (Reveal the top card of your library. If it's a land, put it into your hand. Otherwise, put a +1/+1 counter on this creature, and you put the card into your graveyard.)
+    <text>Duck - Rummaging Mapmaker or the creature it's ducking behind explores. (Reveal the top card of your library. If it's a land, put it into your hand. Otherwise, put a +1/+1 counter on this creature, and you may put the card into your graveyard.)
 {r}, {t}, discard a card: Draw a card.</text>
 </card>
 
@@ -707,9 +701,9 @@ Discard Oversee - Scry 1.</text>
     <type>Creature - Rabbit Doctor</type>
 	<pt>1/1</pt>
     <tablerow>0</tablerow>
-    <text>Duck - gain 1 life.
-Whenever a creature you control takes damage, untap Quickstep Medic.
-Horde 3 - Whenever Quickstep Medic attacks with 2 or more creatures, it gets +1/+1 until end of turn. </text>
+    <text>Vigilance
+Duck - gain 1 life.
+Whenever a creature you control takes damage, untap Quickstep Medic.</text>
 </card>
 
 <card>
@@ -732,8 +726,8 @@ Horde 3 - Whenever Quickstep Medic attacks with 2 or more creatures, it gets +1/
     <type>Creature - Human Citizen</type>
 	<pt>2/1</pt>
     <tablerow>0</tablerow>
-    <text>Whenever you sacrifice a nontoken permanent, untap Harried Gravedigger.
-{t}, pay 1 life: Tap target land unless its controller pays 1 life.</text>
+    <text>Duck - {b} or {g}.
+Whenever you sacrifice a nontoken permanent, untap Harried Gravedigger.</text>
 </card>
 
 <card>
@@ -779,9 +773,10 @@ Enchanted creature gets +4/+4, lifelink, and ward {1}.</text>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Enchantment Creature - Alien Spirit</type>
-	<pt>0/3</pt>
+	<pt>1/3</pt>
     <tablerow>0</tablerow>
-    <text>Whenever Starfall Soul or another enchantment or land enters under your control, target creature you control gains hexproof until end of turn.</text>
+    <text>Flying
+Whenever Starfall Soul or another enchantment or land enters under your control, target creature you control gains hexproof until end of turn.</text>
 </card>
 
 <card>
@@ -853,7 +848,7 @@ Reveal an unrevealed green card from your hand: target creature you control gets
 	<pt>3/1</pt>
     <tablerow>0</tablerow>
     <text>First Strike
-Duck - Populate and add {w}. Tap target creature Aphrodisic Entertainer is ducking behind. Activate this ability targeting untapped creatures.
+Duck - Tap target untapped creature Aphrodisic Entertainer is ducking behind. Populate and add {w}.
 Whenever a creature with power 2 or less enters under your control, untap Aphrodisic Entertainer.</text>
 </card>
 
@@ -865,7 +860,7 @@ Whenever a creature with power 2 or less enters under your control, untap Aphrod
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Kicker {2}{r/g}
-Create 2 1/1 red and green Goat creature tokens with Backup 1.
+Create two 1/1 red Goat creature tokens with Backup 1.
 If Goated was kicked, it has Rivalstorm. (Copy it for each spell an opponent has cast this turn.)</text>
 </card>
 
@@ -899,9 +894,9 @@ Basic lands you control have, "Whenever you reveal a card from your hand and thi
     <color>W</color>
     <manacost>3W</manacost>
     <type>Creature - Cat Cleric</type>
-	<pt>3/4</pt>
+	<pt>2/4</pt>
     <tablerow>0</tablerow>
-    <text>Horde 4 - Creatures you control have vigilance.
+    <text>Horde 3 - If you control 3 or more creatures, creatures you control have vigilance.
 {4}{w}, {t}: Search your library for a creature with mana cost 3 or less and put it on the battlefield.</text>
 </card>
 
@@ -923,22 +918,22 @@ Basic lands you control have, "Whenever you reveal a card from your hand and thi
     <color>W</color>
     <manacost>W</manacost>
     <type>Creature - Dwarf Rabbit</type>
-	<pt>0/1</pt>
+	<pt>1/1</pt>
     <tablerow>0</tablerow>
-    <text>Duck - Skitterjill gets +0/+1 until end of turn.
-Whenever a creature you control ducks and Skitterjill is untapped, you may tap Skitterjill. If you do, target permanent you control gains protection from the color of your choice. </text>
+    <text>Vigilance
+Duck - Skitterjill gets +0/+1 until end of turn. Target creature it's ducking behind gets protection from the color of your choice.</text>
 </card>
 
 <card>
-    <name>Stern Tracy</name>
-    <set picURL="/Stern Tracy.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>W</color>
-    <manacost>WW</manacost>
-    <type>Creature - Rabbit Citizen</type>
+    <name>Mocking Bard</name>
+    <set picURL="/Mocking Bard.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>B</color>
+    <manacost>1B</manacost>
+    <type>Creature - Reptile Bard</type>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
-    <text>Vigilance
-{w}{w}, {t}: Creatures your opponents control can't duck until end of turn.</text>
+    <text>Whenever Mocking Bard attacks a player with two or less cards in hand, it gets +2/+2 until end of turn.
+{b}{b}, {t}: Creatures your opponents control can't duck until end of turn.</text>
 </card>
 
 <card>
@@ -996,8 +991,8 @@ If Fiesty Rollick was kicked, add {r}.</text>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
     <text>Pop-up {r/b}{r/b}
-Discard each revealed card in your hand and draw the same number (call it X).
-If an opponent lost life this turn, Deathmist Detonation does X damage to target creature they control.</text>
+Discard each revealed card in your hand and draw that many.
+Deathmist Detonation does that much damage to target creature controlled by an opponent who lost this turn.</text>
 </card>
 
 <card>
@@ -1008,7 +1003,7 @@ If an opponent lost life this turn, Deathmist Detonation does X damage to target
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Destroy target enchantment.
-Horde 2 - target creature you control gains protection from a color of the targeted enchantment or colorless if it has no color.</text>
+Horde 2 - If you control 2 or more creatures, target creature you control gains protection from a color of the targeted enchantment.</text>
 </card>
 
 <card>
@@ -1030,9 +1025,10 @@ Backup 1
     <color>RG</color>
     <manacost>RG</manacost>
     <type>Creature - Human</type>
-	<pt>2/3</pt>
+	<pt>3/3</pt>
     <tablerow>0</tablerow>
-    <text>Whenever Terra-Reformist attacks, you may pay {r}{g}. If you do, search your library for a land and put it onto the battlefield tapped.</text>
+    <text>Transparent
+Whenever Terra-Reformist attacks, you may pay {r}{g}. If you do, search your library for a land and put it onto the battlefield tapped.</text>
 </card>
 
 <card>
@@ -1097,8 +1093,8 @@ You may counter any number of spells you control on the stack. Tension fling dea
     <manacost>1WB</manacost>
     <type>Enchantment</type>
     <tablerow>0</tablerow>
-    <text>Whenever a creature dies, you may pay 1 life and put a 1/1 white and black Spirit token on the battlefield under your control.
-Grave Horde 5 - If there are 5 or more creatures in your graveyard, enchantments you cast cost {1} less to cast.</text>
+    <text>Whenever a creature dies, you may pay 1 life and create a 1/1 white and black Spirit token.
+Grave Horde 5 - If there are 5 or more creatures in your graveyard, creatures you control have lifelink.</text>
 </card>
 
 <card>
@@ -1119,8 +1115,7 @@ Grave Horde 5 - If there are 5 or more creatures in your graveyard, enchantments
     <type>Sorcery</type>
     <tablerow>0</tablerow>
     <text>You may reveal this spell as you put it into your hand.
-Grave Horde - Target creature gets -X/-X until end of turn and another target creature gets +X/+X until end of turn, where X is the number of creatures in your graveyard. 
-Then exile 2 cards from your graveyard unless you revealed this spell.</text>
+Grave Horde - Target creature gets -X/-X until end of turn and another target creature gets +X/+X until end of turn, where X is the number of creatures in your graveyard. Then exile 2 cards from your graveyard unless you revealed this spell.</text>
 </card>
 
 <card>
@@ -1130,9 +1125,10 @@ Then exile 2 cards from your graveyard unless you revealed this spell.</text>
     <manacost>5</manacost>
     <type>Artifact</type>
     <tablerow>0</tablerow>
-    <text>Spells and abilities your opponents control can't cause you to reveal cards in your hand or library.
+    <text>{t}: Add {c}.
 {t}, Put a revealed card from your hand on the bottom of your library: Draw a card.
-{t}: Add {c}.</text>
+Spells and abilities your opponents control can't cause you to reveal cards in your hand or library.
+</text>
 </card>
 
 <card>
@@ -1176,7 +1172,8 @@ The first time an opponent draws a card on each of their turns, they may reveal 
     <manacost>{G/U}</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Target creature with a duck ability can duck behind creatures regardless of their toughness until end of turn.</text>
+    <text>Target creature with a duck ability can duck behind creatures regardless of their toughness until end of turn.
+Draw a card.</text>
 </card>
 
 <card>
@@ -1198,7 +1195,8 @@ Draw a card.</text>
     <type>Creature - Dog</type>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
-    <text>Pack Dog can't attack alone.</text>
+    <text>Pack Dog can't attack alone.
+Horde 4 - Whenever Pack Dog attacks with at least 3 other creatures, it gets +1/+1 until end of turn.</text>
 </card>
 
 <card>
@@ -1258,19 +1256,19 @@ Create a colorless 0/3 Boulder artifact creature token with defender.</text>
     <tablerow>0</tablerow>
     <text>Reach
 When Stone-Tosser Golem enters, create a 0/3 colorless Boulder artifact creature token with defender.
-Exert - You may sacrifice an artifact creature you control. If you do, Stone-Tosser Golem deals damage equal to the artifact's toughness to target permanent.</text>
+{t}, sacrifice an artifact creature you control: Stone-Tosser Golem deals damage equal to that artifact's toughness to target permanent.</text>
 </card>
 
 <card>
     <name>Strength of the Age</name>
     <set picURL="/Strength of the Age.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>W</color>
-    <manacost>2WW</manacost>
+    <color>WR</color>
+    <manacost>4WR</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Convoke 
-For each two creatures that convoked this spell, make a 1/1 red and green Goat creature token with haste. 
-Grave Horde - Creatures you control get +X/+X until end of turn, where X is the number of cards named Strength of the Age in all graveyards plus one. </text>
+For each two creatures that convoked this spell, create a 1/1 red Goat creature token with Backup 1. 
+Untap each creature you control. They gain haste until end of turn. There is an additional combat phase after this one.</text>
 </card>
 
 <card>
@@ -1289,10 +1287,10 @@ Grave Horde - Creatures you control get +X/+X until end of turn, where X is the 
     <color>W</color>
     <manacost>1W</manacost>
     <type>Creature - Rabbit Soldier</type>
-	<pt>1/1</pt>
+	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Whenever a creature with mana cost 3 or less enters under your control, put a +1/+1 counter on it or High-Ear Strike Captain.
-Horde 6 - Creatures you control have vigilance and first strike.</text>
+Horde 6 - If you control 6 or more creatures, creatures you control have vigilance and first strike.</text>
 </card>
 
 <card>
@@ -1335,7 +1333,7 @@ Reveal Navigator Captain from your hand: search your library for a basic plains 
     <name>Crumblestorm</name>
     <set picURL="/Crumblestorm.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>W</color>
-    <manacost>4WW</manacost>
+    <manacost>5WW</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Convoke
@@ -1350,7 +1348,7 @@ Destroy all tapped nonland permanents.</text>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Convoke
-Creatures you control with duck abilities gain indestructible until end of turn.
+Put a +1/+1 counter on target creature you control for each creature that convoked this spell.
 Horde 5 - If you control at 5 or more creatures, you gain 1 life for each creature you control.</text>
 </card>
 
@@ -1493,9 +1491,10 @@ Whenever a spell or ability you control would tap X creatures, you may give this
     <type>Creature - Whale</type>
 	<pt>0/1</pt>
     <tablerow>0</tablerow>
-    <text>Backup 1
-Flying
-You may play Reinforcement Whale as though it has flash if you haven't drawn a card this turn.</text>
+    <text>You may play Reinforcement Whale as though it has flash if you haven't drawn a card this turn.
+When Reinforcement Whale enters, return target creature you control to your hand.
+Backup 1
+Flying</text>
 </card>
 
 <card>
@@ -1504,7 +1503,7 @@ You may play Reinforcement Whale as though it has flash if you haven't drawn a c
     <color>BR</color>
     <manacost>1{R/B}</manacost>
     <type>Creature - Bird</type>
-	<pt>2/1</pt>
+	<pt>1/1</pt>
     <tablerow>0</tablerow>
     <text>Flying
 Grave Horde - Carrion Bird gets +X/+0, where X is the number of Birds in your graveyard.</text>
@@ -1591,7 +1590,7 @@ Exile target revealed card in their hand.</text>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Exile the top 4 cards of your library. You may cast them until the end of your next turn.
-You may cast Future in Flames as it is being scried or revealed from your hand or library. If you do, it costs {1} less to cast.</text>
+You may cast Future in Flames as it is being scried or revealed from your hand or library. It costs {1} less to cast this way. </text>
 </card>
 
 <card>
@@ -1606,8 +1605,8 @@ Exile target permanent or spell. </text>
 </card>
 
 <card>
-    <name>Openest Mind</name>
-    <set picURL="/Openest Mind.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <name>Accept the Facts</name>
+    <set picURL="/Accept the Facts.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>U</color>
     <manacost>UU</manacost>
     <type>Instant</type>
@@ -1623,7 +1622,7 @@ If Openest Mind is countered, draw a card as it is being put into the graveyard.
     <manacost>1{W/U}</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Target player exile up to 3 cards from their hand until end of turn.</text>
+    <text>Target player exiles 3 cards from their hand until end of turn (or as many of the 3 as they can).</text>
 </card>
 
 <card>
@@ -1653,8 +1652,8 @@ If Openest Mind is countered, draw a card as it is being put into the graveyard.
     <manacost>{W/B}</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>As an additional cost to cast Out, pay {1} or reveal a card.
-Exile target creature at the beginning of the next end step. When you do, its controller makes a 1/1 colorless Outcast creature token with deathtouch.</text>
+    <text>As an additional cost to cast Out, reveal a card.
+Exile target creature at the beginning of the next end step. When you do, its controller makes a 1/1 colorless creature token no types named "Outcast" with deathtouch.</text>
 </card>
 
 <card>
@@ -1698,7 +1697,7 @@ At the beginning of each opponent's end step, if they have cast only one spell, 
     <type>Enchantment Creature - Human Spirit</type>
 	<pt>1/4</pt>
     <tablerow>0</tablerow>
-    <text>At the beginning of each opponent's endstep, if a creature they controlled died, you may have them reveal a card from their hand. Then if their entire hand is revealed, draw a card.</text>
+    <text>At the beginning of each opponent's end step, if a creature they controlled died, you may have them reveal a card from their hand. Then if their entire hand is revealed, draw a card. (An empty hand is fully revealed.)</text>
 </card>
 
 <card>
@@ -1735,9 +1734,9 @@ When Plague Bearer dies, distribute any -1/-1 counters on it among any number of
     <type>Artifact - Equipment</type>
     <tablerow>0</tablerow>
     <text>Flash
-When Death-Defying Hookshot enters, attach it to target creature you control. It gains undying until end of turn. 
-Equipped creature gets +1/+1.
-Equip {2}.</text>
+When Death-Defying Hookshot enters, attach it to target creature you control.
+Equipped creature gets +1/+1 and has undying. 
+Equip {2}{b}</text>
 </card>
 
 <card>
@@ -1749,8 +1748,8 @@ Equip {2}.</text>
 	<pt>2/4</pt>
     <tablerow>0</tablerow>
     <text>When The Missing Fragment enters, it gains indestructible until end of turn. Then each opponent reveals their hand. Gain life equal to the number of cards revealed this way.
-Horde 4 - If you control 4 or more creatures, at the beginning of your endstep make a 1/1 white Reflection creature token.
-Horde 7 - If you control 7 or more creatures, creatures you control have vigilance and lifelink.</text>
+At the beginning of your endstep create a 1/1 white Reflection creature token.
+Horde 6 - If you control 6 or more creatures, creatures you control have vigilance and lifelink.</text>
 </card>
 
 <card>
@@ -1824,23 +1823,23 @@ At the beginning of your end step, if Afterlife Leech is an aura, place a +1/+1 
     <color>R</color>
     <manacost>RRR</manacost>
     <type>Creature - Plant Weird</type>
-	<pt>3/4</pt>
+	<pt>3/3</pt>
     <tablerow>0</tablerow>
-    <text>Haste
+    <text>Haste, Duck - Put a time counter on Fuse-burners. It deals 1 damage to each creature.
 At the beginning of each end step, put a time counter on Fuse-burners.
 Whenever Fuse-burners deals combat damage, put a +1/+1 counter on it.
 Fuse-burners gets -0/-1 for each time counter on it.</text>
 </card>
 
 <card>
-    <name>Enlisting Shadow</name>
-    <set picURL="/Enlisting Shadow.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>BR</color>
-    <manacost>BR</manacost>
-    <type>Creature - Ninja</type>
+    <name>Enlisting Trickster</name>
+    <set picURL="/Enlisting Trickster.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>R</color>
+    <manacost>2R</manacost>
+    <type>Creature - Dog</type>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
-    <text>Ninjitsu - Reveal a card, {b}{r}
+    <text>Ninjitsu - Reveal a card, {r}
 If you cast a creature during combat that was revealed for Enlisting Shadow's ninjitsu cost, you may have that creature enter tapped and attacking.</text>
 </card>
 
@@ -1863,10 +1862,10 @@ Whenever Compulsive Maniac deals combat damage, exile the top two cards of your 
     <color>R</color>
     <manacost>RR</manacost>
     <type>Creature - Wizard Imp</type>
-	<pt>1/2</pt>
+	<pt>2/2</pt>
     <tablerow>0</tablerow>
-    <text>Duck - Target creature can block 1 less creature until end of turn. Meek Saboteur gets +0/+1 until end of turn.
-Whenever you cast an instant or sorcery, you may sacrifice Meek Saboteur. If you do, it deals 1 damage to target opponent and they reveal a card.</text>
+    <text>First Strike, Duck - Target creature can block 1 less creature until end of turn. Meek Saboteur gets +0/+1 until end of turn.
+Sacrifice Meek Saboteur: It deals 1 damage to target opponent and they reveal a card.</text>
 </card>
 
 <card>
@@ -1909,11 +1908,11 @@ Islands you control have "{1}, {t}: tap target permanent."</text>
 </card>
 
 <card>
-    <name>Frozen Dragon's Eye</name>
-    <set picURL="/Frozen Dragon's Eye.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>UB</color>
-    <manacost>1{U/B}</manacost>
-    <type>Sorcery</type>
+    <name>Frozen Dragon's Gaze</name>
+    <set picURL="/Frozen Dragon's Gaze.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>U</color>
+    <manacost>1U</manacost>
+    <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Until end of turn, whenever you scry one or more, you may tap or untap that many target creatures or artifacts.
 Cycling {2}</text>
@@ -1927,7 +1926,7 @@ Cycling {2}</text>
     <type>Creature - Goblin Dwarf</type>
 	<pt>2/1</pt>
     <tablerow>0</tablerow>
-    <text>Duck - Make a treasure.
+    <text>Whenever you discard a card, make a Treasure.
 Hoarding Gobling can't attack alone.</text>
 </card>
 
@@ -1953,7 +1952,7 @@ When Mossroamer enters, you may search your library for a basic land, put it ont
     <tablerow>0</tablerow>
     <text>Bestow {2}{b}{g}
 Regrowl may bestow creatures in your graveyard back to the battlefield. If you do, enchanted creature enters with a finality counter. Then you lose life equal to its mana cost.
-Landfall - Regrowl or enchanted creature gets +1/+1 and lifelink until end of turn.</text>
+Landfall - Regrowl or enchanted creature gets +1/+1 and gains lifelink until end of turn.</text>
 </card>
 
 <card>
@@ -1996,7 +1995,7 @@ If Viss would be returned to the battlefield from the graveyard, it does so with
     <manacost>RG</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Target creature you control deals damage equal to its power to another target creature. If you control both creatures, create Treasures equal to the greater mana cost of the two.</text>
+    <text>Target creature you control fights another target creature. If you control both creatures and one dies in the fight, create Treasures equal to the mana cost of the one that didn't.</text>
 </card>
 
 <card>
@@ -2032,19 +2031,20 @@ Any player may activate Void Dweller's abilities.</text>
     <manacost>3{B/P}</manacost>
     <type>Artifact</type>
     <tablerow>0</tablerow>
-    <text>Tap a creature you control with power 3 or less: add {b}. Until end of turn, your devotion to black is considered 1 greater.
-{t}, sacrifice an artifact or creature: If your devotion to black is 10 or greater, tap all permanents target opponent controls.</text>
+    <text>Tap a creature you control with power 3 or less: add {b}.
+{t}, sacrifice an artifact or creature: Target opponent mills cards equal to the number of revealed cards in their hand.</text>
 </card>
 
 <card>
-    <name>Earned Wings</name>
-    <set picURL="/Earned Wings.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <name>Wingmate Momentum</name>
+    <set picURL="/Wingmate Momentum.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>U</color>
-    <manacost>1U</manacost>
+    <manacost>3U</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>Up to X target creatures gain flying until end of turn, where X is your devotion to blue.
-</text>
+    <text>Convoke
+You may cast this spell as though it had flash if its entire cost is paid for by convoke.
+Return any number of creatures you control to your hand. That many target creatures gain flying and get +1/+1 until end of turn.</text>
 </card>
 
 <card>
@@ -2087,21 +2087,18 @@ Target creature you control gains trample and +X/+0 until end of turn, and then 
     <manacost>B</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Target creature gets -2/-2 until end of turn. 
-Grave Horde 3 - If there are 3 or more creatures in your graveyard, target creature gets -5/-5 until end of turn instead.</text>
+    <text>Grave Horde 3 - Target creature gets -2/-2 until end of turn. If there are 3 or more creatures in your graveyard, it gets -5/-5 until end of turn instead.</text>
 </card>
 
 <card>
-    <name>Deconstructor Agent</name>
-    <set picURL="/Deconstructor Agent.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <name>Piggy-Back Deconstructor</name>
+    <set picURL="/Piggy-Back Deconstructor.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>UR</color>
     <manacost>1{U/R}</manacost>
     <type>Creature - Bird Goblin</type>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
-    <text>Duck - Tap target artifact. Deconstructor Agent gets +0/+1 until end of turn.
-Skulk (This creature cannot be blocked by creatures with greater power.)
-Whenever Deconstructor Agent deals combat damage to a player, destroy target artifact that player controls.</text>
+    <text>Duck - Until end of turn, Piggy-Back Deconstructor gets +0/+1 and whenever target creature Piggy-Back Deconstructor is ducking behind deals combat damage to a player, destroy target artifact or enchantment that player controls.</text>
 </card>
 
 <card>
@@ -2112,8 +2109,7 @@ Whenever Deconstructor Agent deals combat damage to a player, destroy target art
     <type>Legendary Creature - Human Husk</type>
 	<pt>7/7</pt>
     <tablerow>0</tablerow>
-    <text>When Aisul enters, you may sacrifice a creature you control and gain 3 life.
-Aisul gets -1/-1 for each other creature you control.
+    <text>Aisul can't be exiled and gets -1/-1 for each other creature you control.
 When Aisul attacks alone, choose one or both--
 - {r}: Aisul gains trample and gets +2/+0 until end of turn
 - {b}: Aisul gains lifelink and deathtouch until end of turn.</text>
@@ -2122,12 +2118,12 @@ When Aisul attacks alone, choose one or both--
 <card>
     <name>March the Foothills</name>
     <set picURL="/March the Foothills.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>G</color>
-    <manacost>2GG</manacost>
+    <color>UG</color>
+    <manacost>2{G/U}{G/U}</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>You may flicker target creature you control with mana cost 6 or less.
-Creatures you control get +X/+X and haste until end of turn, where X is the number of times creatures have entered the battlefield under you control this turn.</text>
+    <text>You may flicker target creature you control.
+Creatures you control get +X/+X until end of turn, where X is the number of times creatures have entered the battlefield under you control this turn.</text>
 </card>
 
 <card>
@@ -2138,7 +2134,7 @@ Creatures you control get +X/+X and haste until end of turn, where X is the numb
     <type>Creature - Dog Mercenary</type>
 	<pt>3/3</pt>
     <tablerow>0</tablerow>
-    <text>Indecisive Threat has +1/-1 if you control less creatures than the player with the most creatures. 
+    <text>Indecisive Threat gets +1/-1 as long as it's attacking a player with more creatures than you.
 When Indecisive threat dies, split the nonland permanents target opponent controls into two piles. They pick one. Destroy each permanent in the other.</text>
 </card>
 
@@ -2160,10 +2156,10 @@ When Indecisive threat dies, split the nonland permanents target opponent contro
     <color>BR</color>
     <manacost>2{B/R}</manacost>
     <type>Creature - Bird Dwarf</type>
-	<pt>3/1</pt>
+	<pt>3/2</pt>
     <tablerow>0</tablerow>
-    <text>Prowess, Duck - Unconfident Pute gets +0/+2 until end of turn. You lose 1 life.
-Unconfident Pute can't be blocked.</text>
+    <text>Prowess, Menace, Defender
+Duck - Unconfident Pute loses defender until end of turn. Untap it. Activate only once each turn.</text>
 </card>
 
 <card>
@@ -2174,7 +2170,7 @@ Unconfident Pute can't be blocked.</text>
     <type>Creature - Dinosaur Mole</type>
 	<pt>3/2</pt>
     <tablerow>0</tablerow>
-    <text>Duck - Make a colorless 0/3 Boulder artifact creature token with defender.
+    <text>Duck - Create a colorless 0/3 Boulder artifact creature token with defender.
 {t}, Sacrifice an artifact you control: add {r}.</text>
 </card>
 
@@ -2187,8 +2183,9 @@ Unconfident Pute can't be blocked.</text>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Duck - target creature Rallying Wimp is ducking behind gets +1/+0 and gains haste until end of turn.
+Whenever a creature you control with duck enters, you may pay {1} and untap Rallying Wimp.
 Creatures you control with duck have haste.
-Whenever a creature with duck enters under your control, you may pay {1} and untap Rallying Wimp.</text>
+</text>
 </card>
 
 <card>
@@ -2198,20 +2195,19 @@ Whenever a creature with duck enters under your control, you may pay {1} and unt
     <manacost>RG</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>Mirthful Stomping deals 3 damage to up to 2 target creatures your opponents control.
-Horde 4 - Mirthful Stomping deals 3 damage to up to 4 target creatures your opponents control instead.</text>
+    <text>Horde 4 - Mirthful Stomping deals 3 damage to up to 2 target creatures your opponents control. If you control 4 or more creatures, it deals 3 damage to up to 4 target creatures your opponents control instead.</text>
 </card>
 
 <card>
     <name>Scatterbomb</name>
     <set picURL="/Scatterbomb.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WBG</color>
-    <manacost>X{W/B}G</manacost>
+    <color>WG</color>
+    <manacost>XWG</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
     <text>Convoke
-Make X 1/1 green Rabbit Spider creature tokens with "Duck - target creature this is ducking behind gets +1/+0 until end of turn."
-For each two creatures that convoked this spell, put a +1/+1 counter on target creature you control. </text>
+Create X 1/1 green and white Rabbit Citizen creature tokens.
+For each two creatures that convoked this spell, put a +1/+1 counter on target creature you control.</text>
 </card>
 
 <card>
@@ -2235,7 +2231,7 @@ Flash, Menace</text>
     <type>Creature - Whale Advisor</type>
 	<pt>2/3</pt>
     <tablerow>0</tablerow>
-    <text>Therapy Whale costs {1} less for each card in you target opponent's hand.
+    <text>Therapy Whale costs {1} less for each card in target opponent's hand.
 Flying
 When Therapy Whale enters, scry 1 and draw a card. You may exile target instant or sorcery from your graveyard. If you do, copy it and cast the copy.</text>
 </card>
@@ -2329,10 +2325,10 @@ When Composted Farmer enters, you may play an additional land until end of turn 
     <color>UG</color>
     <manacost>2UG</manacost>
     <type>Creature - Human Cleric</type>
-	<pt>3/3</pt>
+	<pt>2/4</pt>
     <tablerow>0</tablerow>
-    <text>When Wide-Stance Visionary enters, scry 1 or tap target creature.
-Whenever a creature ducks behind this one, both get +1/+1 until end of turn. This creature can block an additional creature until end of turn.</text>
+    <text>When Wide-Stance Visionary enters or a creature ducks behind it, scry 1.
+Whenever you scry one or more, Wide-Stance Visionary can block that many more creatures until end of turn.</text>
 </card>
 
 <card>
@@ -2368,7 +2364,7 @@ Search your library for a land that can produce mana of the chosen color and put
 	<pt>3/4</pt>
     <tablerow>0</tablerow>
     <text>Reach, Vigilance
-{1}: put a +1/+1 counter on Overgenerous Symbiote and draw a card. Any player may activate this ability and it costs {1} more to cast for each counter on this creature.</text>
+{1}: put a +1/+1 counter on Overgenerous Symbiote and draw a card. Any player may activate this ability and it costs {1} more to cast for each counter on it.</text>
 </card>
 
 <card>
@@ -2380,7 +2376,7 @@ Search your library for a land that can produce mana of the chosen color and put
 	<pt>4/4</pt>
     <tablerow>0</tablerow>
     <text>Haste, Trample
-Horde 3 - Unconfident War Elephant can't block unless you control 3 or more creatures or a creature has ducked behind it this turn.</text>
+Unconfident War Elephant can't attack unless a creature has ducked behind it this turn.</text>
 </card>
 
 <card>
@@ -2411,18 +2407,19 @@ Enchanted creature gets +1/+1.</text>
 <card>
     <name>Reoccuring Bullying</name>
     <set picURL="/Reoccuring Bullying.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color></color>
-    <manacost>2</manacost>
+    <color>W</color>
+    <manacost>W</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Target creature gains indestructible until end of turn. Untap it. If it has duck, make a colorless artifact token named "Dung" with, "{t}, sacrifice this artifact. Target creature can't attack this turn."</text>
+    <text>Target creature gains indestructible until end of turn. If it's tapped, make a colorless artifact token named "Dung" with, "{t}, sacrifice this artifact. Target creature can't attack this turn." 
+Untap that creature.</text>
 </card>
 
 <card>
     <name>Turn Brave</name>
     <set picURL="/Turn Brave.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color></color>
-    <manacost>2</manacost>
+    <color>WR</color>
+    <manacost>{R/W}</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Target creature gets +2/+2 and haste until end of turn. If it has duck, untap it and put a trample counter on it.</text>
@@ -2431,11 +2428,11 @@ Enchanted creature gets +1/+1.</text>
 <card>
     <name>Dweeb Detector</name>
     <set picURL="/Dweeb Detector.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color></color>
-    <manacost>2</manacost>
+    <color>BR</color>
+    <manacost>{R/B}</manacost>
     <type>Artifact</type>
     <tablerow>0</tablerow>
-    <text>{5}, {t}, sacrifice Dweeb Detector: destroy target tapped creature. This ability costs {2} less to activate if it targets a creature with duck.</text>
+    <text>{5}, {t}, sacrifice Dweeb Detector: it deals 6 damage to target tapped creature. This ability costs {2} less to activate if it targets a creature with duck.</text>
 </card>
 
 <card>
@@ -2482,7 +2479,7 @@ Whenever a creature ducks behind Olfactory Disrupter choose 1--
     <type>Creature - Goblin Mercenary</type>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
-    <text>When Up-Front Mercenary enters, choose any number--
+    <text>When Up-Front Mercenary enters, choose one or more--
 - {r}: Reveal any number of unrevealed cards from your hand. Up-Front Mercenary deals that much damage to target creature. 
 - {b}: Target opponent mills cards equal to the number of unrevealed cards in your hand.</text>
 </card>
@@ -2582,12 +2579,13 @@ Landfall - you may cast target creature or enchantment from your graveyard until
 <card>
     <name>Brutal Honesty</name>
     <set picURL="/Brutal Honesty.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WU</color>
-    <manacost>3{W/U}{W/U}{W/U}</manacost>
+    <color>W</color>
+    <manacost>2WW</manacost>
     <type>Enchantment</type>
     <tablerow>0</tablerow>
     <text>Ward {2}
-All cards target player controls have Transparent.</text>
+When Brutal Honesty enters, choose opponents or self.
+All cards players of the chosen type control or have in their hand have Transparent.</text>
 </card>
 
 <card>
@@ -2609,20 +2607,20 @@ Destroy target creature unless its controller pays {4}.</text>
     <type>Instant </type>
     <tablerow>0</tablerow>
     <text>Transparent 
-Direct Bolt deals 3 damage to any target. If its controller pays {3}, it does 1 damage instead.</text>
+Direct Bolt deals 3 damage to any target. If its controller pays {3}, it does 2 damage instead.</text>
 </card>
 
 <card>
     <name>Mirru, One With Her Army</name>
     <set picURL="/Mirru, One With Her Army.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>WRG</color>
-    <manacost>2W{R/G}</manacost>
+    <manacost>1W{R/G}</manacost>
     <type>Legendary Creature - Rabbit Monk</type>
-	<pt>2/3</pt>
+	<pt>*/*</pt>
     <tablerow>0</tablerow>
     <text>Mirru's power and toughness are each equal to the number of creatures you control.
 Horde 3 - Whenever a creature enters under your control, if you control 3 or more creatures, tap or untap target creature.
-Horde 6 - If you control 6 or more creatures, creatures you control get +1/+1 and have haste.</text>
+Horde 5 - If you control 5 or more creatures, creatures you control get +1/+1 and have haste.</text>
 </card>
 
 <card>
@@ -2632,7 +2630,9 @@ Horde 6 - If you control 6 or more creatures, creatures you control get +1/+1 an
     <manacost>3{G/U}</manacost>
     <type>Enchantment</type>
     <tablerow>0</tablerow>
-    <text>Cards you control have Transparent. The first time you reveal a card each turn, draw a card.</text>
+    <text>Cards you control have Transparent. 
+Spells you control cost {1} less to cast.
+The second time you reveal a card each turn, draw a card.</text>
 </card>
 
 <card>
@@ -2723,7 +2723,7 @@ Whenever Spirit Circle or another enchantment you control leaves the battlefield
     <type>Artifact</type>
     <tablerow>0</tablerow>
     <text>When Truth Crystal enters, target opponent reveals target card in their hand and shows you the top card of their library. 
-The first time an opponent reveals a card to you from their hand or library (including any mill or exile effects) on each of their turns, you gain 1 life and they lose 1 life. </text>
+The first time an opponent reveals a card to you from their hand on each of their turns, you gain 1 life and they lose 1 life. </text>
 </card>
 
 <card>
@@ -2746,7 +2746,7 @@ Cycling {1}{b}</text>
     <type>Creature - Goblin</type>
 	<pt>2/1</pt>
     <tablerow>0</tablerow>
-    <text>Sacrifice a creature you control with power greater than Goblidant: Goblidant deals 1 damage to any target. Put a +1/+1 counter on it.</text>
+    <text>Sacrifice a creature you control with power greater than Goblidant's: Goblidant deals 1 damage to any target. Put a +1/+1 counter on it.</text>
 </card>
 
 <card>
@@ -2757,7 +2757,7 @@ Cycling {1}{b}</text>
     <type>Artifact</type>
     <tablerow>0</tablerow>
     <text>Creatures can duck behind Reharvest Engine as though it had 4 toughness.
-The first time a creature ducks behind Reharvest Engine, you may search your graveyard for a land and put it onto the battlefield tapped.
+Whenever a creature ducks behind Reharvest Engine and it's untapped, tap it. You may search your graveyard for a land and put it onto the battlefield tapped.
 Sacrifice Reharvest Engine: Draw a card.</text>
 </card>
 
@@ -2787,15 +2787,14 @@ Horde 3 - If you control 3 or more creatures, counter target spell instead. Then
 <card>
     <name>It That Arrives</name>
     <set picURL="/It That Arrives.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WB</color>
-    <manacost>7{W/P}{B/P}</manacost>
+    <color>BG</color>
+    <manacost>7{B/G}{B/G}</manacost>
     <type>Legendary Creature - Elemental Spirit</type>
 	<pt>6/6</pt>
     <tablerow>0</tablerow>
-    <text>Transparent, Annihilator 1
-When It That Arrives enters, you may have target opponent sacrifice target creature they control. 
-Exile a card from your graveyard: Scry 1.
-Transparent creatures you control get +1/+1 and have trample.</text>
+    <text>Transparent
+When It That Arrives enters, destroy all other creatures and enchantments.
+Transparent creatures you control get +1/+1 and have trample and deathtouch.</text>
 </card>
 
 <card>
@@ -2842,7 +2841,7 @@ When this card enters face up or is turned face up, destroy target creature with
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Duck - Populate and put a +1/+1 counter on Whitehair Hare.
-When Whitehair Hare enters, put a 2/2 white Rabbit creature token on the battlefield.</text>
+When Whitehair Hare enters, put a 1/1 green and white Rabbit Citizen creature token on the battlefield.</text>
 </card>
 
 <card>
@@ -2881,21 +2880,20 @@ Whenever a creature ducks behind Cheer Cedar, target creature you control gets +
 <card>
     <name>Rearming Station</name>
     <set picURL="/Rearming Station.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color></color>
-    <manacost>4</manacost>
+    <color>W</color>
+    <manacost>1{2/W}</manacost>
     <type>Artifact</type>
     <tablerow>0</tablerow>
-    <text>Rearming Station enters with 2 charge counters on it.
-Creatures you control may duck behind Rearming Station as though it has toughness 4.
-Whenever a creature you control ducks behind Rearming Station, you may remove a charge counter from it. If you do, put a +1/+1 counter on that creature.
-{t}: Put a charge counter on Rearming station.</text>
+    <text>{t}: Add {c}.
+{t}: Put a +1/+1 counter on target creature ducking behind Rearming Station.
+Creatures you control may duck behind Rearming Station as though it has toughness 4.</text>
 </card>
 
 <card>
     <name>Hazardous Ballista</name>
     <set picURL="/Hazardous Ballista.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color></color>
-    <manacost>2</manacost>
+    <color>W</color>
+    <manacost>2{2/W}</manacost>
     <type>Artifact</type>
     <tablerow>0</tablerow>
     <text>Creatures you control may duck behind Hazardous Ballista as though it has toughness 4.
@@ -2905,24 +2903,24 @@ Whenever a creature you control ducks behind Hazardous Ballista, Hazardous Balli
 <card>
     <name>Good Parenting</name>
     <set picURL="/Good Parenting.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WUG</color>
-    <manacost>5{W/U}{G/U}</manacost>
+    <color>WU</color>
+    <manacost>5{W/U}{W/U}</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Good Parenting costs {1} less to cast for each card in your hand you've revealed or Transparent permanent you control.
+    <text>Good Parenting costs {1} less to cast for each revealed card in your hand or Transparent permanent you control.
 Choose 1--
 - Distribute 4 +1/+1 counters on creatures you control.
 - Draw 3 cards.</text>
 </card>
 
 <card>
-    <name>Open Conversation</name>
-    <set picURL="/Open Conversation.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WB</color>
-    <manacost>5{W/B}{W/B}</manacost>
+    <name>End the Lies</name>
+    <set picURL="/End the Lies.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>RG</color>
+    <manacost>5{R/G}{R/G}</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>Open Conversation costs {1} less to cast for each card in your hand you've revealed or Transparent permanent you control.
+    <text>End the Lies costs {1} less to cast for each card in your hand you've revealed or Transparent permanent you control.
 Each opponent discards their entire hand and loses life equal to the number of cards discarded this way.</text>
 </card>
 
@@ -2944,9 +2942,9 @@ Each opponent discards their entire hand and loses life equal to the number of c
     <type>Land Creature - Plant</type>
 	<pt>0/6</pt>
     <tablerow>0</tablerow>
-    <text>Defender
-Whenever a creature ducks behind Wounded Tree, you gain 1 life. Until end of turn, that creature has hexproof and damage that would be dealt to that it is dealt to Wounded Tree instead.
-{t}: Add {g} for each Transparent card in your graveyard.</text>
+    <text>Defender, Transparent
+{t}: Add {g} for each Transparent permanent in your graveyard.
+Whenever a creature ducks behind Wounded Tree, you gain 1 life. Until end of turn, that creature has hexproof and damage that would be dealt to that it is dealt to Wounded Tree instead.</text>
 </card>
 
 <card>
@@ -2954,12 +2952,11 @@ Whenever a creature ducks behind Wounded Tree, you gain 1 life. Until end of tur
     <set picURL="/Field Beast.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>G</color>
     <manacost>6GG</manacost>
-    <type>Creature - Plant Beast</type>
+    <type>Land Creature - Plant Beast</type>
 	<pt>8/8</pt>
     <tablerow>0</tablerow>
-    <text>Trample
+    <text>Trample, Transparent
 Field Beast cannot be destroyed by effects that say "destroy".
-Horde 4 - If you control 4 or more creatures, creatures you control get +1/+1 and have trample. 
 {1}{g}, Discard Field Beast from your hand: search your library for up to one basic land and put it into your hand. Target creature you control gets trample until end of turn.</text>
 </card>
 
@@ -2973,7 +2970,7 @@ Horde 4 - If you control 4 or more creatures, creatures you control get +1/+1 an
     <tablerow>0</tablerow>
     <text>Transparent
 When Verified Source enters, scry 1, then draw a card.
-Cycling {1}</text>
+Cycling {u}</text>
 </card>
 
 <card>
@@ -3058,13 +3055,12 @@ When Newborn Nid enters, you gain 1 life.</text>
 <card>
     <name>The Moment</name>
     <set picURL="/The Moment.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WU</color>
-    <manacost>2WU</manacost>
+    <color>UR</color>
+    <manacost>2{U/R}{U/R}</manacost>
     <type>Enchantment Creature - Elemental Construct</type>
 	<pt>5/2</pt>
     <tablerow>0</tablerow>
-    <text>Indestructible 
-As long as the number of cards in your hand is 2 or 4, The Moment is a creature and loses indestructible and spells you control cost {1} less to cast.
+    <text>As long as the number of cards in your hand is 2 or 4, The Moment is a creature and spells you control cost {1} less to cast.
 Whenever you cast your second spell each turn, draw a card.</text>
 </card>
 
@@ -3088,15 +3084,15 @@ Whenever you cast your second spell each turn, draw a card.</text>
     <type>Creature - Frog</type>
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
-    <text>Pop-up {1}{r/g}
+    <text>Pop-up {r/g}, Transparent
 Crazed Hopper must attack each combat if able.</text>
 </card>
 
 <card>
     <name>Queen's Command</name>
     <set picURL="/Queen's Command.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WBR</color>
-    <manacost>2{W/P}{R/P}B</manacost>
+    <color>UB</color>
+    <manacost>2BU</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Gain control of target creature until the beginning of your next endstep. It gains haste and flying until end of turn. Untap it.</text>
@@ -3186,8 +3182,8 @@ Sacrifice this creature: counter target spell with mana cost less than or equal 
 <card>
     <name>Infectious Mutagen</name>
     <set picURL="/Infectious Mutagen.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WG</color>
-    <manacost>{G/W}{G/W}</manacost>
+    <color>UG</color>
+    <manacost>{G/U}{G/U}</manacost>
     <type>Creature - Frog Fungus</type>
 	<pt>2/1</pt>
     <tablerow>0</tablerow>
@@ -3255,7 +3251,7 @@ Horde 4 - if you control 4 or more creatures, Chest-Jutting Guard gets +1/+1.</t
     <tablerow>0</tablerow>
     <text>Reach
 Duck - prevent all combat damage that would be dealt to target creature Bravening Crab is ducking behind this turn. Put a +1/+1 counter on this creature.
-{3}{u}: Bravening Crab gains trample and hexproof until end of turn. </text>
+{3}{u}: Bravening Crab gains trample and hexproof until end of turn.</text>
 </card>
 
 <card>
@@ -3324,7 +3320,7 @@ At the beginning of your upkeep, Slow-Moving Projectile deals 2 damage to target
 	<pt>8/8</pt>
     <tablerow>0</tablerow>
     <text>When Spirit of Growth enters or dies, draw a card.
-Whenever an ability of a creature you control targets Spirit of Growth, put a +1/+1 counter on that creature.
+Whenever an ability of a creature you control targets Spirit of Growth, put a +1/+1 counter on target creature.
 {4}{g}{g}: Untap all creatures you control.</text>
 </card>
 
@@ -3349,7 +3345,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
     <tablerow>0</tablerow>
     <text>Forest of Eternal Autumn enters tapped unless you return a land you control to your hand.
 {t}: Add {r} or {g}.
-{2}{r/g}, {t}: Make a 1/1 red and green Goat creature token with haste.</text>
+{2}{r/g}, {t}: Create a 1/1 red and green Raccoon creature token with haste.</text>
 </card>
 
 <card>
@@ -3361,7 +3357,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
     <tablerow>0</tablerow>
     <text>Cloud Ruins enters tapped unless you return a land you control to your hand.
 {t}: Add {w} or {r}.
-{3}{w/r}, {t}: Make a 0/3 colorless Boulder artifact creature token with defender.</text>
+{3}{w/r}, {t}: Create a 0/3 colorless Boulder artifact creature token with defender.</text>
 </card>
 
 <card>
@@ -3385,7 +3381,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
     <tablerow>0</tablerow>
     <text>Rabbit Family Farm enters tapped unless you return a land you control to your hand.
 {t}: Add {w} or {g}.
-{2}{w/g}: Make a 1/1 white and green Rabbit Citizen creature token.</text>
+{2}{w/g}: Create a 1/1 white and green Rabbit Citizen creature token.</text>
 </card>
 
 <card>
@@ -3397,7 +3393,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
     <tablerow>0</tablerow>
     <text>Boiling Labworks enters tapped unless you return a land you control to your hand.
 {t}: Add {u} or {r}.
-{1}{u/r}, {t}: Target creature you control gains prowess until end of turn. Boiling Labworks deals 1 damage to you.</text>
+{2}{u/r}, {t}: Target creature you control gains prowess until end of turn. Boiling Labworks deals 1 damage to you.</text>
 </card>
 
 <card>
@@ -3409,7 +3405,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
     <tablerow>0</tablerow>
     <text>Icarus' Resting Place enters tapped unless you return a land you control to your hand.
 {t}: Add {b} or {w}.
-{1}{w/b}, {t}, exile 2 cards from your graveyard: Create a 1/1 white and black Skeleton creature token with deathtouch.</text>
+{t}, exile 2 cards from your graveyard: Tap target creature.</text>
 </card>
 
 <card>
@@ -3445,7 +3441,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
     <tablerow>0</tablerow>
     <text>Ancient Tidepools enters tapped unless you return a land you control to your hand.
 {t}: Add {u} or {b}.
-{3}{u/b}, {t}: Make a 1/1 blue and black Trilobite creature token with, "When this creature dies, target opponent mills 2 cards."</text>
+{3}{u/b}, {t}: Unreveal target card in your hand. Draw a card, then put one onto the bottom of your library.</text>
 </card>
 
 <card>
@@ -3482,19 +3478,19 @@ Whenever a spell or ability would have you reveal one or more cards, untap Forge
 	<pt>2/3</pt>
     <tablerow>0</tablerow>
     <text>Ward {1}
-Whenever a creature ducks behind this creature, it becomes a copy of that creature until end of turn except it has this ability and ward {1}.</text>
+Whenever a creature ducks behind Assimilamorph, it becomes a copy of that creature until end of turn except it has this ability and ward {1}.</text>
 </card>
 
 <card>
     <name>Nate and Tate</name>
     <set picURL="/Nate and Tate.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>WUB</color>
-    <manacost>W{U/B}</manacost>
+    <color>UB</color>
+    <manacost>2{U/B}</manacost>
     <type>Creature - Hydra Duck Citizen</type>
 	<pt>1/1</pt>
     <tablerow>0</tablerow>
     <text>Duck - Scry 2.
-When Nate and Tate dies, make two 1/1 white Duck citizens with, "Duck - Scry 1."</text>
+When Nate and Tate dies, make two 1/1 blue Duck citizen tokens with, "Duck - Scry 1."</text>
 </card>
 
 <card>
@@ -3515,7 +3511,7 @@ When Nate and Tate dies, make two 1/1 white Duck citizens with, "Duck - Scry 1."
     <type>Creature - Fungus</type>
 	<pt>3/2</pt>
     <tablerow>0</tablerow>
-    <text>Duck - Create a 0/1 green Plant creature token or put a +1/+1 counter on target Plant or Fungus you control.
+    <text>Duck - Create a 0/1 green Plant enchantment creature token or put a +1/+1 counter on target Plant or Fungus you control.
 Twin-Stalk Spore may duck behind two creatures simultaneously.</text>
 </card>
 
@@ -3528,7 +3524,7 @@ Twin-Stalk Spore may duck behind two creatures simultaneously.</text>
 	<pt>1/5</pt>
     <tablerow>0</tablerow>
     <text>Defender
-When Surprisingly Effective Fort dies, tap target creature.</text>
+When Collapsing Fortress dies, tap target creature.</text>
 </card>
 
 <card>
@@ -3550,7 +3546,7 @@ The first instant or sorcery you cast each turn has Rivalstorm. (Make a copy of 
     <color>BR</color>
     <manacost>4BR</manacost>
     <type>Creature - Dragon Fort</type>
-	<pt>7/5</pt>
+	<pt>6/5</pt>
     <tablerow>0</tablerow>
     <text>Trample
 Whenever a creature ducks behind Cache Dragon, you may pay {b/r} and create a Treasure.
@@ -3596,9 +3592,10 @@ If Triumphant Shout was kicked, that creature gets +3/+0 instead of +2/+0.</text
     <color>UR</color>
     <manacost>1{U/R}</manacost>
     <type>Creature - Bird</type>
-	<pt>2/2</pt>
+	<pt>1/2</pt>
     <tablerow>0</tablerow>
-    <text>Reveal an unrevealed card from your hand: untap Cocky Rooster. It gets +1/+0 until end of turn.</text>
+    <text>First Strike
+Reveal an unrevealed card from your hand: untap Cocky Rooster. It gets +1/+0 until end of turn.</text>
 </card>
 
 <card>
@@ -3618,7 +3615,7 @@ If Triumphant Shout was kicked, that creature gets +3/+0 instead of +2/+0.</text
     <set picURL="/Hall of Chimes.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color></color>
     <manacost></manacost>
-    <type>Artifact Land</type>
+    <type>Enchantment Land</type>
     <tablerow>0</tablerow>
     <text>{t}: Add {c}.
 {t}, tap a creature you control: Add one mana of any color.</text>
@@ -3645,7 +3642,7 @@ Duck - target creature Extentoad is ducking behind gains reach and +1/+1 until e
     <tablerow>0</tablerow>
     <text>Affinity for creatures with duck
 Prevent all damage that would be dealt to creatures you control this turn.
-Make 3 1/1 green and white Alpaca creature tokens with "Duck - gain 1 life."</text>
+Make three 1/1 green and white Alpaca creature tokens with "Duck - gain 1 life."</text>
 </card>
 
 <card>
@@ -3691,8 +3688,8 @@ As long as your life total is 5 or more above your starting life total, creature
     <type>Artifact</type>
     <tablerow>0</tablerow>
     <text>Exploit
-When Darkest Heart exploits a creature, target opponent discards a card.
-{1}{b}, sacrifice Darkest Heart: destroy target creature or planeswalker with mana cost less than or equal to your devotion to black.</text>
+When Darkest Heart exploits a creature, put charge counters on it equal to that creature's power. Then target opponent discards a card.
+{1}{b}, sacrifice Darkest Heart: destroy target creature with power less than or equal to the number of charge counters on Darkest Heart.</text>
 </card>
 
 <card>
@@ -3757,13 +3754,25 @@ Flying</text>
 </card>
 
 <card>
+    <name>Avus Father</name>
+    <set picURL="/Avus Father.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>W</color>
+    <manacost>3W</manacost>
+    <type>Creature - Cleric</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>If you control three or more enchantments, Avus Father has ward {1}.
+Enchantment spells you cast cost {1} less to cast. </text>
+</card>
+
+<card>
     <name>Precocious Bolt</name>
     <set picURL="/Precocious Bolt.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>R</color>
     <manacost>1R</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>You may reveal Precocious Bolt as you draw it. If you do, it deals 1 damage to target player and 1 damage to target creature they control. Then it deals 1 damage to you.
+    <text>Reveal Precocious Bolt from your hand: It deals 1 damage to you and target player and 1 damage to target creature they control.
 Precocious Bolt deals 1 damage to target player and 1 damage to target creature they control.</text>
 </card>
 
@@ -3836,7 +3845,8 @@ Draw a card. If a creature you controlled died this turn, draw two cards instead
     <manacost>{B/R}</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Deal 3 damage to target creature with base toughness 3 or less.</text>
+    <text>Pop-up - Pay 1 life.
+Deal 2 damage to target creature with base toughness 2 or less.</text>
 </card>
 
 <card>
@@ -3878,8 +3888,8 @@ Whenever a spell or ability you don't control deals damage to Fearful Megafauna,
 <card>
     <name>Quad-Palm Jerry</name>
     <set picURL="/Quad-Palm Jerry.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>B</color>
-    <manacost>4BB</manacost>
+    <color>WB</color>
+    <manacost>4{W/B}{W/B}</manacost>
     <type>Creature - Cyclops</type>
 	<pt>5/5</pt>
     <tablerow>0</tablerow>
@@ -4023,12 +4033,13 @@ Deathtouch, Lifelink</text>
     <color>RG</color>
     <manacost>RRGG</manacost>
     <type>Legendary Creature - Elemental Horror</type>
-	<pt>4/4</pt>
+	<pt>1/1</pt>
     <tablerow>0</tablerow>
-    <text>Transparent
+    <text>Transparent, Trample
 The Raze can't be countered.
+When The Raze enters, each player discards their hand, draws 3 cards, and reveals them.
 Players can't gain life.
-Whenever The Raze attacks, you may pay {r}{r}. It deals 1 damage to all creatures; prevent the damage to yours if you paid.</text>
+The Raze gets +1/+1 for each revealed card in all players' hands and other Transparent permanents on the battlefield.</text>
 </card>
 
 <card>
@@ -4048,9 +4059,10 @@ Rivalstorm (Copy this spell for each spell an opponent cast this turn.)</text>
     <color>WG</color>
     <manacost>2{G/W}</manacost>
     <type>Artifact Creature - Insect Wall</type>
-	<pt>0/2</pt>
+	<pt>1/2</pt>
     <tablerow>0</tablerow>
-    <text>Whenever Crumblemite Barrier blocks, put a -1/-1 counter on it. Create a 0/1 colorless Insect artifact creature token with, "This creature gets +2/+0 as long as it's blocking."</text>
+    <text>Lifelink
+Whenever Crumblemite Barrier blocks, put a -1/-1 counter on it. Create a 0/1 colorless Boulder Insect artifact creature token with, "This creature gets +1/+1 as long as it's blocking."</text>
 </card>
 
 <card>
@@ -4062,7 +4074,7 @@ Rivalstorm (Copy this spell for each spell an opponent cast this turn.)</text>
 	<pt>1/2</pt>
     <tablerow>0</tablerow>
     <text>Ward - {1}, Reveal a card
-At the beginning of your endstep, if an opponent has not cast a spell this turn, make a 1/1 blue and white Bird creature token with flying. </text>
+At the beginning of your endstep, if an opponent has not cast a spell this turn, create a 1/1 blue and white Bird creature token with flying. </text>
 </card>
 
 <card>
@@ -4098,6 +4110,109 @@ When Prompting Emu enters, return target nonland permanent to its owner's hand. 
     <tablerow>0</tablerow>
     <text>Make a token that's a copy of target creature you control.
 Flashback {3}{u}{u}</text>
+</card>
+
+<card>
+    <name>Lonkru, Self-Coronated</name>
+    <set picURL="/Lonkru, Self-Coronated.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>B</color>
+    <manacost>2B</manacost>
+    <type>Legendary Creature - Dwarf</type>
+	<pt>1/2</pt>
+    <tablerow>0</tablerow>
+    <text>Bow Down - Whenever Lonkru attacks alone, tap X untapped creatures you control. He gets +X/+X until end of turn.
+At the beginning of your upkeep, pay {2}{b}. If you don't, creatures other than Lonkru you control don't untap in that upkeep.
+Sacrifice two creatures: Lonkru gains double strike until end of turn.
+</text>
+</card>
+
+<card>
+    <name>Prized Secret</name>
+    <set picURL="/Prized Secret.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>U</color>
+    <manacost>2U</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>When Lip-Zipped enters, search your library for a card and exile it face down. Suspend it with 3 time counters on it.
+If you lost 5 or more life this turn, the exiled card loses suspend and any counters on it. Sacrifice Lip-Zipped.</text>
+</card>
+
+<card>
+    <name>Sudden Sprouting</name>
+    <set picURL="/Sudden Sprouting.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>G</color>
+    <manacost>XGG</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Pop-up {X}{g/w}
+When Sudden Sprouting enters, make X 0/1 green Plant enchantment creature tokens.
+Sacrifice Sudden Sprouting and X other enchantments: you gain X life.</text>
+</card>
+
+<card>
+    <name>Evacugator</name>
+    <set picURL="/Evacugator.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>U</color>
+    <manacost>3U</manacost>
+    <type>Creature - Reptile Citizen</type>
+	<pt>2/4</pt>
+    <tablerow>0</tablerow>
+    <text>When Evacugator enters and whenever a creature ducks behind it, return another target creature you control to its owner's hand.
+If an effect or ability would cause Evacugator to leave the battlefield, put a +1/+1 counter on target creature you control.</text>
+</card>
+
+<card>
+    <name>Manaformer</name>
+    <set picURL="/Manaformer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>UR</color>
+    <manacost>3UR</manacost>
+    <type>Artifcat</type>
+    <tablerow>0</tablerow>
+    <text>Whenever you cast an instant or sorcery spell, you may exile a instant or sorcery from your graveyard. If you do, creature a 1/1 blue and red Weird enchantment creature token.</text>
+</card>
+
+<card>
+    <name>Mental Lockdown</name>
+    <set picURL="/Mental Lockdown.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>WU</color>
+    <manacost>3UW</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Opponents can only cast spells they've revealed.
+At the beginning of each opponents' upkeep, they may reveal a card.</text>
+</card>
+
+<card>
+    <name>Trigger Word</name>
+    <set picURL="/Trigger Word.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>U</color>
+    <manacost>3U</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Trigger word enters with any number of charge counters on it.
+Target opponent reveals a card. Then pick a revealed card from their hand and exile it.
+Whenever you cast a spell with mana value equal to the number of charge counters on Trigger Word, the exiled spell's owner casts a copy of it and you add {u}.
+{8}: Sacrifice Trigger Word. Any player may activate this ability.</text>
+</card>
+
+<card>
+    <name>Exaggerate Effect</name>
+    <set picURL="/Exaggerate Effect.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>UR</color>
+    <manacost>3UR</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Counter target spell. Then make two copies of it. You may choose new targets for the them.</text>
+</card>
+
+<card>
+    <name>Stand Strong</name>
+    <set picURL="/Stand Strong.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>W</color>
+    <manacost>W</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Target creature you control gets vigilance, and protection from a color of your choice or colorless until end of turn.</text>
 </card>
 
 </cards>
