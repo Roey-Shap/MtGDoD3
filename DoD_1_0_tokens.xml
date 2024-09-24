@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_carddatabase version="3">
-<cards>
-<!-- 
-<card>
-    <name></name>
-    <set picURL=""></set>
-    <color></color>
-    <manacost></manacost>
-    <type>Token Creature - </type>
-    <pt>/</pt>
-    <tablerow>1</tablerow>
-    <text></text>
-    <token>1</token>
-</card>
-    -->
-
+<?xml version="DoD" encoding="UTF-8"?>
+    <cockatrice_carddatabase version="3">
+    <cards>
+    <!-- 
+    <card>
+        <name></name>
+        <set picURL=""></set>
+        <color></color>
+        <manacost></manacost>
+        <type>Token Creature - </type>
+        <pt>/</pt>
+        <tablerow>1</tablerow>
+        <text></text>
+        <token>1</token>
+    </card>
+        -->
+    
 <card>
     <name>Plant</name>
-    <set picURL="/Plant.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Plant.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost></manacost>
     <type>Token Enchantment Creature - Plant </type>
@@ -31,7 +31,7 @@
 
 <card>
     <name>Goat</name>
-    <set picURL="/Goat.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Goat.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost></manacost>
     <type>Token Creature - Goat</type>
@@ -44,7 +44,7 @@
 
 <card>
     <name>Spirit</name>
-    <set picURL="/Spirit.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Spirit.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost></manacost>
     <type>Token Creature - Spirit</type>
@@ -56,7 +56,7 @@
 
 <card>
     <name>Boulder</name>
-    <set picURL="/Boulder.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Boulder.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Token Artifact Creature - Boulder</type>
@@ -71,7 +71,7 @@
 
 <card>
     <name>Rabbit Citizen</name>
-    <set picURL="/Rabbit Citizen.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Rabbit Citizen.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost></manacost>
     <type>Token Creature - Rabbit</type>
@@ -85,7 +85,7 @@
 
 <card>
     <name>Ooze</name>
-    <set picURL="/Ooze.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ooze.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost></manacost>
     <type>Token Creature - Ooze</type>
@@ -97,7 +97,7 @@
 
 <card>
     <name>Outcast</name>
-    <set picURL="/Outcast.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Outcast.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Token Creature - [NO TYPE]</type>
@@ -109,7 +109,7 @@
 
 <card>
     <name>Reflection</name>
-    <set picURL="/Reflection.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Reflection.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost></manacost>
     <type>Token Creature - Reflection</type>
@@ -121,7 +121,7 @@
 
 <card>
     <name>Raccoon</name>
-    <set picURL="/Raccoon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Raccoon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost></manacost>
     <type>Token Creature - Raccoon</type>
@@ -133,7 +133,7 @@
 
 <card>
     <name>Dung</name>
-    <set picURL="/Dung.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Dung.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Token Artifact</type>
@@ -144,7 +144,7 @@
 
 <card>
     <name>Bird</name>
-    <set picURL="/Bird.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Bird.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost></manacost>
     <type>Token Creature - Bird</type>
@@ -157,7 +157,7 @@
 
 <card>
     <name>Treasure</name>
-    <set picURL="/Treasure.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Treasure.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Token Artifact</type>
@@ -174,7 +174,7 @@
 
 <card>
     <name>Duck Citizen</name>
-    <set picURL="/Duck Citizen.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Duck Citizen.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost></manacost>
     <type>Token Creature - Duck</type>
@@ -186,7 +186,7 @@
 
 <card>
     <name>Food</name>
-    <set picURL="/Food.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Food.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Token Artifact - Food</type>
@@ -198,7 +198,7 @@
 
 <card>
     <name>Alpaca</name>
-    <set picURL="/Alpaca.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Alpaca.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost></manacost>
     <type>Token Creature - Alpaca</type>
@@ -211,7 +211,7 @@
 
 <card>
     <name>Crumblemite</name>
-    <set picURL="/Crumblemite.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Crumblemite.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Token Artifact Creature - Boulder Insect</type>
@@ -223,7 +223,7 @@
 
 <card>
     <name>Dragon</name>
-    <set picURL="/Dragon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Dragon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost></manacost>
     <type>Token Creature - Dragon</type>
@@ -235,7 +235,7 @@
 
 <card>
     <name>Weird</name>
-    <set picURL="/Weird.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Weird.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost></manacost>
     <type>Token Enchantment Creature - Weird</type>
@@ -245,5 +245,6 @@
     <reverse-related>Manaformer</reverse-related>
 </card>
 
-</cards>
-</cockatrice_carddatabase>
+    </cards>
+    </cockatrice_carddatabase>
+    

@@ -27,7 +27,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Sneaking Dile.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Sneaking Dile.jpg"
                         }
     },
     {
@@ -35,7 +35,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Secret Wrangler.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Secret Wrangler.jpg"
                         }
     },
     {
@@ -43,7 +43,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Ambitious Contortionist.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Ambitious Contortionist.jpg"
                         }
     },
     {
@@ -51,7 +51,7 @@
         "mana_cost":  "{3}{U}{U}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Secret-Gorger.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Secret-Gorger.jpg"
                         }
     },
     {
@@ -59,7 +59,7 @@
         "mana_cost":  "{1}{U/B}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Clandestilla.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Clandestilla.jpg"
                         }
     },
     {
@@ -67,7 +67,7 @@
         "mana_cost":  "{1}{U}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Fade to Mist.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Fade to Mist.jpg"
                         }
     },
     {
@@ -75,7 +75,7 @@
         "mana_cost":  "{U/B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Nimble Concealment.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Nimble Concealment.jpg"
                         }
     },
     {
@@ -83,7 +83,7 @@
         "mana_cost":  "{2}{B/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Shaming Nymph.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Shaming Nymph.jpg"
                         }
     },
     {
@@ -91,7 +91,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Public Flogging.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Public Flogging.jpg"
                         }
     },
     {
@@ -99,7 +99,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mounting Storm.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mounting Storm.jpg"
                         }
     },
     {
@@ -107,7 +107,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Storm of Tears.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Storm of Tears.jpg"
                         }
     },
     {
@@ -115,7 +115,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Blundering Ninja.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Blundering Ninja.jpg"
                         }
     },
     {
@@ -123,7 +123,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Pure-Mind Trainee.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Pure-Mind Trainee.jpg"
                         }
     },
     {
@@ -131,7 +131,7 @@
         "mana_cost":  "{1}{G}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Branching Mutant.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Branching Mutant.jpg"
                         }
     },
     {
@@ -139,7 +139,7 @@
         "mana_cost":  "{B}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Haughty Gamble.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Haughty Gamble.jpg"
                         }
     },
     {
@@ -147,7 +147,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Riling Pyrodevil.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Riling Pyrodevil.jpg"
                         }
     },
     {
@@ -155,7 +155,7 @@
         "mana_cost":  "{1}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Clumsy Secretary.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Clumsy Secretary.jpg"
                         }
     },
     {
@@ -163,7 +163,7 @@
         "mana_cost":  "{1}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Tactless Show-Host.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Tactless Show-Host.jpg"
                         }
     },
     {
@@ -171,7 +171,7 @@
         "mana_cost":  "{1}{W}{U}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Expose.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Expose.jpg"
                         }
     },
     {
@@ -179,7 +179,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mind-Read.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mind-Read.jpg"
                         }
     },
     {
@@ -187,7 +187,7 @@
         "mana_cost":  "{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Show of Power.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Show of Power.jpg"
                         }
     },
     {
@@ -195,7 +195,7 @@
         "mana_cost":  "{1}{R}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Obliging Confession.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Obliging Confession.jpg"
                         }
     },
     {
@@ -203,7 +203,7 @@
         "mana_cost":  "{U}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Excitable Weird.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Excitable Weird.jpg"
                         }
     },
     {
@@ -211,7 +211,7 @@
         "mana_cost":  "{3}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Celebratory Giant.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Celebratory Giant.jpg"
                         }
     },
     {
@@ -219,7 +219,7 @@
         "mana_cost":  "{2}{W}{W}",
         "type":  "Artifact Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Stone-Glare Officer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Stone-Glare Officer.jpg"
                         }
     },
     {
@@ -227,7 +227,7 @@
         "mana_cost":  "{1}{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Headfirst Alpakon.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Headfirst Alpakon.jpg"
                         }
     },
     {
@@ -235,7 +235,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Pay in Confidence.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Pay in Confidence.jpg"
                         }
     },
     {
@@ -243,7 +243,7 @@
         "mana_cost":  "{B}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Preemptive Funeral.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Preemptive Funeral.jpg"
                         }
     },
     {
@@ -251,7 +251,7 @@
         "mana_cost":  "{6}{B/G}{B/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Open Burial.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Open Burial.jpg"
                         }
     },
     {
@@ -259,7 +259,7 @@
         "mana_cost":  "{1}{B/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Exposed Metal.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Exposed Metal.jpg"
                         }
     },
     {
@@ -267,7 +267,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Dead On Sight.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Dead On Sight.jpg"
                         }
     },
     {
@@ -275,7 +275,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Kickback.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Kickback.jpg"
                         }
     },
     {
@@ -283,7 +283,7 @@
         "mana_cost":  "{2}{U/R}{U/R}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Evaporating Wish.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Evaporating Wish.jpg"
                         }
     },
     {
@@ -291,7 +291,7 @@
         "mana_cost":  "{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Revealing Flash.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Revealing Flash.jpg"
                         }
     },
     {
@@ -299,7 +299,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Flash Fiend.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Flash Fiend.jpg"
                         }
     },
     {
@@ -307,7 +307,7 @@
         "mana_cost":  "{2}{G}{W}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Public Display of Affection.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Public Display of Affection.jpg"
                         }
     },
     {
@@ -315,7 +315,7 @@
         "mana_cost":  "{4}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/The Chortle-Beast.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The Chortle-Beast.jpg"
                         }
     },
     {
@@ -323,7 +323,7 @@
         "mana_cost":  "{2}{W}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Law-Bind Eagle.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Law-Bind Eagle.jpg"
                         }
     },
     {
@@ -331,7 +331,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Brazen Hawk.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Brazen Hawk.jpg"
                         }
     },
     {
@@ -339,7 +339,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/War-Cry Roc.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/War-Cry Roc.jpg"
                         }
     },
     {
@@ -347,7 +347,7 @@
         "mana_cost":  "{3}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Shrieking Vulture.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Shrieking Vulture.jpg"
                         }
     },
     {
@@ -355,7 +355,7 @@
         "mana_cost":  "{2}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Swift-Swipe Sugarglider.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Swift-Swipe Sugarglider.jpg"
                         }
     },
     {
@@ -363,7 +363,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Death-Leap Messenger.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Death-Leap Messenger.jpg"
                         }
     },
     {
@@ -371,7 +371,7 @@
         "mana_cost":  "{3}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Thunder Chief.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Thunder Chief.jpg"
                         }
     },
     {
@@ -379,7 +379,7 @@
         "mana_cost":  "{1}{G/W}{G/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Courageous Yaunling.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Courageous Yaunling.jpg"
                         }
     },
     {
@@ -387,7 +387,7 @@
         "mana_cost":  "{2}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Nervous Digger.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Nervous Digger.jpg"
                         }
     },
     {
@@ -395,7 +395,7 @@
         "mana_cost":  "{B}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Throw Under the Bus.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Throw Under the Bus.jpg"
                         }
     },
     {
@@ -403,7 +403,7 @@
         "mana_cost":  "{3}{U}{B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Prinoc, Outraged.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Prinoc, Outraged.jpg"
                         }
     },
     {
@@ -411,7 +411,7 @@
         "mana_cost":  "{1}{G/W}{G/W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Soul-Weave.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Soul-Weave.jpg"
                         }
     },
     {
@@ -419,7 +419,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Geist-Grove.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Geist-Grove.jpg"
                         }
     },
     {
@@ -427,7 +427,7 @@
         "mana_cost":  "{1}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Imminent-Flame Crollock.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Imminent-Flame Crollock.jpg"
                         }
     },
     {
@@ -435,7 +435,7 @@
         "mana_cost":  "{2}{U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Feed With Security.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Feed With Security.jpg"
                         }
     },
     {
@@ -443,7 +443,7 @@
         "mana_cost":  "{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mosh Raven.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mosh Raven.jpg"
                         }
     },
     {
@@ -451,7 +451,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Nauseating Teleport.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Nauseating Teleport.jpg"
                         }
     },
     {
@@ -459,7 +459,7 @@
         "mana_cost":  "{3}{U/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Blood-Vent Mage.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Blood-Vent Mage.jpg"
                         }
     },
     {
@@ -467,7 +467,7 @@
         "mana_cost":  "{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Oversee.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Oversee.jpg"
                         }
     },
     {
@@ -475,7 +475,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Rummaging Mapmaker.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Rummaging Mapmaker.jpg"
                         }
     },
     {
@@ -483,7 +483,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Quickstep Medic.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Quickstep Medic.jpg"
                         }
     },
     {
@@ -491,7 +491,7 @@
         "mana_cost":  "{1}{U/R}{U/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Practical Spellcaster.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Practical Spellcaster.jpg"
                         }
     },
     {
@@ -499,7 +499,7 @@
         "mana_cost":  "{2}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Harried Gravedigger.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Harried Gravedigger.jpg"
                         }
     },
     {
@@ -507,7 +507,7 @@
         "mana_cost":  "{2}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Soul Sister.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Soul Sister.jpg"
                         }
     },
     {
@@ -515,7 +515,7 @@
         "mana_cost":  "{4}{W}{U}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Spirit-Pact Pegasus.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Spirit-Pact Pegasus.jpg"
                         }
     },
     {
@@ -523,7 +523,7 @@
         "mana_cost":  "{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Allie's Cat.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Allie's Cat.jpg"
                         }
     },
     {
@@ -531,7 +531,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Starfall Geist.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Starfall Geist.jpg"
                         }
     },
     {
@@ -539,7 +539,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Calling Point.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Calling Point.jpg"
                         }
     },
     {
@@ -547,7 +547,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Place Between Tides.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Place Between Tides.jpg"
                         }
     },
     {
@@ -555,7 +555,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Shadow's Reflection.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Shadow's Reflection.jpg"
                         }
     },
     {
@@ -563,7 +563,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Flamespire.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Flamespire.jpg"
                         }
     },
     {
@@ -571,7 +571,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/The World-Quick.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The World-Quick.jpg"
                         }
     },
     {
@@ -579,7 +579,7 @@
         "mana_cost":  "{G}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Aphrodisic Entertainer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Aphrodisic Entertainer.jpg"
                         }
     },
     {
@@ -587,7 +587,7 @@
         "mana_cost":  "{3}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Goated.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Goated.jpg"
                         }
     },
     {
@@ -595,7 +595,7 @@
         "mana_cost":  "{5}{R}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Lava-Geyser Ejectid.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Lava-Geyser Ejectid.jpg"
                         }
     },
     {
@@ -603,7 +603,7 @@
         "mana_cost":  "{2}{U}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Ruthless Headmaster.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Ruthless Headmaster.jpg"
                         }
     },
     {
@@ -611,7 +611,7 @@
         "mana_cost":  "{3}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Great-Wing Priestess.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Great-Wing Priestess.jpg"
                         }
     },
     {
@@ -619,7 +619,7 @@
         "mana_cost":  "{4}{U}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Trickster Trago.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Trickster Trago.jpg"
                         }
     },
     {
@@ -627,7 +627,7 @@
         "mana_cost":  "{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Skitterjill.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Skitterjill.jpg"
                         }
     },
     {
@@ -635,7 +635,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mocking Bard.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mocking Bard.jpg"
                         }
     },
     {
@@ -643,7 +643,7 @@
         "mana_cost":  "{5}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Overcharged Spore Behemoth.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Overcharged Spore Behemoth.jpg"
                         }
     },
     {
@@ -651,7 +651,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Lethargic Drakus.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Lethargic Drakus.jpg"
                         }
     },
     {
@@ -659,7 +659,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Fiesty Rollick.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Fiesty Rollick.jpg"
                         }
     },
     {
@@ -667,7 +667,7 @@
         "mana_cost":  "{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Dancefloor Dragger.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Dancefloor Dragger.jpg"
                         }
     },
     {
@@ -675,7 +675,7 @@
         "mana_cost":  "{2}{B/R}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Deathmist Detonation.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Deathmist Detonation.jpg"
                         }
     },
     {
@@ -683,7 +683,7 @@
         "mana_cost":  "{1}{G/W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Spirit Spear.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Spirit Spear.jpg"
                         }
     },
     {
@@ -691,7 +691,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Incendiary Canary.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Incendiary Canary.jpg"
                         }
     },
     {
@@ -699,7 +699,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Terra-Reformist.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Terra-Reformist.jpg"
                         }
     },
     {
@@ -707,7 +707,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Juju Farmer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Juju Farmer.jpg"
                         }
     },
     {
@@ -715,7 +715,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Instant ",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Floral Fling.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Floral Fling.jpg"
                         }
     },
     {
@@ -723,7 +723,7 @@
         "mana_cost":  "{B}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Gravefling.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Gravefling.jpg"
                         }
     },
     {
@@ -731,7 +731,7 @@
         "mana_cost":  "{U}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Tumorfling.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Tumorfling.jpg"
                         }
     },
     {
@@ -739,7 +739,7 @@
         "mana_cost":  "{U}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Tensionfling.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Tensionfling.jpg"
                         }
     },
     {
@@ -747,7 +747,7 @@
         "mana_cost":  "{1}{W}{B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Conjuring the Masses.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Conjuring the Masses.jpg"
                         }
     },
     {
@@ -755,7 +755,7 @@
         "mana_cost":  "{W}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Collective Wail.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Collective Wail.jpg"
                         }
     },
     {
@@ -763,7 +763,7 @@
         "mana_cost":  "{1}{B}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Lifeforce Extraction.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Lifeforce Extraction.jpg"
                         }
     },
     {
@@ -771,7 +771,7 @@
         "mana_cost":  "{5}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/The Obsidian.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The Obsidian.jpg"
                         }
     },
     {
@@ -779,7 +779,7 @@
         "mana_cost":  "{2}{G/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Terraformer Monk.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Terraformer Monk.jpg"
                         }
     },
     {
@@ -787,7 +787,7 @@
         "mana_cost":  "{1}{R}{R}{W}{W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Granel, Lie-Torcher.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Granel, Lie-Torcher.jpg"
                         }
     },
     {
@@ -795,7 +795,7 @@
         "mana_cost":  "{2}{R/G}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Slide In.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Slide In.jpg"
                         }
     },
     {
@@ -803,7 +803,7 @@
         "mana_cost":  "{G/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Force Behind.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Force Behind.jpg"
                         }
     },
     {
@@ -811,7 +811,7 @@
         "mana_cost":  "{G/W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Survival Instinct.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Survival Instinct.jpg"
                         }
     },
     {
@@ -819,7 +819,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Pack Dog.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Pack Dog.jpg"
                         }
     },
     {
@@ -827,7 +827,7 @@
         "mana_cost":  "{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Cunning Mink.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Cunning Mink.jpg"
                         }
     },
     {
@@ -835,7 +835,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Snapstrike Una.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Snapstrike Una.jpg"
                         }
     },
     {
@@ -843,7 +843,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Likeminded Tactician.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Likeminded Tactician.jpg"
                         }
     },
     {
@@ -851,7 +851,7 @@
         "mana_cost":  "{2}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Relentless Fortification.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Relentless Fortification.jpg"
                         }
     },
     {
@@ -859,7 +859,7 @@
         "mana_cost":  "{3}{2/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Stone-Tosser Golem.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Stone-Tosser Golem.jpg"
                         }
     },
     {
@@ -867,7 +867,7 @@
         "mana_cost":  "{4}{W}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Strength of the Age.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Strength of the Age.jpg"
                         }
     },
     {
@@ -875,7 +875,7 @@
         "mana_cost":  "{1}{W/B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Illusory Forces.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Illusory Forces.jpg"
                         }
     },
     {
@@ -883,7 +883,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/High-Ear Strike Captain.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/High-Ear Strike Captain.jpg"
                         }
     },
     {
@@ -891,7 +891,7 @@
         "mana_cost":  "{2}{W}{W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Brute-Boxer Janth.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Brute-Boxer Janth.jpg"
                         }
     },
     {
@@ -899,7 +899,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Encouraging Bixy.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Encouraging Bixy.jpg"
                         }
     },
     {
@@ -907,7 +907,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Worldly Navi-Gator.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Worldly Navi-Gator.jpg"
                         }
     },
     {
@@ -915,7 +915,7 @@
         "mana_cost":  "{5}{W}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Crumblestorm.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Crumblestorm.jpg"
                         }
     },
     {
@@ -923,7 +923,7 @@
         "mana_cost":  "{3}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Collective Cover.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Collective Cover.jpg"
                         }
     },
     {
@@ -931,7 +931,7 @@
         "mana_cost":  "{2}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Curihoust.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Curihoust.jpg"
                         }
     },
     {
@@ -939,7 +939,7 @@
         "mana_cost":  "{1}{W/B}{W/B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Scardiest Cat.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Scardiest Cat.jpg"
                         }
     },
     {
@@ -947,7 +947,7 @@
         "mana_cost":  "{2}{W/U}{W/U}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/The Second Wind.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The Second Wind.jpg"
                         }
     },
     {
@@ -955,7 +955,7 @@
         "mana_cost":  "{1}{U}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Cape Flip.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Cape Flip.jpg"
                         }
     },
     {
@@ -963,7 +963,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Soul Sear.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Soul Sear.jpg"
                         }
     },
     {
@@ -971,7 +971,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Sniveling Snake.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Sniveling Snake.jpg"
                         }
     },
     {
@@ -979,7 +979,7 @@
         "mana_cost":  "{1}{W/U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Encouragement.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Encouragement.jpg"
                         }
     },
     {
@@ -987,7 +987,7 @@
         "mana_cost":  "{1}{R/G}",
         "type":  "Enchantment ",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Overrun.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Overrun.jpg"
                         }
     },
     {
@@ -995,7 +995,7 @@
         "mana_cost":  "{2}{W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Active Duty Bonus.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Active Duty Bonus.jpg"
                         }
     },
     {
@@ -1003,7 +1003,7 @@
         "mana_cost":  "{3}{W}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/High-Brow Gatekeeper.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/High-Brow Gatekeeper.jpg"
                         }
     },
     {
@@ -1011,7 +1011,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Tap-Dancing Heron.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Tap-Dancing Heron.jpg"
                         }
     },
     {
@@ -1019,7 +1019,7 @@
         "mana_cost":  "{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Reinforcement Whale.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Reinforcement Whale.jpg"
                         }
     },
     {
@@ -1027,7 +1027,7 @@
         "mana_cost":  "{1}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Carrion Bird.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Carrion Bird.jpg"
                         }
     },
     {
@@ -1035,7 +1035,7 @@
         "mana_cost":  "{1}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Devoted Bombardier.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Devoted Bombardier.jpg"
                         }
     },
     {
@@ -1043,7 +1043,7 @@
         "mana_cost":  "{2}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Oozing Oozer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Oozing Oozer.jpg"
                         }
     },
     {
@@ -1051,7 +1051,7 @@
         "mana_cost":  "{2}{W/U}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Free Spirit.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Free Spirit.jpg"
                         }
     },
     {
@@ -1059,7 +1059,7 @@
         "mana_cost":  "{B/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Manglevine.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Manglevine.jpg"
                         }
     },
     {
@@ -1067,7 +1067,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Invasive Sproutkin.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Invasive Sproutkin.jpg"
                         }
     },
     {
@@ -1075,7 +1075,7 @@
         "mana_cost":  "{1}{W}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Relentless Pursuit.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Relentless Pursuit.jpg"
                         }
     },
     {
@@ -1083,7 +1083,7 @@
         "mana_cost":  "{3}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Future in Flames.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Future in Flames.jpg"
                         }
     },
     {
@@ -1091,7 +1091,7 @@
         "mana_cost":  "{W}{W}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Dust Slice.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Dust Slice.jpg"
                         }
     },
     {
@@ -1099,7 +1099,7 @@
         "mana_cost":  "{U}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Accept the Facts.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Accept the Facts.jpg"
                         }
     },
     {
@@ -1107,7 +1107,7 @@
         "mana_cost":  "{1}{W/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Invasive Denial.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Invasive Denial.jpg"
                         }
     },
     {
@@ -1115,7 +1115,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Halt.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Halt.jpg"
                         }
     },
     {
@@ -1123,7 +1123,7 @@
         "mana_cost":  "{G/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Absorb Shock.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Absorb Shock.jpg"
                         }
     },
     {
@@ -1131,7 +1131,7 @@
         "mana_cost":  "{W/B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Out.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Out.jpg"
                         }
     },
     {
@@ -1139,7 +1139,7 @@
         "mana_cost":  "{1}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Manashower.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Manashower.jpg"
                         }
     },
     {
@@ -1147,7 +1147,7 @@
         "mana_cost":  "{2}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Devil-Grin Captain.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Devil-Grin Captain.jpg"
                         }
     },
     {
@@ -1155,7 +1155,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Acceptance.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Acceptance.jpg"
                         }
     },
     {
@@ -1163,7 +1163,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Postmortem Author.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Postmortem Author.jpg"
                         }
     },
     {
@@ -1171,7 +1171,7 @@
         "mana_cost":  "{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Overexcite.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Overexcite.jpg"
                         }
     },
     {
@@ -1179,7 +1179,7 @@
         "mana_cost":  "{1}{B}{B/P}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Plague Bearer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Plague Bearer.jpg"
                         }
     },
     {
@@ -1187,7 +1187,7 @@
         "mana_cost":  "{2}{2/B}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Death-Defying Hookshot.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Death-Defying Hookshot.jpg"
                         }
     },
     {
@@ -1195,7 +1195,7 @@
         "mana_cost":  "{4}{W}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/The Missing Fragment.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The Missing Fragment.jpg"
                         }
     },
     {
@@ -1203,7 +1203,7 @@
         "mana_cost":  "{6}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Drakus of Volcanic Storms.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Drakus of Volcanic Storms.jpg"
                         }
     },
     {
@@ -1211,7 +1211,7 @@
         "mana_cost":  "{2}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Divine Bullhorn.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Divine Bullhorn.jpg"
                         }
     },
     {
@@ -1219,7 +1219,7 @@
         "mana_cost":  "{3}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Persistent Tuyon.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Persistent Tuyon.jpg"
                         }
     },
     {
@@ -1227,7 +1227,7 @@
         "mana_cost":  "{2}{R/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Ambitious Gambit.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Ambitious Gambit.jpg"
                         }
     },
     {
@@ -1235,7 +1235,7 @@
         "mana_cost":  "{B/G}{B/G}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Afterlife Leech.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Afterlife Leech.jpg"
                         }
     },
     {
@@ -1243,7 +1243,7 @@
         "mana_cost":  "{R}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Fuse-burners.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Fuse-burners.jpg"
                         }
     },
     {
@@ -1251,7 +1251,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Enlisting Trickster.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Enlisting Trickster.jpg"
                         }
     },
     {
@@ -1259,7 +1259,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Compulsive Maniac.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Compulsive Maniac.jpg"
                         }
     },
     {
@@ -1267,7 +1267,7 @@
         "mana_cost":  "{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Meek Saboteur.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Meek Saboteur.jpg"
                         }
     },
     {
@@ -1275,7 +1275,7 @@
         "mana_cost":  "{G/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Well-Travelled Alpakon.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Well-Travelled Alpakon.jpg"
                         }
     },
     {
@@ -1283,7 +1283,7 @@
         "mana_cost":  "{X}{5}{G/W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mother Alpakon.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mother Alpakon.jpg"
                         }
     },
     {
@@ -1291,7 +1291,7 @@
         "mana_cost":  "{3}{U}{U}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Frozen Dragon.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Frozen Dragon.jpg"
                         }
     },
     {
@@ -1299,7 +1299,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Frozen Dragon's Gaze.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Frozen Dragon's Gaze.jpg"
                         }
     },
     {
@@ -1307,7 +1307,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Hoarding Gobling.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Hoarding Gobling.jpg"
                         }
     },
     {
@@ -1315,7 +1315,7 @@
         "mana_cost":  "{1}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mossroamer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mossroamer.jpg"
                         }
     },
     {
@@ -1323,7 +1323,7 @@
         "mana_cost":  "{2}{B}{G}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Regrowl.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Regrowl.jpg"
                         }
     },
     {
@@ -1331,7 +1331,7 @@
         "mana_cost":  "{2}{R/W}{R/W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Viss, the Dauntless.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Viss, the Dauntless.jpg"
                         }
     },
     {
@@ -1339,7 +1339,7 @@
         "mana_cost":  "{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Call Out.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Call Out.jpg"
                         }
     },
     {
@@ -1347,7 +1347,7 @@
         "mana_cost":  "{2}{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Flicker Bolt.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Flicker Bolt.jpg"
                         }
     },
     {
@@ -1355,7 +1355,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Spontaneous Bet.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Spontaneous Bet.jpg"
                         }
     },
     {
@@ -1363,7 +1363,7 @@
         "mana_cost":  "{R}{R}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Battlefield Confusion.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Battlefield Confusion.jpg"
                         }
     },
     {
@@ -1371,7 +1371,7 @@
         "mana_cost":  "{4}{B}{B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Void Dweller.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Void Dweller.jpg"
                         }
     },
     {
@@ -1379,7 +1379,7 @@
         "mana_cost":  "{3}{B/P}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Birdcrank.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Birdcrank.jpg"
                         }
     },
     {
@@ -1387,7 +1387,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Wingmate Momentum.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Wingmate Momentum.jpg"
                         }
     },
     {
@@ -1395,7 +1395,7 @@
         "mana_cost":  "{2}{W/B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Stumbling Flight.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Stumbling Flight.jpg"
                         }
     },
     {
@@ -1403,7 +1403,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Feeding Wraith.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Feeding Wraith.jpg"
                         }
     },
     {
@@ -1411,7 +1411,7 @@
         "mana_cost":  "{5}{G}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Revel in Might.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Revel in Might.jpg"
                         }
     },
     {
@@ -1419,7 +1419,7 @@
         "mana_cost":  "{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Diminishing Voices.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Diminishing Voices.jpg"
                         }
     },
     {
@@ -1427,7 +1427,7 @@
         "mana_cost":  "{1}{U/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Piggy-Back Deconstructor.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Piggy-Back Deconstructor.jpg"
                         }
     },
     {
@@ -1435,7 +1435,7 @@
         "mana_cost":  "{2}{B}{B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Aisul, the Solitary Flame.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Aisul, the Solitary Flame.jpg"
                         }
     },
     {
@@ -1443,7 +1443,7 @@
         "mana_cost":  "{2}{G/U}{G/U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/March the Foothills.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/March the Foothills.jpg"
                         }
     },
     {
@@ -1451,7 +1451,7 @@
         "mana_cost":  "{2}{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Indecisive Threat.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Indecisive Threat.jpg"
                         }
     },
     {
@@ -1459,7 +1459,7 @@
         "mana_cost":  "{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Condescending Dismissal.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Condescending Dismissal.jpg"
                         }
     },
     {
@@ -1467,7 +1467,7 @@
         "mana_cost":  "{2}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Unconfident Pute.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Unconfident Pute.jpg"
                         }
     },
     {
@@ -1475,7 +1475,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Burrowing Moledon.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Burrowing Moledon.jpg"
                         }
     },
     {
@@ -1483,7 +1483,7 @@
         "mana_cost":  "{W}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Rallying Wimp.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Rallying Wimp.jpg"
                         }
     },
     {
@@ -1491,7 +1491,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mirthful Stomping.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mirthful Stomping.jpg"
                         }
     },
     {
@@ -1499,7 +1499,7 @@
         "mana_cost":  "{X}{W}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Scatterbomb.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Scatterbomb.jpg"
                         }
     },
     {
@@ -1507,7 +1507,7 @@
         "mana_cost":  "{2}{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Showcropper.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Showcropper.jpg"
                         }
     },
     {
@@ -1515,7 +1515,7 @@
         "mana_cost":  "{6}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Therapy Whale.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Therapy Whale.jpg"
                         }
     },
     {
@@ -1523,7 +1523,7 @@
         "mana_cost":  "{2}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Hallway Studier.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Hallway Studier.jpg"
                         }
     },
     {
@@ -1531,7 +1531,7 @@
         "mana_cost":  "{2}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Library Shrieker.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Library Shrieker.jpg"
                         }
     },
     {
@@ -1539,7 +1539,7 @@
         "mana_cost":  "{2}{U/B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Imposing Aura.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Imposing Aura.jpg"
                         }
     },
     {
@@ -1547,7 +1547,7 @@
         "mana_cost":  "{1}{U}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Feast of Waking Dreams.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Feast of Waking Dreams.jpg"
                         }
     },
     {
@@ -1555,7 +1555,7 @@
         "mana_cost":  "{2}{R}{R}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mob Momentum.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mob Momentum.jpg"
                         }
     },
     {
@@ -1563,7 +1563,7 @@
         "mana_cost":  "{2}{R/G}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Hit the Ground Running.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Hit the Ground Running.jpg"
                         }
     },
     {
@@ -1571,7 +1571,7 @@
         "mana_cost":  "{1}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Composted Farmer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Composted Farmer.jpg"
                         }
     },
     {
@@ -1579,7 +1579,7 @@
         "mana_cost":  "{2}{U}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Wide-Stance Visionary.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Wide-Stance Visionary.jpg"
                         }
     },
     {
@@ -1587,7 +1587,7 @@
         "mana_cost":  "{3}{B}{B}",
         "type":  "Legendary Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Impression of Greed.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Impression of Greed.jpg"
                         }
     },
     {
@@ -1595,7 +1595,7 @@
         "mana_cost":  "{2}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Plant Slowly.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Plant Slowly.jpg"
                         }
     },
     {
@@ -1603,7 +1603,7 @@
         "mana_cost":  "{3}{G/U}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Overgenerous Symbiote.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Overgenerous Symbiote.jpg"
                         }
     },
     {
@@ -1611,7 +1611,7 @@
         "mana_cost":  "{2}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Unconfident War Elephant.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Unconfident War Elephant.jpg"
                         }
     },
     {
@@ -1619,7 +1619,7 @@
         "mana_cost":  "{1}{G/U}{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Shroom Gator Randy.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Shroom Gator Randy.jpg"
                         }
     },
     {
@@ -1627,7 +1627,7 @@
         "mana_cost":  "{W/B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Ninth Life.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Ninth Life.jpg"
                         }
     },
     {
@@ -1635,7 +1635,7 @@
         "mana_cost":  "{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Reoccuring Bullying.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Reoccuring Bullying.jpg"
                         }
     },
     {
@@ -1643,7 +1643,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Turn Brave.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Turn Brave.jpg"
                         }
     },
     {
@@ -1651,7 +1651,7 @@
         "mana_cost":  "{B/R}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Dweeb Detector.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Dweeb Detector.jpg"
                         }
     },
     {
@@ -1659,7 +1659,7 @@
         "mana_cost":  "{2}{U/R}",
         "type":  "Artifact Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Red-Hot Hooves.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Red-Hot Hooves.jpg"
                         }
     },
     {
@@ -1667,7 +1667,7 @@
         "mana_cost":  "{2}{W}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Final Day.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Final Day.jpg"
                         }
     },
     {
@@ -1675,7 +1675,7 @@
         "mana_cost":  "{R}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Olfactory Disrupter.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Olfactory Disrupter.jpg"
                         }
     },
     {
@@ -1683,7 +1683,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Up-Front Mercenary.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Up-Front Mercenary.jpg"
                         }
     },
     {
@@ -1691,7 +1691,7 @@
         "mana_cost":  "{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Lemme See!.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Lemme See!.jpg"
                         }
     },
     {
@@ -1699,7 +1699,7 @@
         "mana_cost":  "{3}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Nosey Officer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Nosey Officer.jpg"
                         }
     },
     {
@@ -1707,7 +1707,7 @@
         "mana_cost":  "{2}{G}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Worldtree Adherent.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Worldtree Adherent.jpg"
                         }
     },
     {
@@ -1715,7 +1715,7 @@
         "mana_cost":  "{1}{G}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Inviting Shroomling.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Inviting Shroomling.jpg"
                         }
     },
     {
@@ -1723,7 +1723,7 @@
         "mana_cost":  "{6}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Owhale.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Owhale.jpg"
                         }
     },
     {
@@ -1731,7 +1731,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Exploitative Liz.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Exploitative Liz.jpg"
                         }
     },
     {
@@ -1739,7 +1739,7 @@
         "mana_cost":  "{U}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Reattempt.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Reattempt.jpg"
                         }
     },
     {
@@ -1747,7 +1747,7 @@
         "mana_cost":  "{B}{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Renee, Regretful Traveller.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Renee, Regretful Traveller.jpg"
                         }
     },
     {
@@ -1755,7 +1755,7 @@
         "mana_cost":  "{2}{W}{W}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Brutal Honesty.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Brutal Honesty.jpg"
                         }
     },
     {
@@ -1763,7 +1763,7 @@
         "mana_cost":  "{1}{B/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Honest Brutality.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Honest Brutality.jpg"
                         }
     },
     {
@@ -1771,7 +1771,7 @@
         "mana_cost":  "{R}",
         "type":  "Instant ",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Direct Bolt.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Direct Bolt.jpg"
                         }
     },
     {
@@ -1779,7 +1779,7 @@
         "mana_cost":  "{1}{W}{R/G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mirru, One With Her Army.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mirru, One With Her Army.jpg"
                         }
     },
     {
@@ -1787,7 +1787,7 @@
         "mana_cost":  "{3}{G/U}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Unashamed Thoughts.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Unashamed Thoughts.jpg"
                         }
     },
     {
@@ -1795,7 +1795,7 @@
         "mana_cost":  "{1}{G}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Okal, Overgrown Gardener.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Okal, Overgrown Gardener.jpg"
                         }
     },
     {
@@ -1803,7 +1803,7 @@
         "mana_cost":  "{U}{G/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Enveloping Hills.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Enveloping Hills.jpg"
                         }
     },
     {
@@ -1811,7 +1811,7 @@
         "mana_cost":  "{2}{B}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Grave-Gardener.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Grave-Gardener.jpg"
                         }
     },
     {
@@ -1819,7 +1819,7 @@
         "mana_cost":  "{1}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Ever-Raging Terrance.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Ever-Raging Terrance.jpg"
                         }
     },
     {
@@ -1827,7 +1827,7 @@
         "mana_cost":  "{2}{W/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Ancient Nestite.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Ancient Nestite.jpg"
                         }
     },
     {
@@ -1835,7 +1835,7 @@
         "mana_cost":  "{1}{G/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Resis, Garden Assistant.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Resis, Garden Assistant.jpg"
                         }
     },
     {
@@ -1843,7 +1843,7 @@
         "mana_cost":  "{2}{W/B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Spirit Circle.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Spirit Circle.jpg"
                         }
     },
     {
@@ -1851,7 +1851,7 @@
         "mana_cost":  "{2}{U}{W/B}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Truth Crystal.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Truth Crystal.jpg"
                         }
     },
     {
@@ -1859,7 +1859,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Flaminghost.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Flaminghost.jpg"
                         }
     },
     {
@@ -1867,7 +1867,7 @@
         "mana_cost":  "{2}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Goblidant.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Goblidant.jpg"
                         }
     },
     {
@@ -1875,7 +1875,7 @@
         "mana_cost":  "{3}{B/G}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Reharvest Engine.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Reharvest Engine.jpg"
                         }
     },
     {
@@ -1883,7 +1883,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Swelling Field.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Swelling Field.jpg"
                         }
     },
     {
@@ -1891,7 +1891,7 @@
         "mana_cost":  "{U}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Group Rebuttal.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Group Rebuttal.jpg"
                         }
     },
     {
@@ -1899,7 +1899,7 @@
         "mana_cost":  "{7}{B/G}{B/G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/It That Arrives.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/It That Arrives.jpg"
                         }
     },
     {
@@ -1907,7 +1907,7 @@
         "mana_cost":  "{W}{B}{R}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Glittering Starchild.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Glittering Starchild.jpg"
                         }
     },
     {
@@ -1915,7 +1915,7 @@
         "mana_cost":  "{B/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Snatch.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Snatch.jpg"
                         }
     },
     {
@@ -1923,7 +1923,7 @@
         "mana_cost":  "{4}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Gargantuan Nail Trap.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Gargantuan Nail Trap.jpg"
                         }
     },
     {
@@ -1931,7 +1931,7 @@
         "mana_cost":  "{1}{W}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Whitehair Hare.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Whitehair Hare.jpg"
                         }
     },
     {
@@ -1939,7 +1939,7 @@
         "mana_cost":  "{W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Looking Up To Bro.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Looking Up To Bro.jpg"
                         }
     },
     {
@@ -1947,7 +1947,7 @@
         "mana_cost":  "{2}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Cheer Cedar.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Cheer Cedar.jpg"
                         }
     },
     {
@@ -1955,7 +1955,7 @@
         "mana_cost":  "{3}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Rhino Dan.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Rhino Dan.jpg"
                         }
     },
     {
@@ -1963,7 +1963,7 @@
         "mana_cost":  "{1}{2/W}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Rearming Station.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Rearming Station.jpg"
                         }
     },
     {
@@ -1971,7 +1971,7 @@
         "mana_cost":  "{2}{2/W}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Hazardous Ballista.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Hazardous Ballista.jpg"
                         }
     },
     {
@@ -1979,7 +1979,7 @@
         "mana_cost":  "{5}{W/U}{W/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Good Parenting.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Good Parenting.jpg"
                         }
     },
     {
@@ -1987,7 +1987,7 @@
         "mana_cost":  "{5}{R/G}{R/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/End the Lies.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/End the Lies.jpg"
                         }
     },
     {
@@ -1995,7 +1995,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Evident Scarring.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Evident Scarring.jpg"
                         }
     },
     {
@@ -2003,7 +2003,7 @@
         "mana_cost":  "{2}{B/G}{B/G}",
         "type":  "Land Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Wounded Tree.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Wounded Tree.jpg"
                         }
     },
     {
@@ -2011,7 +2011,7 @@
         "mana_cost":  "{6}{G}{G}",
         "type":  "Land Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Field Beast.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Field Beast.jpg"
                         }
     },
     {
@@ -2019,7 +2019,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Verified Source.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Verified Source.jpg"
                         }
     },
     {
@@ -2027,7 +2027,7 @@
         "mana_cost":  "{1}{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Truth-Seeker Elf.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Truth-Seeker Elf.jpg"
                         }
     },
     {
@@ -2035,7 +2035,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Corpse-Littered Battlefront.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Corpse-Littered Battlefront.jpg"
                         }
     },
     {
@@ -2043,7 +2043,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Spellwhip.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Spellwhip.jpg"
                         }
     },
     {
@@ -2051,7 +2051,7 @@
         "mana_cost":  "{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Fiery Bite.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Fiery Bite.jpg"
                         }
     },
     {
@@ -2059,7 +2059,7 @@
         "mana_cost":  "{W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Feather Pollen.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Feather Pollen.jpg"
                         }
     },
     {
@@ -2067,7 +2067,7 @@
         "mana_cost":  "{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Shudders From Below.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Shudders From Below.jpg"
                         }
     },
     {
@@ -2075,7 +2075,7 @@
         "mana_cost":  "{1}{W/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Newborn Nid.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Newborn Nid.jpg"
                         }
     },
     {
@@ -2083,7 +2083,7 @@
         "mana_cost":  "{2}{U/R}{U/R}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/The Moment.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The Moment.jpg"
                         }
     },
     {
@@ -2091,7 +2091,7 @@
         "mana_cost":  "{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Conspicuous Pyromaniac.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Conspicuous Pyromaniac.jpg"
                         }
     },
     {
@@ -2099,7 +2099,7 @@
         "mana_cost":  "{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Crazed Hopper.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Crazed Hopper.jpg"
                         }
     },
     {
@@ -2107,7 +2107,7 @@
         "mana_cost":  "{2}{B}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Queen's Command.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Queen's Command.jpg"
                         }
     },
     {
@@ -2115,7 +2115,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Merciless Birth.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Merciless Birth.jpg"
                         }
     },
     {
@@ -2123,7 +2123,7 @@
         "mana_cost":  "{R/W}{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Rambunny.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Rambunny.jpg"
                         }
     },
     {
@@ -2131,7 +2131,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Overt Vaporling.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Overt Vaporling.jpg"
                         }
     },
     {
@@ -2139,7 +2139,7 @@
         "mana_cost":  "{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Obvious Ambusher.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Obvious Ambusher.jpg"
                         }
     },
     {
@@ -2147,7 +2147,7 @@
         "mana_cost":  "{G}{G}{G}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Brazen Confrontation.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Brazen Confrontation.jpg"
                         }
     },
     {
@@ -2155,7 +2155,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/From a Mile Away.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/From a Mile Away.jpg"
                         }
     },
     {
@@ -2163,7 +2163,7 @@
         "mana_cost":  "{1}{G/U}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Enveloping Arcana.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Enveloping Arcana.jpg"
                         }
     },
     {
@@ -2171,7 +2171,7 @@
         "mana_cost":  "{G/U}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Infectious Mutagen.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Infectious Mutagen.jpg"
                         }
     },
     {
@@ -2179,7 +2179,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Proud Fangirl.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Proud Fangirl.jpg"
                         }
     },
     {
@@ -2187,7 +2187,7 @@
         "mana_cost":  "{4}{U}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Synthesis Hulk.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Synthesis Hulk.jpg"
                         }
     },
     {
@@ -2195,7 +2195,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Flit-Cloud.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Flit-Cloud.jpg"
                         }
     },
     {
@@ -2203,7 +2203,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Chest-Jutting Guard.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Chest-Jutting Guard.jpg"
                         }
     },
     {
@@ -2211,7 +2211,7 @@
         "mana_cost":  "{3}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Bravening Crab.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Bravening Crab.jpg"
                         }
     },
     {
@@ -2219,7 +2219,7 @@
         "mana_cost":  "{3}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Fumble-Finger Necromaniac.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Fumble-Finger Necromaniac.jpg"
                         }
     },
     {
@@ -2227,7 +2227,7 @@
         "mana_cost":  "",
         "type":  "Legendary Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Elder Warptree.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Elder Warptree.jpg"
                         }
     },
     {
@@ -2235,7 +2235,7 @@
         "mana_cost":  "{3}{B}{B}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Impending Despir.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Impending Despir.jpg"
                         }
     },
     {
@@ -2243,7 +2243,7 @@
         "mana_cost":  "{1}{R/W}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/The Puny Rise Up.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The Puny Rise Up.jpg"
                         }
     },
     {
@@ -2251,7 +2251,7 @@
         "mana_cost":  "{R}{R}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Slow-Moving Projectile.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Slow-Moving Projectile.jpg"
                         }
     },
     {
@@ -2259,7 +2259,7 @@
         "mana_cost":  "{4}{G}{G}{G}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Spirit of Growth.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Spirit of Growth.jpg"
                         }
     },
     {
@@ -2267,7 +2267,7 @@
         "mana_cost":  "{2}{B}{B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Shade of Acceptance.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Shade of Acceptance.jpg"
                         }
     },
     {
@@ -2275,7 +2275,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Forest of Eternal Autumn.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Forest of Eternal Autumn.jpg"
                         }
     },
     {
@@ -2283,7 +2283,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Cloud Ruins.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Cloud Ruins.jpg"
                         }
     },
     {
@@ -2291,7 +2291,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Dream Glade.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Dream Glade.jpg"
                         }
     },
     {
@@ -2299,7 +2299,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Rabbit Family Farm.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Rabbit Family Farm.jpg"
                         }
     },
     {
@@ -2307,7 +2307,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Boiling Labworks.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Boiling Labworks.jpg"
                         }
     },
     {
@@ -2315,7 +2315,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Icarus' Resting Place.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Icarus' Resting Place.jpg"
                         }
     },
     {
@@ -2323,7 +2323,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Foggy Beachfront.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Foggy Beachfront.jpg"
                         }
     },
     {
@@ -2331,7 +2331,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Furnace of the Edge.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Furnace of the Edge.jpg"
                         }
     },
     {
@@ -2339,7 +2339,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Ancient Tidepools.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Ancient Tidepools.jpg"
                         }
     },
     {
@@ -2347,7 +2347,7 @@
         "mana_cost":  "{1}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Territorial Toad.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Territorial Toad.jpg"
                         }
     },
     {
@@ -2355,7 +2355,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Tawnty the Evidence-Burner.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Tawnty the Evidence-Burner.jpg"
                         }
     },
     {
@@ -2363,7 +2363,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Assimilamorph.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Assimilamorph.jpg"
                         }
     },
     {
@@ -2371,7 +2371,7 @@
         "mana_cost":  "{2}{U/B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Nate and Tate.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Nate and Tate.jpg"
                         }
     },
     {
@@ -2379,7 +2379,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Outgrow.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Outgrow.jpg"
                         }
     },
     {
@@ -2387,7 +2387,7 @@
         "mana_cost":  "{3}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Twin-Stalk Spore.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Twin-Stalk Spore.jpg"
                         }
     },
     {
@@ -2395,7 +2395,7 @@
         "mana_cost":  "{2}{2/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Collapsing Fortress.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Collapsing Fortress.jpg"
                         }
     },
     {
@@ -2403,7 +2403,7 @@
         "mana_cost":  "{U}{U}{R}{R}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Coltz, Jumpspark Mage.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Coltz, Jumpspark Mage.jpg"
                         }
     },
     {
@@ -2411,7 +2411,7 @@
         "mana_cost":  "{4}{B}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Cache Dragon.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Cache Dragon.jpg"
                         }
     },
     {
@@ -2419,7 +2419,7 @@
         "mana_cost":  "{1}{W/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Acrobatic Stunt.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Acrobatic Stunt.jpg"
                         }
     },
     {
@@ -2427,7 +2427,7 @@
         "mana_cost":  "{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Intrusive Thoughts.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Intrusive Thoughts.jpg"
                         }
     },
     {
@@ -2435,7 +2435,7 @@
         "mana_cost":  "{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Triumphant Shout.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Triumphant Shout.jpg"
                         }
     },
     {
@@ -2443,7 +2443,7 @@
         "mana_cost":  "{1}{U/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Cocky Rooster.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Cocky Rooster.jpg"
                         }
     },
     {
@@ -2451,7 +2451,7 @@
         "mana_cost":  "{U}",
         "type":  "Sorcery ",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/A Good Cry.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/A Good Cry.jpg"
                         }
     },
     {
@@ -2459,7 +2459,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Hall of Chimes.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Hall of Chimes.jpg"
                         }
     },
     {
@@ -2467,7 +2467,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Extentoad.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Extentoad.jpg"
                         }
     },
     {
@@ -2475,7 +2475,7 @@
         "mana_cost":  "{3}{W}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Daycare Grand Opening.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Daycare Grand Opening.jpg"
                         }
     },
     {
@@ -2483,7 +2483,7 @@
         "mana_cost":  "{U}{U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Political Divination.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Political Divination.jpg"
                         }
     },
     {
@@ -2491,7 +2491,7 @@
         "mana_cost":  "{W/B}{W/B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Draining Relationship.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Draining Relationship.jpg"
                         }
     },
     {
@@ -2499,7 +2499,7 @@
         "mana_cost":  "{2}{W/B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Crystal, Naturalist.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Crystal, Naturalist.jpg"
                         }
     },
     {
@@ -2507,7 +2507,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Darkest Heart.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Darkest Heart.jpg"
                         }
     },
     {
@@ -2515,7 +2515,7 @@
         "mana_cost":  "{W/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Let Go.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Let Go.jpg"
                         }
     },
     {
@@ -2523,7 +2523,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Never Too Late.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Never Too Late.jpg"
                         }
     },
     {
@@ -2531,7 +2531,7 @@
         "mana_cost":  "{1}",
         "type":  "Enchantment Artifact",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Silver-Thread Cloak.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Silver-Thread Cloak.jpg"
                         }
     },
     {
@@ -2539,7 +2539,7 @@
         "mana_cost":  "{2}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Aggressor Captain.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Aggressor Captain.jpg"
                         }
     },
     {
@@ -2547,7 +2547,7 @@
         "mana_cost":  "{1}{W/B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Nomad Shade.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Nomad Shade.jpg"
                         }
     },
     {
@@ -2555,7 +2555,7 @@
         "mana_cost":  "{3}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Avus Father.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Avus Father.jpg"
                         }
     },
     {
@@ -2563,7 +2563,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Precocious Bolt.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Precocious Bolt.jpg"
                         }
     },
     {
@@ -2571,7 +2571,7 @@
         "mana_cost":  "{B}",
         "type":  "Instant ",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Determinate.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Determinate.jpg"
                         }
     },
     {
@@ -2579,7 +2579,7 @@
         "mana_cost":  "{1}{U/B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Father's Will.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Father's Will.jpg"
                         }
     },
     {
@@ -2587,7 +2587,7 @@
         "mana_cost":  "{W}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Conniving Pyromiggy.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Conniving Pyromiggy.jpg"
                         }
     },
     {
@@ -2595,7 +2595,7 @@
         "mana_cost":  "{B}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mourning Morning.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mourning Morning.jpg"
                         }
     },
     {
@@ -2603,7 +2603,7 @@
         "mana_cost":  "{W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Humble.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Humble.jpg"
                         }
     },
     {
@@ -2611,7 +2611,7 @@
         "mana_cost":  "{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Heel Swipe.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Heel Swipe.jpg"
                         }
     },
     {
@@ -2619,7 +2619,7 @@
         "mana_cost":  "{B/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Pick Off.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Pick Off.jpg"
                         }
     },
     {
@@ -2627,7 +2627,7 @@
         "mana_cost":  "{4}{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Fearful Megafauna.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Fearful Megafauna.jpg"
                         }
     },
     {
@@ -2635,7 +2635,7 @@
         "mana_cost":  "{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Absorb the Mist.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Absorb the Mist.jpg"
                         }
     },
     {
@@ -2643,7 +2643,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Make Amends.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Make Amends.jpg"
                         }
     },
     {
@@ -2651,7 +2651,7 @@
         "mana_cost":  "{4}{W/B}{W/B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Quad-Palm Jerry.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Quad-Palm Jerry.jpg"
                         }
     },
     {
@@ -2659,7 +2659,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Storm-Seed Fairy.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Storm-Seed Fairy.jpg"
                         }
     },
     {
@@ -2667,7 +2667,7 @@
         "mana_cost":  "{1}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Grit Teeth.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Grit Teeth.jpg"
                         }
     },
     {
@@ -2675,7 +2675,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Knowledge Parasite.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Knowledge Parasite.jpg"
                         }
     },
     {
@@ -2683,7 +2683,7 @@
         "mana_cost":  "{U}{R}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Unstable Hydra.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Unstable Hydra.jpg"
                         }
     },
     {
@@ -2691,7 +2691,7 @@
         "mana_cost":  "{U}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Forced Experiment.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Forced Experiment.jpg"
                         }
     },
     {
@@ -2699,7 +2699,7 @@
         "mana_cost":  "{3}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Insistent Assistant.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Insistent Assistant.jpg"
                         }
     },
     {
@@ -2707,7 +2707,7 @@
         "mana_cost":  "{6}{U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mental Tripwire.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mental Tripwire.jpg"
                         }
     },
     {
@@ -2715,7 +2715,7 @@
         "mana_cost":  "{3}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Jealousy Flare.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Jealousy Flare.jpg"
                         }
     },
     {
@@ -2723,7 +2723,7 @@
         "mana_cost":  "{2}{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Gode the Gloating Goat.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Gode the Gloating Goat.jpg"
                         }
     },
     {
@@ -2731,7 +2731,7 @@
         "mana_cost":  "{R}{R}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Ravenous Studies.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Ravenous Studies.jpg"
                         }
     },
     {
@@ -2739,7 +2739,7 @@
         "mana_cost":  "{3}{B}{G}{W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Titan of the Grove.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Titan of the Grove.jpg"
                         }
     },
     {
@@ -2747,7 +2747,7 @@
         "mana_cost":  "{R}{R}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/The Raze.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The Raze.jpg"
                         }
     },
     {
@@ -2755,7 +2755,7 @@
         "mana_cost":  "{5}{R}{R}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Vitriolic Ritual.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Vitriolic Ritual.jpg"
                         }
     },
     {
@@ -2763,7 +2763,7 @@
         "mana_cost":  "{2}{G/W}",
         "type":  "Artifact Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Crumblemite Barrier.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Crumblemite Barrier.jpg"
                         }
     },
     {
@@ -2771,7 +2771,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Unfocused Summoner.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Unfocused Summoner.jpg"
                         }
     },
     {
@@ -2779,7 +2779,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Thriso, One With Water.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Thriso, One With Water.jpg"
                         }
     },
     {
@@ -2787,7 +2787,7 @@
         "mana_cost":  "{4}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Prompting Emu.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Prompting Emu.jpg"
                         }
     },
     {
@@ -2795,7 +2795,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Not Quite Myself.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Not Quite Myself.jpg"
                         }
     },
     {
@@ -2803,7 +2803,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Lonkru, Self-Coronated.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Lonkru, Self-Coronated.jpg"
                         }
     },
     {
@@ -2811,7 +2811,7 @@
         "mana_cost":  "{2}{U}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Prized Secret.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Prized Secret.jpg"
                         }
     },
     {
@@ -2819,7 +2819,7 @@
         "mana_cost":  "{X}{G}{G}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Sudden Sprouting.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Sudden Sprouting.jpg"
                         }
     },
     {
@@ -2827,7 +2827,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Evacugator.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Evacugator.jpg"
                         }
     },
     {
@@ -2835,7 +2835,7 @@
         "mana_cost":  "{3}{U}{R}",
         "type":  "Artifcat",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Manaformer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Manaformer.jpg"
                         }
     },
     {
@@ -2843,7 +2843,7 @@
         "mana_cost":  "{3}{U}{W}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Mental Lockdown.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mental Lockdown.jpg"
                         }
     },
     {
@@ -2851,7 +2851,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Trigger Word.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Trigger Word.jpg"
                         }
     },
     {
@@ -2859,7 +2859,7 @@
         "mana_cost":  "{3}{U}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Exaggerate Effect.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Exaggerate Effect.jpg"
                         }
     },
     {
@@ -2867,7 +2867,7 @@
         "mana_cost":  "{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images/Stand Strong.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Stand Strong.jpg"
                         }
     }
 ]

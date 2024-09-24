@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_carddatabase version="3">
-<sets>
-<set>
-<name>DOD</name>
-<longname>DoD3</longname>
-<releasedate>2024-09-08</releasedate>
-<settype>Custom</settype>
-</set>
-</sets>
-<cards>
-
+    <cockatrice_carddatabase version="3">
+    <sets>
+    <set>
+    <name>DoD</name>
+    <longname>DoD</longname>
+    <releasedate>2024-09-24</releasedate>
+    <settype>Custom</settype>
+    </set>
+    </sets>
+    <cards>
+    
 <card>
     <name>Sneaking Dile</name>
-    <set picURL="/Sneaking Dile.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Sneaking Dile.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Creature - Reptile</type>
@@ -25,7 +25,7 @@ Skulk
 
 <card>
     <name>Secret Wrangler</name>
-    <set picURL="/Secret Wrangler.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Secret Wrangler.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Frog Spy</type>
@@ -37,7 +37,7 @@ Put a card from your hand on the bottom of your library: Secret Wranger gains he
 
 <card>
     <name>Ambitious Contortionist</name>
-    <set picURL="/Ambitious Contortionist.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ambitious Contortionist.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Creature - Fox Spy</type>
@@ -49,7 +49,7 @@ Put a card from your hand on the bottom of your library: Secret Wranger gains he
 
 <card>
     <name>Secret-Gorger</name>
-    <set picURL="/Secret-Gorger.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Secret-Gorger.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3UU</manacost>
     <type>Legendary Creature - Elemental</type>
@@ -62,7 +62,7 @@ Whenever Secret-Gorger deals combat damage, draw a card. The defending player dr
 
 <card>
     <name>Clandestilla</name>
-    <set picURL="/Clandestilla.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Clandestilla.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>1{U/B}</manacost>
     <type>Artifact - Equipment</type>
@@ -74,7 +74,7 @@ Equipped creature gets +X/+0 for each revealed card in your hand and +0/+X for e
 
 <card>
     <name>Fade to Mist</name>
-    <set picURL="/Fade to Mist.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Fade to Mist.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>1UB</manacost>
     <type>Instant</type>
@@ -85,7 +85,7 @@ Unreveal a card in your hand, then draw a card and put a card from your hand on 
 
 <card>
     <name>Nimble Concealment</name>
-    <set picURL="/Nimble Concealment.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Nimble Concealment.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>{U/B}</manacost>
     <type>Instant</type>
@@ -96,7 +96,7 @@ Cycling {2}</text>
 
 <card>
     <name>Shaming Nymph</name>
-    <set picURL="/Shaming Nymph.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Shaming Nymph.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>2{B/G}</manacost>
     <type>Sorcery</type>
@@ -108,7 +108,7 @@ When Shaming Nymph exploits a creature, target opponent reveals a card if able. 
 
 <card>
     <name>Public Flogging</name>
-    <set picURL="/Public Flogging.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Public Flogging.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>1B</manacost>
     <type>Sorcery</type>
@@ -119,7 +119,7 @@ Target creature gets -4/-4 until end of turn. If its controller pays {3}, it get
 
 <card>
     <name>Mounting Storm</name>
-    <set picURL="/Mounting Storm.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mounting Storm.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>U</manacost>
     <type>Instant</type>
@@ -131,7 +131,7 @@ Rivalstorm (Make a copy of this spell for each spell your opponent has cast befo
 
 <card>
     <name>Storm of Tears</name>
-    <set picURL="/Storm of Tears.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Storm of Tears.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Instant</type>
@@ -142,7 +142,7 @@ Tap up to two target creatures. If this spell was kicked, put a stun counter on 
 
 <card>
     <name>Blundering Ninja</name>
-    <set picURL="/Blundering Ninja.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Blundering Ninja.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Alpaca Ninja</type>
@@ -154,7 +154,7 @@ Blundering Ninja enters with a stun counter on it if it's tapped.</text>
 
 <card>
     <name>Pure-Mind Trainee</name>
-    <set picURL="/Pure-Mind Trainee.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Pure-Mind Trainee.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Alpaca Monk</type>
@@ -166,7 +166,7 @@ Pure-Mind Trainee enters with a +1/+1 counter on it if it was not exposed.</text
 
 <card>
     <name>Branching Mutant</name>
-    <set picURL="/Branching Mutant.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Branching Mutant.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>1GU</manacost>
     <type>Creature - Frog Mutant</type>
@@ -178,7 +178,7 @@ Branching Mutant can block an additional creature for each +1/+1 counter on it.<
 
 <card>
     <name>Haughty Gamble</name>
-    <set picURL="/Haughty Gamble.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Haughty Gamble.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>BR</manacost>
     <type>Instant</type>
@@ -188,7 +188,7 @@ Branching Mutant can block an additional creature for each +1/+1 counter on it.<
 
 <card>
     <name>Riling Pyrodevil</name>
-    <set picURL="/Riling Pyrodevil.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Riling Pyrodevil.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2R</manacost>
     <type>Creature - Devil</type>
@@ -201,7 +201,7 @@ Haste</text>
 
 <card>
     <name>Clumsy Secretary</name>
-    <set picURL="/Clumsy Secretary.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Clumsy Secretary.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1RR</manacost>
     <type>Creature - Reptile Devil</type>
@@ -213,7 +213,7 @@ Whenever Clumsy Secretary attacks, you may shuffle a revealed card from your han
 
 <card>
     <name>Tactless Show-Host</name>
-    <set picURL="/Tactless Show-Host.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Tactless Show-Host.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>1{R/B}</manacost>
     <type>Creature - Human</type>
@@ -225,7 +225,7 @@ Tactless Show-Host gets +2/+2 as long as it's attacking a player whose entire ha
 
 <card>
     <name>Expose</name>
-    <set picURL="/Expose.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Expose.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>1WU</manacost>
     <type>Enchantment</type>
@@ -236,7 +236,7 @@ Tactless Show-Host gets +2/+2 as long as it's attacking a player whose entire ha
 
 <card>
     <name>Mind-Read</name>
-    <set picURL="/Mind-Read.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mind-Read.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Instant</type>
@@ -248,7 +248,7 @@ Tactless Show-Host gets +2/+2 as long as it's attacking a player whose entire ha
 
 <card>
     <name>Show of Power</name>
-    <set picURL="/Show of Power.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Show of Power.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>G</manacost>
     <type>Sorcery</type>
@@ -261,7 +261,7 @@ Spree -
 
 <card>
     <name>Obliging Confession</name>
-    <set picURL="/Obliging Confession.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Obliging Confession.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1RR</manacost>
     <type>Instant</type>
@@ -271,7 +271,7 @@ Spree -
 
 <card>
     <name>Excitable Weird</name>
-    <set picURL="/Excitable Weird.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Excitable Weird.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>UR</manacost>
     <type>Creature - Bird Weird</type>
@@ -284,7 +284,7 @@ Whenever you draw, untap Excitable Weird.</text>
 
 <card>
     <name>Celebratory Giant</name>
-    <set picURL="/Celebratory Giant.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Celebratory Giant.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>3G</manacost>
     <type>Creature - Alpaca Giant</type>
@@ -296,7 +296,7 @@ Pop-up costs of spells you control cost {1} less.</text>
 
 <card>
     <name>Stone-Glare Officer</name>
-    <set picURL="/Stone-Glare Officer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Stone-Glare Officer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2WW</manacost>
     <type>Artifact Creature - Gargoyle</type>
@@ -308,7 +308,7 @@ Alternate costs can't be used to pay for spells opponents cast so long as Stone-
 
 <card>
     <name>Headfirst Alpakon</name>
-    <set picURL="/Headfirst Alpakon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Headfirst Alpakon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>1{R/W}</manacost>
     <type>Creature - Alpaca Giant</type>
@@ -321,7 +321,7 @@ Trample</text>
 
 <card>
     <name>Pay in Confidence</name>
-    <set picURL="/Pay in Confidence.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Pay in Confidence.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>1G</manacost>
     <type>Sorcery</type>
@@ -331,7 +331,7 @@ Trample</text>
 
 <card>
     <name>Preemptive Funeral</name>
-    <set picURL="/Preemptive Funeral.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Preemptive Funeral.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>BG</manacost>
     <type>Instant</type>
@@ -342,7 +342,7 @@ Mill the top 4 cards of your library. You may cast a creature from among them wi
 
 <card>
     <name>Open Burial</name>
-    <set picURL="/Open Burial.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Open Burial.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>6{B/G}{B/G}</manacost>
     <type>Sorcery</type>
@@ -354,7 +354,7 @@ Search your graveyard for a land and put it on the battlefield. Untap it.</text>
 
 <card>
     <name>Exposed Metal</name>
-    <set picURL="/Exposed Metal.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Exposed Metal.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>1{B/G}</manacost>
     <type>Sorcery</type>
@@ -364,7 +364,7 @@ Search your graveyard for a land and put it on the battlefield. Untap it.</text>
 
 <card>
     <name>Dead On Sight</name>
-    <set picURL="/Dead On Sight.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Dead On Sight.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Instant</type>
@@ -376,7 +376,7 @@ Search your graveyard for a land and put it on the battlefield. Untap it.</text>
 
 <card>
     <name>Kickback</name>
-    <set picURL="/Kickback.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Kickback.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>U</manacost>
     <type>Instant</type>
@@ -388,7 +388,7 @@ Search your graveyard for a land and put it on the battlefield. Untap it.</text>
 
 <card>
     <name>Evaporating Wish</name>
-    <set picURL="/Evaporating Wish.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Evaporating Wish.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>2{U/R}{U/R}</manacost>
     <type>Enchantment</type>
@@ -401,7 +401,7 @@ Exile Evaporating Wish from your hand: add {u}{r}.</text>
 
 <card>
     <name>Revealing Flash</name>
-    <set picURL="/Revealing Flash.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Revealing Flash.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>W</manacost>
     <type>Instant</type>
@@ -411,7 +411,7 @@ Exile Evaporating Wish from your hand: add {u}{r}.</text>
 
 <card>
     <name>Flash Fiend</name>
-    <set picURL="/Flash Fiend.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Flash Fiend.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Enchantment Creature - Alpaca Spirit</type>
@@ -424,7 +424,7 @@ Cycling {1}{w}</text>
 
 <card>
     <name>Public Display of Affection</name>
-    <set picURL="/Public Display of Affection.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Public Display of Affection.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>2GW</manacost>
     <type>Enchantment</type>
@@ -436,7 +436,7 @@ Cycling {1}{w}</text>
 
 <card>
     <name>The Chortle-Beast</name>
-    <set picURL="/The Chortle-Beast.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/The Chortle-Beast.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>4GG</manacost>
     <type>Legendary Creature - Alpaca Beast</type>
@@ -449,7 +449,7 @@ Whenever you reveal a card from your hand, put a +1/+1 counter on The Chortle-Be
 
 <card>
     <name>Law-Bind Eagle</name>
-    <set picURL="/Law-Bind Eagle.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Law-Bind Eagle.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2WW</manacost>
     <type>Creature - Bird</type>
@@ -462,7 +462,7 @@ Flying</text>
 
 <card>
     <name>Brazen Hawk</name>
-    <set picURL="/Brazen Hawk.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Brazen Hawk.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Bird</type>
@@ -475,7 +475,7 @@ Flying</text>
 
 <card>
     <name>War-Cry Roc</name>
-    <set picURL="/War-Cry Roc.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/War-Cry Roc.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2R</manacost>
     <type>Creature - Bird</type>
@@ -488,7 +488,7 @@ Flying, Haste</text>
 
 <card>
     <name>Shrieking Vulture</name>
-    <set picURL="/Shrieking Vulture.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Shrieking Vulture.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>3B</manacost>
     <type>Creature - Bird</type>
@@ -501,7 +501,7 @@ Flying</text>
 
 <card>
     <name>Swift-Swipe Sugarglider</name>
-    <set picURL="/Swift-Swipe Sugarglider.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Swift-Swipe Sugarglider.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>2G</manacost>
     <type>Creature - Possum</type>
@@ -514,7 +514,7 @@ Duck - Gain control of target artifact token you don't control.</text>
 
 <card>
     <name>Death-Leap Messenger</name>
-    <set picURL="/Death-Leap Messenger.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Death-Leap Messenger.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>{R/W}</manacost>
     <type>Enchantment Creature - Rabbit Spirit</type>
@@ -528,7 +528,7 @@ Enchanted creature gets +1/+1.</text>
 
 <card>
     <name>Thunder Chief</name>
-    <set picURL="/Thunder Chief.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Thunder Chief.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>3RR</manacost>
     <type>Creature - Bird Soldier</type>
@@ -541,7 +541,7 @@ Double Strike</text>
 
 <card>
     <name>Courageous Yaunling</name>
-    <set picURL="/Courageous Yaunling.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Courageous Yaunling.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>1{G/W}{G/W}</manacost>
     <type>Creature - Plant Possum</type>
@@ -554,7 +554,7 @@ Horde 5 - If you control 5 or more creatures, Courageous Yaunling has ward {1}.<
 
 <card>
     <name>Nervous Digger</name>
-    <set picURL="/Nervous Digger.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Nervous Digger.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>2G</manacost>
     <type>Creature -  Mole Citizen</type>
@@ -567,7 +567,7 @@ Duck - Flicker target land you control. Untap it.</text>
 
 <card>
     <name>Throw Under the Bus</name>
-    <set picURL="/Throw Under the Bus.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Throw Under the Bus.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>BR</manacost>
     <type>Instant</type>
@@ -578,7 +578,7 @@ Target creature you control gets +X/+1 until end of turn, where X is the sacrifi
 
 <card>
     <name>Prinoc, Outraged</name>
-    <set picURL="/Prinoc, Outraged.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Prinoc, Outraged.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>3UB</manacost>
     <type>Legendary Creature - Reptile Mercenary</type>
@@ -591,7 +591,7 @@ Whenever a creature dies the same turn it was dealt combat damage by Prinoc, dra
 
 <card>
     <name>Soul-Weave</name>
-    <set picURL="/Soul-Weave.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Soul-Weave.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>1{G/W}{G/W}</manacost>
     <type>Sorcery</type>
@@ -601,7 +601,7 @@ Whenever a creature dies the same turn it was dealt combat damage by Prinoc, dra
 
 <card>
     <name>Geist-Grove</name>
-    <set picURL="/Geist-Grove.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Geist-Grove.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WBG</color>
     <manacost></manacost>
     <type>Enchantment Land</type>
@@ -613,7 +613,7 @@ Whenever a creature dies the same turn it was dealt combat damage by Prinoc, dra
 
 <card>
     <name>Imminent-Flame Crollock</name>
-    <set picURL="/Imminent-Flame Crollock.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Imminent-Flame Crollock.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1RR</manacost>
     <type>Creature - Reptile</type>
@@ -625,7 +625,7 @@ When Imminent-Flame Crollock dies, destroy target artifact.</text>
 
 <card>
     <name>Feed With Security</name>
-    <set picURL="/Feed With Security.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Feed With Security.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>2U</manacost>
     <type>Sorcery</type>
@@ -635,7 +635,7 @@ When Imminent-Flame Crollock dies, destroy target artifact.</text>
 
 <card>
     <name>Mosh Raven</name>
-    <set picURL="/Mosh Raven.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mosh Raven.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>B</manacost>
     <type>Creature - Bird Demon</type>
@@ -647,7 +647,7 @@ When Imminent-Flame Crollock dies, destroy target artifact.</text>
 
 <card>
     <name>Nauseating Teleport</name>
-    <set picURL="/Nauseating Teleport.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Nauseating Teleport.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>U</manacost>
     <type>Instant</type>
@@ -659,7 +659,7 @@ When Imminent-Flame Crollock dies, destroy target artifact.</text>
 
 <card>
     <name>Blood-Vent Mage</name>
-    <set picURL="/Blood-Vent Mage.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Blood-Vent Mage.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>3{U/R}</manacost>
     <type>Creature - Reptile Wizard</type>
@@ -671,7 +671,7 @@ Whenever you cast a noncreature spell, you may untap target creature with power 
 
 <card>
     <name>Oversee</name>
-    <set picURL="/Oversee.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Oversee.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>{U/R}</manacost>
     <type>Instant</type>
@@ -683,7 +683,7 @@ Discard Oversee - Scry 1.</text>
 
 <card>
     <name>Rummaging Mapmaker</name>
-    <set picURL="/Rummaging Mapmaker.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Rummaging Mapmaker.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>1G</manacost>
     <type>Creature - Alpaca Artisan</type>
@@ -695,7 +695,7 @@ Discard Oversee - Scry 1.</text>
 
 <card>
     <name>Quickstep Medic</name>
-    <set picURL="/Quickstep Medic.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Quickstep Medic.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Creature - Rabbit Doctor</type>
@@ -708,7 +708,7 @@ Whenever a creature you control takes damage, untap Quickstep Medic.</text>
 
 <card>
     <name>Practical Spellcaster</name>
-    <set picURL="/Practical Spellcaster.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Practical Spellcaster.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>1{U/R}{U/R}</manacost>
     <type>Creature - Wizard Soldier</type>
@@ -720,7 +720,7 @@ Whenever a creature you control takes damage, untap Quickstep Medic.</text>
 
 <card>
     <name>Harried Gravedigger</name>
-    <set picURL="/Harried Gravedigger.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Harried Gravedigger.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>2{G/B}</manacost>
     <type>Creature - Human Citizen</type>
@@ -732,7 +732,7 @@ Whenever you sacrifice a nontoken permanent, untap Harried Gravedigger.</text>
 
 <card>
     <name>Soul Sister</name>
-    <set picURL="/Soul Sister.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Soul Sister.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2W</manacost>
     <type>Enchantment Creature - Bird Spirit</type>
@@ -744,7 +744,7 @@ As Soul Sister enters, you may attach up to one creature with bestow cost 5 or l
 
 <card>
     <name>Spirit-Pact Pegasus</name>
-    <set picURL="/Spirit-Pact Pegasus.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Spirit-Pact Pegasus.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>4WU</manacost>
     <type>Enchantment Creature - Pegasus</type>
@@ -758,7 +758,7 @@ Enchanted creature gets +4/+4, lifelink, and ward {1}.</text>
 
 <card>
     <name>Allie's Cat</name>
-    <set picURL="/Allie's Cat.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Allie's Cat.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>W</manacost>
     <type>Creature - Cat</type>
@@ -769,7 +769,7 @@ Enchanted creature gets +4/+4, lifelink, and ward {1}.</text>
 
 <card>
     <name>Starfall Geist</name>
-    <set picURL="/Starfall Geist.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Starfall Geist.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Enchantment Creature - Alien Spirit</type>
@@ -781,7 +781,7 @@ Whenever Starfall Soul or another enchantment or land enters under your control,
 
 <card>
     <name>Calling Point</name>
-    <set picURL="/Calling Point.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Calling Point.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost></manacost>
     <type>Enchantment Land - Plains</type>
@@ -793,7 +793,7 @@ Exile a white card from your hand and Calling Point from your graveyard: you gai
 
 <card>
     <name>Place Between Tides</name>
-    <set picURL="/Place Between Tides.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Place Between Tides.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost></manacost>
     <type>Enchantment Land - Island</type>
@@ -805,7 +805,7 @@ You may play Place Between Tides if you view it while scrying.</text>
 
 <card>
     <name>Shadow's Reflection</name>
-    <set picURL="/Shadow's Reflection.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Shadow's Reflection.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost></manacost>
     <type>Enchantment Land - Swamp</type>
@@ -817,7 +817,7 @@ Exile a black card from your hand: return Shadow's Reflection from your graveyar
 
 <card>
     <name>Flamespire</name>
-    <set picURL="/Flamespire.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Flamespire.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost></manacost>
     <type>Enchantment Land - Mountain</type>
@@ -829,7 +829,7 @@ Exile Flimespire from your hand: it deals 1 damage to any target.</text>
 
 <card>
     <name>The World-Quick</name>
-    <set picURL="/The World-Quick.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/The World-Quick.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost></manacost>
     <type>Enchantment Land - Forest</type>
@@ -841,7 +841,7 @@ Reveal an unrevealed green card from your hand: target creature you control gets
 
 <card>
     <name>Aphrodisic Entertainer</name>
-    <set picURL="/Aphrodisic Entertainer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Aphrodisic Entertainer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>GW</manacost>
     <type>Creature - Rabbit Artisan</type>
@@ -854,7 +854,7 @@ Whenever a creature with power 2 or less enters under your control, untap Aphrod
 
 <card>
     <name>Goated</name>
-    <set picURL="/Goated.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Goated.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>3{R/G}</manacost>
     <type>Instant</type>
@@ -866,7 +866,7 @@ If Goated was kicked, it has Rivalstorm. (Copy it for each spell an opponent has
 
 <card>
     <name>Lava-Geyser Ejectid</name>
-    <set picURL="/Lava-Geyser Ejectid.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Lava-Geyser Ejectid.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>5R</manacost>
     <type>Legendary Creature - Elemental</type>
@@ -878,7 +878,7 @@ Basic lands you control have, "Whenever you reveal a card from your hand and thi
 
 <card>
     <name>Ruthless Headmaster</name>
-    <set picURL="/Ruthless Headmaster.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ruthless Headmaster.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>2UR</manacost>
     <type>Creature - Wizard</type>
@@ -890,7 +890,7 @@ Basic lands you control have, "Whenever you reveal a card from your hand and thi
 
 <card>
     <name>Great-Wing Priestess</name>
-    <set picURL="/Great-Wing Priestess.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Great-Wing Priestess.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>3W</manacost>
     <type>Creature - Cat Cleric</type>
@@ -902,7 +902,7 @@ Basic lands you control have, "Whenever you reveal a card from your hand and thi
 
 <card>
     <name>Trickster Trago</name>
-    <set picURL="/Trickster Trago.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Trickster Trago.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>4U</manacost>
     <type>Legendary Creature - Lizard Wizard</type>
@@ -914,7 +914,7 @@ Basic lands you control have, "Whenever you reveal a card from your hand and thi
 
 <card>
     <name>Skitterjill</name>
-    <set picURL="/Skitterjill.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Skitterjill.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>W</manacost>
     <type>Creature - Dwarf Rabbit</type>
@@ -926,7 +926,7 @@ Duck - Skitterjill gets +0/+1 until end of turn. Target creature it's ducking be
 
 <card>
     <name>Mocking Bard</name>
-    <set picURL="/Mocking Bard.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mocking Bard.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>1B</manacost>
     <type>Creature - Reptile Bard</type>
@@ -938,7 +938,7 @@ Duck - Skitterjill gets +0/+1 until end of turn. Target creature it's ducking be
 
 <card>
     <name>Overcharged Spore Behemoth</name>
-    <set picURL="/Overcharged Spore Behemoth.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Overcharged Spore Behemoth.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>5GG</manacost>
     <type>Legendary Creature - Elemental Beast</type>
@@ -950,7 +950,7 @@ Whenever Overcharged Spore Behemoth deals combat damage, populate that many time
 
 <card>
     <name>Lethargic Drakus</name>
-    <set picURL="/Lethargic Drakus.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Lethargic Drakus.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2R</manacost>
     <type>Creature - Wyvern</type>
@@ -962,7 +962,7 @@ Lethargic Drakus doesn't untap in your upkeep unless you pay {1}.</text>
 
 <card>
     <name>Fiesty Rollick</name>
-    <set picURL="/Fiesty Rollick.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Fiesty Rollick.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1R</manacost>
     <type>Instant</type>
@@ -974,7 +974,7 @@ If Fiesty Rollick was kicked, add {r}.</text>
 
 <card>
     <name>Dancefloor Dragger</name>
-    <set picURL="/Dancefloor Dragger.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Dancefloor Dragger.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>R</manacost>
     <type>Creature - Alpaca Citizen</type>
@@ -985,7 +985,7 @@ If Fiesty Rollick was kicked, add {r}.</text>
 
 <card>
     <name>Deathmist Detonation</name>
-    <set picURL="/Deathmist Detonation.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Deathmist Detonation.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>2{R/B}</manacost>
     <type>Sorcery</type>
@@ -997,7 +997,7 @@ Deathmist Detonation does that much damage to target creature controlled by an o
 
 <card>
     <name>Spirit Spear</name>
-    <set picURL="/Spirit Spear.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Spirit Spear.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>1{G/W}</manacost>
     <type>Instant</type>
@@ -1008,7 +1008,7 @@ Horde 2 - If you control 2 or more creatures, target creature you control gains 
 
 <card>
     <name>Incendiary Canary</name>
-    <set picURL="/Incendiary Canary.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Incendiary Canary.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1R</manacost>
     <type>Creature - Bird</type>
@@ -1021,7 +1021,7 @@ Backup 1
 
 <card>
     <name>Terra-Reformist</name>
-    <set picURL="/Terra-Reformist.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Terra-Reformist.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>RG</manacost>
     <type>Creature - Human</type>
@@ -1033,7 +1033,7 @@ Whenever Terra-Reformist attacks, you may pay {r}{g}. If you do, search your lib
 
 <card>
     <name>Juju Farmer</name>
-    <set picURL="/Juju Farmer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Juju Farmer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>1G</manacost>
     <type>Creature - Beast</type>
@@ -1045,7 +1045,7 @@ Whenever Terra-Reformist attacks, you may pay {r}{g}. If you do, search your lib
 
 <card>
     <name>Floral Fling</name>
-    <set picURL="/Floral Fling.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Floral Fling.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>RG</manacost>
     <type>Instant </type>
@@ -1056,7 +1056,7 @@ Floral Fling deals damage equal to its power to any target. If its power was 3 o
 
 <card>
     <name>Gravefling</name>
-    <set picURL="/Gravefling.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Gravefling.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>BG</manacost>
     <type>Instant</type>
@@ -1066,7 +1066,7 @@ Floral Fling deals damage equal to its power to any target. If its power was 3 o
 
 <card>
     <name>Tumorfling</name>
-    <set picURL="/Tumorfling.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Tumorfling.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>UG</manacost>
     <type>Instant</type>
@@ -1077,7 +1077,7 @@ Tumorfling does damage equal to the number of counters on it to any target.</tex
 
 <card>
     <name>Tensionfling</name>
-    <set picURL="/Tensionfling.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Tensionfling.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>UR</manacost>
     <type>Instant</type>
@@ -1088,7 +1088,7 @@ You may counter any number of spells you control on the stack. Tension fling dea
 
 <card>
     <name>Conjuring the Masses</name>
-    <set picURL="/Conjuring the Masses.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Conjuring the Masses.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>1WB</manacost>
     <type>Enchantment</type>
@@ -1099,7 +1099,7 @@ Grave Horde 5 - If there are 5 or more creatures in your graveyard, creatures yo
 
 <card>
     <name>Collective Wail</name>
-    <set picURL="/Collective Wail.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Collective Wail.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>WB</manacost>
     <type>Sorcery</type>
@@ -1109,7 +1109,7 @@ Grave Horde 5 - If there are 5 or more creatures in your graveyard, creatures yo
 
 <card>
     <name>Lifeforce Extraction</name>
-    <set picURL="/Lifeforce Extraction.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Lifeforce Extraction.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>1BG</manacost>
     <type>Sorcery</type>
@@ -1120,7 +1120,7 @@ Grave Horde - Target creature gets -X/-X until end of turn and another target cr
 
 <card>
     <name>The Obsidian</name>
-    <set picURL="/The Obsidian.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/The Obsidian.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost>5</manacost>
     <type>Artifact</type>
@@ -1133,7 +1133,7 @@ Spells and abilities your opponents control can't cause you to reveal cards in y
 
 <card>
     <name>Terraformer Monk</name>
-    <set picURL="/Terraformer Monk.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Terraformer Monk.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>2{G/W}</manacost>
     <type>Creature - Alpaca Monk</type>
@@ -1145,7 +1145,7 @@ Landfall - Put a +1/+1 counter on Terraforming Monk.</text>
 
 <card>
     <name>Granel, Lie-Torcher</name>
-    <set picURL="/Granel, Lie-Torcher.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Granel, Lie-Torcher.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>1RRWW</manacost>
     <type>Legendary Creature - Rabbit Angel</type>
@@ -1157,7 +1157,7 @@ The first time an opponent draws a card on each of their turns, they may reveal 
 
 <card>
     <name>Slide In</name>
-    <set picURL="/Slide In.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Slide In.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>2{R/G}{R/G}</manacost>
     <type>Instant</type>
@@ -1167,7 +1167,7 @@ The first time an opponent draws a card on each of their turns, they may reveal 
 
 <card>
     <name>Force Behind</name>
-    <set picURL="/Force Behind.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Force Behind.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>{G/U}</manacost>
     <type>Instant</type>
@@ -1178,7 +1178,7 @@ Draw a card.</text>
 
 <card>
     <name>Survival Instinct</name>
-    <set picURL="/Survival Instinct.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Survival Instinct.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>{G/W}</manacost>
     <type>Instant</type>
@@ -1189,7 +1189,7 @@ Draw a card.</text>
 
 <card>
     <name>Pack Dog</name>
-    <set picURL="/Pack Dog.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Pack Dog.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>{R/W}</manacost>
     <type>Creature - Dog</type>
@@ -1201,7 +1201,7 @@ Horde 4 - Whenever Pack Dog attacks with at least 3 other creatures, it gets +1/
 
 <card>
     <name>Cunning Mink</name>
-    <set picURL="/Cunning Mink.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Cunning Mink.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>BB</manacost>
     <type>Creature - Mink Soldier</type>
@@ -1213,7 +1213,7 @@ Horde 4 - Whenever Pack Dog attacks with at least 3 other creatures, it gets +1/
 
 <card>
     <name>Snapstrike Una</name>
-    <set picURL="/Snapstrike Una.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Snapstrike Una.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3U</manacost>
     <type>Creature - Shark Soldier</type>
@@ -1225,7 +1225,7 @@ First Strike</text>
 
 <card>
     <name>Likeminded Tactician</name>
-    <set picURL="/Likeminded Tactician.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Likeminded Tactician.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Human Soldier</type>
@@ -1237,7 +1237,7 @@ If Likeminded Tactician and exactly one other creature attack, they each get +1/
 
 <card>
     <name>Relentless Fortification</name>
-    <set picURL="/Relentless Fortification.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Relentless Fortification.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost>2</manacost>
     <type>Sorcery</type>
@@ -1248,7 +1248,7 @@ Create a colorless 0/3 Boulder artifact creature token with defender.</text>
 
 <card>
     <name>Stone-Tosser Golem</name>
-    <set picURL="/Stone-Tosser Golem.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Stone-Tosser Golem.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>3{2/G}</manacost>
     <type>Creature - Construct</type>
@@ -1261,7 +1261,7 @@ When Stone-Tosser Golem enters, create a 0/3 colorless Boulder artifact creature
 
 <card>
     <name>Strength of the Age</name>
-    <set picURL="/Strength of the Age.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Strength of the Age.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>4WR</manacost>
     <type>Instant</type>
@@ -1273,7 +1273,7 @@ Untap each creature you control. They gain haste until end of turn. There is an 
 
 <card>
     <name>Illusory Forces</name>
-    <set picURL="/Illusory Forces.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Illusory Forces.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>1{W/B}</manacost>
     <type>Enchantment</type>
@@ -1283,7 +1283,7 @@ Untap each creature you control. They gain haste until end of turn. There is an 
 
 <card>
     <name>High-Ear Strike Captain</name>
-    <set picURL="/High-Ear Strike Captain.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/High-Ear Strike Captain.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Creature - Rabbit Soldier</type>
@@ -1295,7 +1295,7 @@ Horde 6 - If you control 6 or more creatures, creatures you control have vigilan
 
 <card>
     <name>Brute-Boxer Janth</name>
-    <set picURL="/Brute-Boxer Janth.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Brute-Boxer Janth.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2WW</manacost>
     <type>Legendary Creature - Beast Soldier</type>
@@ -1308,7 +1308,7 @@ Reveal a card: target opponent reveals a card. Activate only once per turn.</tex
 
 <card>
     <name>Encouraging Bixy</name>
-    <set picURL="/Encouraging Bixy.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Encouraging Bixy.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>{R/W}</manacost>
     <type>Creature - Rabbit Citizen</type>
@@ -1319,7 +1319,7 @@ Reveal a card: target opponent reveals a card. Activate only once per turn.</tex
 
 <card>
     <name>Worldly Navi-Gator</name>
-    <set picURL="/Worldly Navi-Gator.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Worldly Navi-Gator.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Creature - Reptile Soldier</type>
@@ -1331,7 +1331,7 @@ Reveal Navigator Captain from your hand: search your library for a basic plains 
 
 <card>
     <name>Crumblestorm</name>
-    <set picURL="/Crumblestorm.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Crumblestorm.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>5WW</manacost>
     <type>Instant</type>
@@ -1342,7 +1342,7 @@ Destroy all tapped nonland permanents.</text>
 
 <card>
     <name>Collective Cover</name>
-    <set picURL="/Collective Cover.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Collective Cover.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>3W</manacost>
     <type>Instant</type>
@@ -1354,7 +1354,7 @@ Horde 5 - If you control at 5 or more creatures, you gain 1 life for each creatu
 
 <card>
     <name>Curihoust</name>
-    <set picURL="/Curihoust.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Curihoust.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2W</manacost>
     <type>Enchantment Creature - Cat Spirit</type>
@@ -1366,7 +1366,7 @@ Duck - Reveal the top card of your library. If it has mana value 3 or less, you 
 
 <card>
     <name>Scardiest Cat</name>
-    <set picURL="/Scardiest Cat.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Scardiest Cat.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>1{W/B}{W/B}</manacost>
     <type>Enchantment Creature - Cat Spirit</type>
@@ -1380,7 +1380,7 @@ Lifelink</text>
 
 <card>
     <name>The Second Wind</name>
-    <set picURL="/The Second Wind.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/The Second Wind.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>2{W/U}{W/U}</manacost>
     <type>Enchantment Creature - Elemental</type>
@@ -1394,7 +1394,7 @@ Creatures you control with toughness 2 or less have vigilance.</text>
 
 <card>
     <name>Cape Flip</name>
-    <set picURL="/Cape Flip.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Cape Flip.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>1UB</manacost>
     <type>Instant</type>
@@ -1405,7 +1405,7 @@ Counter target spell. </text>
 
 <card>
     <name>Soul Sear</name>
-    <set picURL="/Soul Sear.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Soul Sear.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2R</manacost>
     <type>Enchantment</type>
@@ -1416,7 +1416,7 @@ Counter target spell. </text>
 
 <card>
     <name>Sniveling Snake</name>
-    <set picURL="/Sniveling Snake.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Sniveling Snake.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>1B</manacost>
     <type>Creature - Reptile Rogue</type>
@@ -1427,7 +1427,7 @@ Counter target spell. </text>
 
 <card>
     <name>Encouragement</name>
-    <set picURL="/Encouragement.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Encouragement.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>1{U/W}</manacost>
     <type>Sorcery</type>
@@ -1437,7 +1437,7 @@ Counter target spell. </text>
 
 <card>
     <name>Overrun</name>
-    <set picURL="/Overrun.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Overrun.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>1{R/G}</manacost>
     <type>Enchantment </type>
@@ -1448,7 +1448,7 @@ Horde 3 - If you control 3 more creatures, creatures you control have trample. <
 
 <card>
     <name>Active Duty Bonus</name>
-    <set picURL="/Active Duty Bonus.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Active Duty Bonus.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2W</manacost>
     <type>Sorcery</type>
@@ -1460,7 +1460,7 @@ Horde 3 - If you control 3 more creatures, creatures you control have trample. <
 
 <card>
     <name>High-Brow Gatekeeper</name>
-    <set picURL="/High-Brow Gatekeeper.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/High-Brow Gatekeeper.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>3WW</manacost>
     <type>Creature - Rhino Soldier</type>
@@ -1473,7 +1473,7 @@ Whenever a creature ducks behind High-Brow Gatekeeper, High-Brow Gatekeeper gets
 
 <card>
     <name>Tap-Dancing Heron</name>
-    <set picURL="/Tap-Dancing Heron.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Tap-Dancing Heron.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Bird</type>
@@ -1485,7 +1485,7 @@ Whenever a spell or ability you control would tap X creatures, you may give this
 
 <card>
     <name>Reinforcement Whale</name>
-    <set picURL="/Reinforcement Whale.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Reinforcement Whale.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>U</manacost>
     <type>Creature - Whale</type>
@@ -1499,7 +1499,7 @@ Flying</text>
 
 <card>
     <name>Carrion Bird</name>
-    <set picURL="/Carrion Bird.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Carrion Bird.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>1{R/B}</manacost>
     <type>Creature - Bird</type>
@@ -1511,7 +1511,7 @@ Grave Horde - Carrion Bird gets +X/+0, where X is the number of Birds in your gr
 
 <card>
     <name>Devoted Bombardier</name>
-    <set picURL="/Devoted Bombardier.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Devoted Bombardier.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1RR</manacost>
     <type>Creature - Human Scout</type>
@@ -1522,7 +1522,7 @@ Grave Horde - Carrion Bird gets +X/+0, where X is the number of Birds in your gr
 
 <card>
     <name>Oozing Oozer</name>
-    <set picURL="/Oozing Oozer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Oozing Oozer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>2{B/G}</manacost>
     <type>Creature - Ooze</type>
@@ -1534,7 +1534,7 @@ Landfall - Oozing Oozer gains deathtouch until end of turn.</text>
 
 <card>
     <name>Free Spirit</name>
-    <set picURL="/Free Spirit.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Free Spirit.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>2{U/W}</manacost>
     <type>Enchantment Creature - Bird Spirit</type>
@@ -1548,7 +1548,7 @@ Whenever Free Spirit deals combat damage, you may return it to your hand.</text>
 
 <card>
     <name>Manglevine</name>
-    <set picURL="/Manglevine.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Manglevine.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>{B/G}</manacost>
     <type>Instant</type>
@@ -1561,7 +1561,7 @@ Whenever Free Spirit deals combat damage, you may return it to your hand.</text>
 
 <card>
     <name>Invasive Sproutkin</name>
-    <set picURL="/Invasive Sproutkin.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Invasive Sproutkin.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>1G</manacost>
     <type>Enchantment Creature - Plant</type>
@@ -1573,7 +1573,7 @@ Enchanted land is a 1/1 green Plant creature in addition to its other types. Whe
 
 <card>
     <name>Relentless Pursuit</name>
-    <set picURL="/Relentless Pursuit.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Relentless Pursuit.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>1WU</manacost>
     <type>Instant</type>
@@ -1584,7 +1584,7 @@ Exile target revealed card in their hand.</text>
 
 <card>
     <name>Future in Flames</name>
-    <set picURL="/Future in Flames.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Future in Flames.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>3R</manacost>
     <type>Instant</type>
@@ -1595,7 +1595,7 @@ You may cast Future in Flames as it is being scried or revealed from your hand o
 
 <card>
     <name>Dust Slice</name>
-    <set picURL="/Dust Slice.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Dust Slice.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>WWW</manacost>
     <type>Instant</type>
@@ -1606,7 +1606,7 @@ Exile target permanent or spell. </text>
 
 <card>
     <name>Accept the Facts</name>
-    <set picURL="/Accept the Facts.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Accept the Facts.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>UU</manacost>
     <type>Instant</type>
@@ -1617,7 +1617,7 @@ If Openest Mind is countered, draw a card as it is being put into the graveyard.
 
 <card>
     <name>Invasive Denial</name>
-    <set picURL="/Invasive Denial.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Invasive Denial.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>1{W/U}</manacost>
     <type>Instant</type>
@@ -1627,7 +1627,7 @@ If Openest Mind is countered, draw a card as it is being put into the graveyard.
 
 <card>
     <name>Halt</name>
-    <set picURL="/Halt.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Halt.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>U</manacost>
     <type>Instant</type>
@@ -1637,7 +1637,7 @@ If Openest Mind is countered, draw a card as it is being put into the graveyard.
 
 <card>
     <name>Absorb Shock</name>
-    <set picURL="/Absorb Shock.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Absorb Shock.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>{G/U}</manacost>
     <type>Instant</type>
@@ -1647,7 +1647,7 @@ If Openest Mind is countered, draw a card as it is being put into the graveyard.
 
 <card>
     <name>Out</name>
-    <set picURL="/Out.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Out.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>{W/B}</manacost>
     <type>Sorcery</type>
@@ -1658,7 +1658,7 @@ Exile target creature at the beginning of the next end step. When you do, its co
 
 <card>
     <name>Manashower</name>
-    <set picURL="/Manashower.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Manashower.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>1{G/R}</manacost>
     <type>Instant</type>
@@ -1668,7 +1668,7 @@ Exile target creature at the beginning of the next end step. When you do, its co
 
 <card>
     <name>Devil-Grin Captain</name>
-    <set picURL="/Devil-Grin Captain.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Devil-Grin Captain.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2RR</manacost>
     <type>Creature - Human Soldier</type>
@@ -1681,7 +1681,7 @@ At the beginning of each opponent's end step, if they have cast only one spell, 
 
 <card>
     <name>Acceptance</name>
-    <set picURL="/Acceptance.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Acceptance.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>1B</manacost>
     <type>Instant</type>
@@ -1691,7 +1691,7 @@ At the beginning of each opponent's end step, if they have cast only one spell, 
 
 <card>
     <name>Postmortem Author</name>
-    <set picURL="/Postmortem Author.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Postmortem Author.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Enchantment Creature - Human Spirit</type>
@@ -1702,7 +1702,7 @@ At the beginning of each opponent's end step, if they have cast only one spell, 
 
 <card>
     <name>Overexcite</name>
-    <set picURL="/Overexcite.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Overexcite.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>R</manacost>
     <type>Instant</type>
@@ -1714,7 +1714,7 @@ Overload {2}{r} (You may cast this spell for its overload cost. If you do, repla
 
 <card>
     <name>Plague Bearer</name>
-    <set picURL="/Plague Bearer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Plague Bearer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>1B{B/P}</manacost>
     <type>Creature - Horror</type>
@@ -1728,7 +1728,7 @@ When Plague Bearer dies, distribute any -1/-1 counters on it among any number of
 
 <card>
     <name>Death-Defying Hookshot</name>
-    <set picURL="/Death-Defying Hookshot.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Death-Defying Hookshot.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2{2/B}</manacost>
     <type>Artifact - Equipment</type>
@@ -1741,7 +1741,7 @@ Equip {2}{b}</text>
 
 <card>
     <name>The Missing Fragment</name>
-    <set picURL="/The Missing Fragment.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/The Missing Fragment.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>4WW</manacost>
     <type>Enchantment Creature - Spirit</type>
@@ -1754,7 +1754,7 @@ Horde 6 - If you control 6 or more creatures, creatures you control have vigilan
 
 <card>
     <name>Drakus of Volcanic Storms</name>
-    <set picURL="/Drakus of Volcanic Storms.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Drakus of Volcanic Storms.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>6RR</manacost>
     <type>Creature - Elemental</type>
@@ -1768,7 +1768,7 @@ If Volcanic Horde would die, it first deals damage to all creatures equal to you
 
 <card>
     <name>Divine Bullhorn</name>
-    <set picURL="/Divine Bullhorn.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Divine Bullhorn.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost>2</manacost>
     <type>Artifact - Equipment</type>
@@ -1780,7 +1780,7 @@ Equipped creature gets +1/+1 and "Landfall - Put a +1/+1 counter on this creatur
 
 <card>
     <name>Persistent Tuyon</name>
-    <set picURL="/Persistent Tuyon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Persistent Tuyon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>3G</manacost>
     <type>Creature - Tuyon</type>
@@ -1793,7 +1793,7 @@ Persistent Tuyon gets +0/+1 for each creature it's blocking.</text>
 
 <card>
     <name>Ambitious Gambit</name>
-    <set picURL="/Ambitious Gambit.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ambitious Gambit.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>2{G/R}</manacost>
     <type>Sorcery</type>
@@ -1805,7 +1805,7 @@ Rivalstorm (Copy this spell for each spell an opponent cast this turn.)</text>
 
 <card>
     <name>Afterlife Leech</name>
-    <set picURL="/Afterlife Leech.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Afterlife Leech.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>{B/G}{B/G}</manacost>
     <type>Enchantment Creature - Spirit Leech</type>
@@ -1819,7 +1819,7 @@ At the beginning of your end step, if Afterlife Leech is an aura, place a +1/+1 
 
 <card>
     <name>Fuse-burners</name>
-    <set picURL="/Fuse-burners.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Fuse-burners.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>RRR</manacost>
     <type>Creature - Plant Weird</type>
@@ -1833,7 +1833,7 @@ Fuse-burners gets -0/-1 for each time counter on it.</text>
 
 <card>
     <name>Enlisting Trickster</name>
-    <set picURL="/Enlisting Trickster.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Enlisting Trickster.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2R</manacost>
     <type>Creature - Dog</type>
@@ -1845,7 +1845,7 @@ If you cast a creature during combat that was revealed for Enlisting Shadow's ni
 
 <card>
     <name>Compulsive Maniac</name>
-    <set picURL="/Compulsive Maniac.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Compulsive Maniac.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1R</manacost>
     <type>Creature - Reptile Ninja</type>
@@ -1858,7 +1858,7 @@ Whenever Compulsive Maniac deals combat damage, exile the top two cards of your 
 
 <card>
     <name>Meek Saboteur</name>
-    <set picURL="/Meek Saboteur.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Meek Saboteur.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>RR</manacost>
     <type>Creature - Wizard Imp</type>
@@ -1870,7 +1870,7 @@ Sacrifice Meek Saboteur: It deals 1 damage to target opponent and they reveal a 
 
 <card>
     <name>Well-Travelled Alpakon</name>
-    <set picURL="/Well-Travelled Alpakon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Well-Travelled Alpakon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>{G/W}</manacost>
     <type>Creature - Alpaca</type>
@@ -1882,7 +1882,7 @@ This creature gets +1/+1 so long as you control at least 2 basic lands with diff
 
 <card>
     <name>Mother Alpakon</name>
-    <set picURL="/Mother Alpakon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mother Alpakon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>X5{G/W}</manacost>
     <type>Legendary Creature - Alpaca Giant</type>
@@ -1895,7 +1895,7 @@ Whenever a creature ducks behind Mother Alpakon, Mother Alpakon gets +1/+0 until
 
 <card>
     <name>Frozen Dragon</name>
-    <set picURL="/Frozen Dragon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Frozen Dragon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3UU</manacost>
     <type>Legendary Creature - Dragon</type>
@@ -1909,7 +1909,7 @@ Islands you control have "{1}, {t}: tap target permanent."</text>
 
 <card>
     <name>Frozen Dragon's Gaze</name>
-    <set picURL="/Frozen Dragon's Gaze.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Frozen Dragon's Gaze.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Instant</type>
@@ -1920,7 +1920,7 @@ Cycling {2}</text>
 
 <card>
     <name>Hoarding Gobling</name>
-    <set picURL="/Hoarding Gobling.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Hoarding Gobling.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1R</manacost>
     <type>Creature - Goblin Dwarf</type>
@@ -1932,7 +1932,7 @@ Hoarding Gobling can't attack alone.</text>
 
 <card>
     <name>Mossroamer</name>
-    <set picURL="/Mossroamer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mossroamer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>1{B/G}</manacost>
     <type>Creature - Ooze</type>
@@ -1944,7 +1944,7 @@ When Mossroamer enters, you may search your library for a basic land, put it ont
 
 <card>
     <name>Regrowl</name>
-    <set picURL="/Regrowl.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Regrowl.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>2BG</manacost>
     <type>Enchantment Creature - Tiger Spirit</type>
@@ -1957,7 +1957,7 @@ Landfall - Regrowl or enchanted creature gets +1/+1 and gains lifelink until end
 
 <card>
     <name>Viss, the Dauntless</name>
-    <set picURL="/Viss, the Dauntless.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Viss, the Dauntless.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>2{R/W}{R/W}</manacost>
     <type>Legendary Creature - Warrior</type>
@@ -1970,7 +1970,7 @@ If Viss would be returned to the battlefield from the graveyard, it does so with
 
 <card>
     <name>Call Out</name>
-    <set picURL="/Call Out.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Call Out.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>{U/R}</manacost>
     <type>Instant</type>
@@ -1980,7 +1980,7 @@ If Viss would be returned to the battlefield from the graveyard, it does so with
 
 <card>
     <name>Flicker Bolt</name>
-    <set picURL="/Flicker Bolt.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Flicker Bolt.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>2{U/R}</manacost>
     <type>Instant</type>
@@ -1990,7 +1990,7 @@ If Viss would be returned to the battlefield from the graveyard, it does so with
 
 <card>
     <name>Spontaneous Bet</name>
-    <set picURL="/Spontaneous Bet.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Spontaneous Bet.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>RG</manacost>
     <type>Instant</type>
@@ -2000,7 +2000,7 @@ If Viss would be returned to the battlefield from the graveyard, it does so with
 
 <card>
     <name>Battlefield Confusion</name>
-    <set picURL="/Battlefield Confusion.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Battlefield Confusion.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>RR</manacost>
     <type>Sorcery</type>
@@ -2011,7 +2011,7 @@ Rivalstorm (Copy this spell for each spell an opponent has cast this turn.)</tex
 
 <card>
     <name>Void Dweller</name>
-    <set picURL="/Void Dweller.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Void Dweller.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>4BB</manacost>
     <type>Legendary Creature - Horror</type>
@@ -2026,7 +2026,7 @@ Any player may activate Void Dweller's abilities.</text>
 
 <card>
     <name>Birdcrank</name>
-    <set picURL="/Birdcrank.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Birdcrank.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>3{B/P}</manacost>
     <type>Artifact</type>
@@ -2037,7 +2037,7 @@ Any player may activate Void Dweller's abilities.</text>
 
 <card>
     <name>Wingmate Momentum</name>
-    <set picURL="/Wingmate Momentum.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Wingmate Momentum.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3U</manacost>
     <type>Sorcery</type>
@@ -2049,7 +2049,7 @@ Return any number of creatures you control to your hand. That many target creatu
 
 <card>
     <name>Stumbling Flight</name>
-    <set picURL="/Stumbling Flight.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Stumbling Flight.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>2{W/B}</manacost>
     <type>Instant</type>
@@ -2059,7 +2059,7 @@ Return any number of creatures you control to your hand. That many target creatu
 
 <card>
     <name>Feeding Wraith</name>
-    <set picURL="/Feeding Wraith.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Feeding Wraith.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Creature - Ghoul</type>
@@ -2071,7 +2071,7 @@ When Feeding Wraith enters, destroy up to one target enchantment. If you do, mak
 
 <card>
     <name>Revel in Might</name>
-    <set picURL="/Revel in Might.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Revel in Might.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>5GG</manacost>
     <type>Instant</type>
@@ -2082,7 +2082,7 @@ Target creature you control gains trample and +X/+0 until end of turn, and then 
 
 <card>
     <name>Diminishing Voices</name>
-    <set picURL="/Diminishing Voices.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Diminishing Voices.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>B</manacost>
     <type>Instant</type>
@@ -2092,7 +2092,7 @@ Target creature you control gains trample and +X/+0 until end of turn, and then 
 
 <card>
     <name>Piggy-Back Deconstructor</name>
-    <set picURL="/Piggy-Back Deconstructor.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Piggy-Back Deconstructor.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>1{U/R}</manacost>
     <type>Creature - Bird Goblin</type>
@@ -2103,7 +2103,7 @@ Target creature you control gains trample and +X/+0 until end of turn, and then 
 
 <card>
     <name>Aisul, the Solitary Flame</name>
-    <set picURL="/Aisul, the Solitary Flame.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Aisul, the Solitary Flame.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2BB</manacost>
     <type>Legendary Creature - Human Husk</type>
@@ -2117,7 +2117,7 @@ When Aisul attacks alone, choose one or both--
 
 <card>
     <name>March the Foothills</name>
-    <set picURL="/March the Foothills.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/March the Foothills.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>2{G/U}{G/U}</manacost>
     <type>Sorcery</type>
@@ -2128,7 +2128,7 @@ Creatures you control get +X/+X until end of turn, where X is the number of time
 
 <card>
     <name>Indecisive Threat</name>
-    <set picURL="/Indecisive Threat.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Indecisive Threat.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2BB</manacost>
     <type>Creature - Dog Mercenary</type>
@@ -2140,7 +2140,7 @@ When Indecisive threat dies, split the nonland permanents target opponent contro
 
 <card>
     <name>Condescending Dismissal</name>
-    <set picURL="/Condescending Dismissal.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Condescending Dismissal.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>B</manacost>
     <type>Instant</type>
@@ -2152,7 +2152,7 @@ When Indecisive threat dies, split the nonland permanents target opponent contro
 
 <card>
     <name>Unconfident Pute</name>
-    <set picURL="/Unconfident Pute.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Unconfident Pute.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>2{B/R}</manacost>
     <type>Creature - Bird Dwarf</type>
@@ -2164,7 +2164,7 @@ Duck - Unconfident Pute loses defender until end of turn. Untap it. Activate onl
 
 <card>
     <name>Burrowing Moledon</name>
-    <set picURL="/Burrowing Moledon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Burrowing Moledon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2R</manacost>
     <type>Creature - Dinosaur Mole</type>
@@ -2176,7 +2176,7 @@ Duck - Unconfident Pute loses defender until end of turn. Untap it. Activate onl
 
 <card>
     <name>Rallying Wimp</name>
-    <set picURL="/Rallying Wimp.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Rallying Wimp.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>WR</manacost>
     <type>Creature - Dwarf Imp</type>
@@ -2190,7 +2190,7 @@ Creatures you control with duck have haste.
 
 <card>
     <name>Mirthful Stomping</name>
-    <set picURL="/Mirthful Stomping.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mirthful Stomping.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>RG</manacost>
     <type>Sorcery</type>
@@ -2200,7 +2200,7 @@ Creatures you control with duck have haste.
 
 <card>
     <name>Scatterbomb</name>
-    <set picURL="/Scatterbomb.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Scatterbomb.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>XWG</manacost>
     <type>Sorcery</type>
@@ -2212,7 +2212,7 @@ For each two creatures that convoked this spell, put a +1/+1 counter on target c
 
 <card>
     <name>Showcropper</name>
-    <set picURL="/Showcropper.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Showcropper.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2BB</manacost>
     <type>Creature - Human Assassin</type>
@@ -2225,7 +2225,7 @@ Flash, Menace</text>
 
 <card>
     <name>Therapy Whale</name>
-    <set picURL="/Therapy Whale.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Therapy Whale.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>6UU</manacost>
     <type>Creature - Whale Advisor</type>
@@ -2238,7 +2238,7 @@ When Therapy Whale enters, scry 1 and draw a card. You may exile target instant 
 
 <card>
     <name>Hallway Studier</name>
-    <set picURL="/Hallway Studier.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Hallway Studier.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>2U</manacost>
     <type>Creature - Ninja Student</type>
@@ -2251,7 +2251,7 @@ You may cast Hallway Studier as it's being scried.</text>
 
 <card>
     <name>Library Shrieker</name>
-    <set picURL="/Library Shrieker.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Library Shrieker.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>2U</manacost>
     <type>Creature - Ghoul Citizen</type>
@@ -2264,7 +2264,7 @@ Whenever a creature ducks behind Libarary Shrieker, you may return target creatu
 
 <card>
     <name>Imposing Aura</name>
-    <set picURL="/Imposing Aura.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Imposing Aura.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>2{U/B}</manacost>
     <type>Enchantment - Aura</type>
@@ -2276,7 +2276,7 @@ Enchanted creature gets +2/+2. To assign a creature to block enchanted creature,
 
 <card>
     <name>Feast of Waking Dreams</name>
-    <set picURL="/Feast of Waking Dreams.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Feast of Waking Dreams.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>1UB</manacost>
     <type>Instant</type>
@@ -2286,7 +2286,7 @@ Enchanted creature gets +2/+2. To assign a creature to block enchanted creature,
 
 <card>
     <name>Mob Momentum</name>
-    <set picURL="/Mob Momentum.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mob Momentum.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2RR</manacost>
     <type>Enchantment</type>
@@ -2298,7 +2298,7 @@ If you kicked Mob Momentum, it has Rivalstorm. (Copy it for each spell an oppone
 
 <card>
     <name>Hit the Ground Running</name>
-    <set picURL="/Hit the Ground Running.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Hit the Ground Running.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>2{R/G}</manacost>
     <type>Enchantment</type>
@@ -2309,7 +2309,7 @@ Landfall - Place a 1/+1 counter on target creature that entered the battlefield 
 
 <card>
     <name>Composted Farmer</name>
-    <set picURL="/Composted Farmer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Composted Farmer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>1{B/G}</manacost>
     <type>Creature - Zombie</type>
@@ -2321,7 +2321,7 @@ When Composted Farmer enters, you may play an additional land until end of turn 
 
 <card>
     <name>Wide-Stance Visionary</name>
-    <set picURL="/Wide-Stance Visionary.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Wide-Stance Visionary.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>2UG</manacost>
     <type>Creature - Human Cleric</type>
@@ -2333,7 +2333,7 @@ Whenever you scry one or more, Wide-Stance Visionary can block that many more cr
 
 <card>
     <name>Impression of Greed</name>
-    <set picURL="/Impression of Greed.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Impression of Greed.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>3BB</manacost>
     <type>Legendary Enchantment Creature - Nightmare</type>
@@ -2346,7 +2346,7 @@ Whenever Impression of Greed deals combat damage, defending player makes a Treas
 
 <card>
     <name>Plant Slowly</name>
-    <set picURL="/Plant Slowly.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Plant Slowly.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>2G</manacost>
     <type>Sorcery</type>
@@ -2357,7 +2357,7 @@ Search your library for a land that can produce mana of the chosen color and put
 
 <card>
     <name>Overgenerous Symbiote</name>
-    <set picURL="/Overgenerous Symbiote.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Overgenerous Symbiote.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>3{G/U}{G/U}</manacost>
     <type>Creature - Plant Horse Goblin</type>
@@ -2369,7 +2369,7 @@ Search your library for a land that can produce mana of the chosen color and put
 
 <card>
     <name>Unconfident War Elephant</name>
-    <set picURL="/Unconfident War Elephant.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Unconfident War Elephant.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>2G</manacost>
     <type>Creature - Elephant</type>
@@ -2381,7 +2381,7 @@ Unconfident War Elephant can't attack unless a creature has ducked behind it thi
 
 <card>
     <name>Shroom Gator Randy</name>
-    <set picURL="/Shroom Gator Randy.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Shroom Gator Randy.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>URG</color>
     <manacost>1{G/U}{R/G}</manacost>
     <type>Creature - Dwarf Reptile</type>
@@ -2393,7 +2393,7 @@ Unconfident War Elephant can't attack unless a creature has ducked behind it thi
 
 <card>
     <name>Ninth Life</name>
-    <set picURL="/Ninth Life.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ninth Life.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>{W/B}</manacost>
     <type>Enchantment Creature - Cat Spirit</type>
@@ -2406,7 +2406,7 @@ Enchanted creature gets +1/+1.</text>
 
 <card>
     <name>Reoccuring Bullying</name>
-    <set picURL="/Reoccuring Bullying.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Reoccuring Bullying.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>W</manacost>
     <type>Instant</type>
@@ -2417,7 +2417,7 @@ Untap that creature.</text>
 
 <card>
     <name>Turn Brave</name>
-    <set picURL="/Turn Brave.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Turn Brave.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>{R/W}</manacost>
     <type>Instant</type>
@@ -2427,7 +2427,7 @@ Untap that creature.</text>
 
 <card>
     <name>Dweeb Detector</name>
-    <set picURL="/Dweeb Detector.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Dweeb Detector.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>{R/B}</manacost>
     <type>Artifact</type>
@@ -2437,7 +2437,7 @@ Untap that creature.</text>
 
 <card>
     <name>Red-Hot Hooves</name>
-    <set picURL="/Red-Hot Hooves.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Red-Hot Hooves.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>2{U/R}</manacost>
     <type>Artifact Creature - Horse Vehicle</type>
@@ -2449,7 +2449,7 @@ Crew 2</text>
 
 <card>
     <name>Final Day</name>
-    <set picURL="/Final Day.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Final Day.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>2WB</manacost>
     <type>Sorcery</type>
@@ -2459,7 +2459,7 @@ Crew 2</text>
 
 <card>
     <name>Olfactory Disrupter</name>
-    <set picURL="/Olfactory Disrupter.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Olfactory Disrupter.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>RB</manacost>
     <type>Creature - Skunk Soldier</type>
@@ -2473,7 +2473,7 @@ Whenever a creature ducks behind Olfactory Disrupter choose 1--
 
 <card>
     <name>Up-Front Mercenary</name>
-    <set picURL="/Up-Front Mercenary.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Up-Front Mercenary.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Creature - Goblin Mercenary</type>
@@ -2486,7 +2486,7 @@ Whenever a creature ducks behind Olfactory Disrupter choose 1--
 
 <card>
     <name>Lemme See!</name>
-    <set picURL="/Lemme See!.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Lemme See!.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>B</manacost>
     <type>Sorcery</type>
@@ -2496,7 +2496,7 @@ Whenever a creature ducks behind Olfactory Disrupter choose 1--
 
 <card>
     <name>Nosey Officer</name>
-    <set picURL="/Nosey Officer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Nosey Officer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>3B</manacost>
     <type>Creature - Wolf Detective</type>
@@ -2507,7 +2507,7 @@ Whenever a creature ducks behind Olfactory Disrupter choose 1--
 
 <card>
     <name>Worldtree Adherent</name>
-    <set picURL="/Worldtree Adherent.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Worldtree Adherent.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>2GG</manacost>
     <type>Creature - Reptile Cleric</type>
@@ -2518,7 +2518,7 @@ Whenever a creature ducks behind Olfactory Disrupter choose 1--
 
 <card>
     <name>Inviting Shroomling</name>
-    <set picURL="/Inviting Shroomling.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Inviting Shroomling.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>1GG</manacost>
     <type>Creature - Dwarf Spore</type>
@@ -2530,7 +2530,7 @@ Whenever a creature ducks behind Olfactory Disrupter choose 1--
 
 <card>
     <name>Owhale</name>
-    <set picURL="/Owhale.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Owhale.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>6U</manacost>
     <type>Creature - Bird Whale</type>
@@ -2544,7 +2544,7 @@ Other creatures you control with flying get +1/+1. </text>
 
 <card>
     <name>Exploitative Liz</name>
-    <set picURL="/Exploitative Liz.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Exploitative Liz.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1UU</manacost>
     <type>Creature - Reptile Citizen</type>
@@ -2556,7 +2556,7 @@ Whenever Exploitative Liz enters or ducks behind an attacking or blocking creatu
 
 <card>
     <name>Reattempt</name>
-    <set picURL="/Reattempt.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Reattempt.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>UB</manacost>
     <type>Sorcery</type>
@@ -2566,7 +2566,7 @@ Whenever Exploitative Liz enters or ducks behind an attacking or blocking creatu
 
 <card>
     <name>Renee, Regretful Traveller</name>
-    <set picURL="/Renee, Regretful Traveller.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Renee, Regretful Traveller.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>BBB</manacost>
     <type>Creature - Human</type>
@@ -2578,7 +2578,7 @@ Landfall - you may cast target creature or enchantment from your graveyard until
 
 <card>
     <name>Brutal Honesty</name>
-    <set picURL="/Brutal Honesty.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Brutal Honesty.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2WW</manacost>
     <type>Enchantment</type>
@@ -2590,7 +2590,7 @@ All cards players of the chosen type control or have in their hand have Transpar
 
 <card>
     <name>Honest Brutality</name>
-    <set picURL="/Honest Brutality.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Honest Brutality.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>1{B/R}</manacost>
     <type>Instant</type>
@@ -2601,7 +2601,7 @@ Destroy target creature unless its controller pays {4}.</text>
 
 <card>
     <name>Direct Bolt</name>
-    <set picURL="/Direct Bolt.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Direct Bolt.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>R</manacost>
     <type>Instant </type>
@@ -2612,7 +2612,7 @@ Direct Bolt deals 3 damage to any target. If its controller pays {3}, it does 2 
 
 <card>
     <name>Mirru, One With Her Army</name>
-    <set picURL="/Mirru, One With Her Army.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mirru, One With Her Army.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WRG</color>
     <manacost>1W{R/G}</manacost>
     <type>Legendary Creature - Rabbit Monk</type>
@@ -2625,7 +2625,7 @@ Horde 5 - If you control 5 or more creatures, creatures you control get +1/+1 an
 
 <card>
     <name>Unashamed Thoughts</name>
-    <set picURL="/Unashamed Thoughts.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Unashamed Thoughts.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>3{G/U}</manacost>
     <type>Enchantment</type>
@@ -2637,7 +2637,7 @@ The second time you reveal a card each turn, draw a card.</text>
 
 <card>
     <name>Okal, Overgrown Gardener</name>
-    <set picURL="/Okal, Overgrown Gardener.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Okal, Overgrown Gardener.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>1GGG</manacost>
     <type>Legendary Creature - Rabbit Cleric</type>
@@ -2650,7 +2650,7 @@ Landfall - Put a +1/+1 counter on target creature you control. Then proliferate.
 
 <card>
     <name>Enveloping Hills</name>
-    <set picURL="/Enveloping Hills.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Enveloping Hills.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>U{G/U}</manacost>
     <type>Instant</type>
@@ -2661,7 +2661,7 @@ Landfall - if you played a land this turn, this spell can't be countered.</text>
 
 <card>
     <name>Grave-Gardener</name>
-    <set picURL="/Grave-Gardener.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Grave-Gardener.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>2BG</manacost>
     <type>Creature - Reptile</type>
@@ -2672,7 +2672,7 @@ Landfall - if you played a land this turn, this spell can't be countered.</text>
 
 <card>
     <name>Ever-Raging Terrance</name>
-    <set picURL="/Ever-Raging Terrance.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ever-Raging Terrance.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>1{B/R}</manacost>
     <type>Creature - Reptile Citizen</type>
@@ -2683,7 +2683,7 @@ Landfall - if you played a land this turn, this spell can't be countered.</text>
 
 <card>
     <name>Ancient Nestite</name>
-    <set picURL="/Ancient Nestite.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ancient Nestite.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>2{W/U}</manacost>
     <type>Creature - Plant Wolf</type>
@@ -2695,7 +2695,7 @@ Landfall - create a tapped, blue and white 1/1 Bird token with flying onto the b
 
 <card>
     <name>Resis, Garden Assistant</name>
-    <set picURL="/Resis, Garden Assistant.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Resis, Garden Assistant.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>1{G/W}</manacost>
     <type>Creature - Rabbit Citizen</type>
@@ -2706,7 +2706,7 @@ Landfall - create a tapped, blue and white 1/1 Bird token with flying onto the b
 
 <card>
     <name>Spirit Circle</name>
-    <set picURL="/Spirit Circle.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Spirit Circle.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>2{W/B}</manacost>
     <type>Enchantment</type>
@@ -2717,7 +2717,7 @@ Whenever Spirit Circle or another enchantment you control leaves the battlefield
 
 <card>
     <name>Truth Crystal</name>
-    <set picURL="/Truth Crystal.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Truth Crystal.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WUB</color>
     <manacost>2U{B/W}</manacost>
     <type>Artifact</type>
@@ -2728,7 +2728,7 @@ The first time an opponent reveals a card to you from their hand on each of thei
 
 <card>
     <name>Flaminghost</name>
-    <set picURL="/Flaminghost.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Flaminghost.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Creature - Bird Parasite</type>
@@ -2740,7 +2740,7 @@ Cycling {1}{b}</text>
 
 <card>
     <name>Goblidant</name>
-    <set picURL="/Goblidant.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Goblidant.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>2{B/R}</manacost>
     <type>Creature - Goblin</type>
@@ -2751,7 +2751,7 @@ Cycling {1}{b}</text>
 
 <card>
     <name>Reharvest Engine</name>
-    <set picURL="/Reharvest Engine.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Reharvest Engine.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>3{B/G}</manacost>
     <type>Artifact</type>
@@ -2763,7 +2763,7 @@ Sacrifice Reharvest Engine: Draw a card.</text>
 
 <card>
     <name>Swelling Field</name>
-    <set picURL="/Swelling Field.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Swelling Field.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Land</type>
@@ -2775,7 +2775,7 @@ You may play Swelling Field on an opponent's turn even if you played a land on y
 
 <card>
     <name>Group Rebuttal</name>
-    <set picURL="/Group Rebuttal.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Group Rebuttal.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>UG</manacost>
     <type>Instant</type>
@@ -2786,7 +2786,7 @@ Horde 3 - If you control 3 or more creatures, counter target spell instead. Then
 
 <card>
     <name>It That Arrives</name>
-    <set picURL="/It That Arrives.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/It That Arrives.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>7{B/G}{B/G}</manacost>
     <type>Legendary Creature - Elemental Spirit</type>
@@ -2799,7 +2799,7 @@ Transparent creatures you control get +1/+1 and have trample and deathtouch.</te
 
 <card>
     <name>Glittering Starchild</name>
-    <set picURL="/Glittering Starchild.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Glittering Starchild.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WBR</color>
     <manacost>WBR</manacost>
     <type>Enchantment Creature - Astral Spirit</type>
@@ -2812,7 +2812,7 @@ When Glittering Starchild dies, add {w}, {b}, or {r}.</text>
 
 <card>
     <name>Snatch</name>
-    <set picURL="/Snatch.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Snatch.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>{B/R}</manacost>
     <type>Instant</type>
@@ -2822,7 +2822,7 @@ When Glittering Starchild dies, add {w}, {b}, or {r}.</text>
 
 <card>
     <name>Gargantuan Nail Trap</name>
-    <set picURL="/Gargantuan Nail Trap.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Gargantuan Nail Trap.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost>4</manacost>
     <type>Artifact</type>
@@ -2834,7 +2834,7 @@ When this card enters face up or is turned face up, destroy target creature with
 
 <card>
     <name>Whitehair Hare</name>
-    <set picURL="/Whitehair Hare.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Whitehair Hare.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1WW</manacost>
     <type>Creature - Rabbit</type>
@@ -2846,7 +2846,7 @@ When Whitehair Hare enters, put a 1/1 green and white Rabbit Citizen creature to
 
 <card>
     <name>Looking Up To Bro</name>
-    <set picURL="/Looking Up To Bro.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Looking Up To Bro.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>W</manacost>
     <type>Sorcery</type>
@@ -2856,7 +2856,7 @@ When Whitehair Hare enters, put a 1/1 green and white Rabbit Citizen creature to
 
 <card>
     <name>Cheer Cedar</name>
-    <set picURL="/Cheer Cedar.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Cheer Cedar.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>2{G/U}</manacost>
     <type>Creature - Plant Dryad</type>
@@ -2868,7 +2868,7 @@ Whenever a creature ducks behind Cheer Cedar, target creature you control gets +
 
 <card>
     <name>Rhino Dan</name>
-    <set picURL="/Rhino Dan.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Rhino Dan.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>3G</manacost>
     <type>Creature - Rhino Citizen</type>
@@ -2879,7 +2879,7 @@ Whenever a creature ducks behind Cheer Cedar, target creature you control gets +
 
 <card>
     <name>Rearming Station</name>
-    <set picURL="/Rearming Station.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Rearming Station.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1{2/W}</manacost>
     <type>Artifact</type>
@@ -2891,7 +2891,7 @@ Creatures you control may duck behind Rearming Station as though it has toughnes
 
 <card>
     <name>Hazardous Ballista</name>
-    <set picURL="/Hazardous Ballista.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Hazardous Ballista.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2{2/W}</manacost>
     <type>Artifact</type>
@@ -2902,7 +2902,7 @@ Whenever a creature you control ducks behind Hazardous Ballista, Hazardous Balli
 
 <card>
     <name>Good Parenting</name>
-    <set picURL="/Good Parenting.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Good Parenting.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>5{W/U}{W/U}</manacost>
     <type>Instant</type>
@@ -2915,7 +2915,7 @@ Choose 1--
 
 <card>
     <name>End the Lies</name>
-    <set picURL="/End the Lies.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/End the Lies.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>5{R/G}{R/G}</manacost>
     <type>Sorcery</type>
@@ -2926,7 +2926,7 @@ Each opponent discards their entire hand and loses life equal to the number of c
 
 <card>
     <name>Evident Scarring</name>
-    <set picURL="/Evident Scarring.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Evident Scarring.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1R</manacost>
     <type>Instant</type>
@@ -2936,7 +2936,7 @@ Each opponent discards their entire hand and loses life equal to the number of c
 
 <card>
     <name>Wounded Tree</name>
-    <set picURL="/Wounded Tree.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Wounded Tree.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>2{B/G}{B/G}</manacost>
     <type>Land Creature - Plant</type>
@@ -2949,7 +2949,7 @@ Whenever a creature ducks behind Wounded Tree, you gain 1 life. Until end of tur
 
 <card>
     <name>Field Beast</name>
-    <set picURL="/Field Beast.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Field Beast.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>6GG</manacost>
     <type>Land Creature - Plant Beast</type>
@@ -2962,7 +2962,7 @@ Field Beast cannot be destroyed by effects that say "destroy".
 
 <card>
     <name>Verified Source</name>
-    <set picURL="/Verified Source.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Verified Source.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Spy</type>
@@ -2975,7 +2975,7 @@ Cycling {u}</text>
 
 <card>
     <name>Truth-Seeker Elf</name>
-    <set picURL="/Truth-Seeker Elf.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Truth-Seeker Elf.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>1{G/R}</manacost>
     <type>Creature - Elf Druid</type>
@@ -2987,7 +2987,7 @@ Reveal an unrevealed card from your hand: add {r} or {g}.</text>
 
 <card>
     <name>Corpse-Littered Battlefront</name>
-    <set picURL="/Corpse-Littered Battlefront.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Corpse-Littered Battlefront.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Land</type>
@@ -2999,7 +2999,7 @@ Creatures you control can duck behind creatures in your graveyard as though they
 
 <card>
     <name>Spellwhip</name>
-    <set picURL="/Spellwhip.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Spellwhip.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>U</manacost>
     <type>Instant</type>
@@ -3011,7 +3011,7 @@ Flashback {b}</text>
 
 <card>
     <name>Fiery Bite</name>
-    <set picURL="/Fiery Bite.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Fiery Bite.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>R</manacost>
     <type>Instant</type>
@@ -3021,7 +3021,7 @@ Flashback {b}</text>
 
 <card>
     <name>Feather Pollen</name>
-    <set picURL="/Feather Pollen.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Feather Pollen.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>W</manacost>
     <type>Sorcery</type>
@@ -3031,7 +3031,7 @@ Flashback {b}</text>
 
 <card>
     <name>Shudders From Below</name>
-    <set picURL="/Shudders From Below.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Shudders From Below.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>G</manacost>
     <type>Sorcery</type>
@@ -3042,7 +3042,7 @@ Each player surveils 1.</text>
 
 <card>
     <name>Newborn Nid</name>
-    <set picURL="/Newborn Nid.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Newborn Nid.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>1{W/U}</manacost>
     <type>Creature - Bird Spider</type>
@@ -3054,7 +3054,7 @@ When Newborn Nid enters, you gain 1 life.</text>
 
 <card>
     <name>The Moment</name>
-    <set picURL="/The Moment.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/The Moment.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>2{U/R}{U/R}</manacost>
     <type>Enchantment Creature - Elemental Construct</type>
@@ -3066,7 +3066,7 @@ Whenever you cast your second spell each turn, draw a card.</text>
 
 <card>
     <name>Conspicuous Pyromaniac</name>
-    <set picURL="/Conspicuous Pyromaniac.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Conspicuous Pyromaniac.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>R</manacost>
     <type>Creature - Reptile Wizard</type>
@@ -3078,7 +3078,7 @@ Whenever you cast your second spell each turn, draw a card.</text>
 
 <card>
     <name>Crazed Hopper</name>
-    <set picURL="/Crazed Hopper.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Crazed Hopper.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>{R/G}</manacost>
     <type>Creature - Frog</type>
@@ -3090,7 +3090,7 @@ Crazed Hopper must attack each combat if able.</text>
 
 <card>
     <name>Queen's Command</name>
-    <set picURL="/Queen's Command.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Queen's Command.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>2BU</manacost>
     <type>Instant</type>
@@ -3100,7 +3100,7 @@ Crazed Hopper must attack each combat if able.</text>
 
 <card>
     <name>Merciless Birth</name>
-    <set picURL="/Merciless Birth.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Merciless Birth.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Sorcery</type>
@@ -3111,7 +3111,7 @@ Search your library for a card whose mana cost is less than or equal to that of 
 
 <card>
     <name>Rambunny</name>
-    <set picURL="/Rambunny.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Rambunny.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>{R/W}{R/W}</manacost>
     <type>Creature - Rabbit Goat</type>
@@ -3122,7 +3122,7 @@ Search your library for a card whose mana cost is less than or equal to that of 
 
 <card>
     <name>Overt Vaporling</name>
-    <set picURL="/Overt Vaporling.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Overt Vaporling.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Enchantment Creature - Elemental</type>
@@ -3135,7 +3135,7 @@ Rivalstorm (Make a copy of this spell for each spell your opponent has cast befo
 
 <card>
     <name>Obvious Ambusher</name>
-    <set picURL="/Obvious Ambusher.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Obvious Ambusher.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>B</manacost>
     <type>Creature - Raccoon Rogue</type>
@@ -3148,7 +3148,7 @@ Duck - target creature this creature is ducking behind gains deathtouch and +0/+
 
 <card>
     <name>Brazen Confrontation</name>
-    <set picURL="/Brazen Confrontation.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Brazen Confrontation.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>GGG</manacost>
     <type>Enchantment</type>
@@ -3158,7 +3158,7 @@ Duck - target creature this creature is ducking behind gains deathtouch and +0/+
 
 <card>
     <name>From a Mile Away</name>
-    <set picURL="/From a Mile Away.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/From a Mile Away.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1UU</manacost>
     <type>Instant</type>
@@ -3169,7 +3169,7 @@ Counter target spell. Then look at the top card of its controller's library.</te
 
 <card>
     <name>Enveloping Arcana</name>
-    <set picURL="/Enveloping Arcana.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Enveloping Arcana.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>1{G/U}{G/U}</manacost>
     <type>Creature - Plant Weird</type>
@@ -3181,7 +3181,7 @@ Sacrifice this creature: counter target spell with mana cost less than or equal 
 
 <card>
     <name>Infectious Mutagen</name>
-    <set picURL="/Infectious Mutagen.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Infectious Mutagen.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>{G/U}{G/U}</manacost>
     <type>Creature - Frog Fungus</type>
@@ -3193,7 +3193,7 @@ Adapt 1 {g}</text>
 
 <card>
     <name>Proud Fangirl</name>
-    <set picURL="/Proud Fangirl.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Proud Fangirl.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>{R/W}</manacost>
     <type>Creature - Rabbit Citizen</type>
@@ -3205,7 +3205,7 @@ Reveal Proud Fangirl from your hand: target creature you control gets +1/+0 and 
 
 <card>
     <name>Synthesis Hulk</name>
-    <set picURL="/Synthesis Hulk.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Synthesis Hulk.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>4UG</manacost>
     <type>Creature - Nymph Weird</type>
@@ -3218,7 +3218,7 @@ Adapt 3 {2}{u}{g}
 
 <card>
     <name>Flit-Cloud</name>
-    <set picURL="/Flit-Cloud.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Flit-Cloud.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Insect Colony</type>
@@ -3230,7 +3230,7 @@ When Flit-Cloud enters or deals combat damage to a player, untap target permanen
 
 <card>
     <name>Chest-Jutting Guard</name>
-    <set picURL="/Chest-Jutting Guard.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Chest-Jutting Guard.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Creature - Human Soldier</type>
@@ -3243,7 +3243,7 @@ Horde 4 - if you control 4 or more creatures, Chest-Jutting Guard gets +1/+1.</t
 
 <card>
     <name>Bravening Crab</name>
-    <set picURL="/Bravening Crab.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Bravening Crab.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3UU</manacost>
     <type>Creature - Crab Giant</type>
@@ -3256,7 +3256,7 @@ Duck - prevent all combat damage that would be dealt to target creature Bravenin
 
 <card>
     <name>Fumble-Finger Necromaniac</name>
-    <set picURL="/Fumble-Finger Necromaniac.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Fumble-Finger Necromaniac.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>3B</manacost>
     <type>Creature - Human Sorcerer</type>
@@ -3268,7 +3268,7 @@ Duck - return target creature from a graveyard to the battlefield under your con
 
 <card>
     <name>Elder Warptree</name>
-    <set picURL="/Elder Warptree.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Elder Warptree.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Legendary Land</type>
@@ -3279,7 +3279,7 @@ Duck - return target creature from a graveyard to the battlefield under your con
 
 <card>
     <name>Impending Despir</name>
-    <set picURL="/Impending Despir.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Impending Despir.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>3BBB</manacost>
     <type>Sorcery</type>
@@ -3292,7 +3292,7 @@ Exile Impending Despair.</text>
 
 <card>
     <name>The Puny Rise Up</name>
-    <set picURL="/The Puny Rise Up.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/The Puny Rise Up.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WRG</color>
     <manacost>1{R/W}{R/G}</manacost>
     <type>Instant</type>
@@ -3302,7 +3302,7 @@ Exile Impending Despair.</text>
 
 <card>
     <name>Slow-Moving Projectile</name>
-    <set picURL="/Slow-Moving Projectile.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Slow-Moving Projectile.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>RR</manacost>
     <type>Enchantment</type>
@@ -3313,7 +3313,7 @@ At the beginning of your upkeep, Slow-Moving Projectile deals 2 damage to target
 
 <card>
     <name>Spirit of Growth</name>
-    <set picURL="/Spirit of Growth.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Spirit of Growth.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>4GGG</manacost>
     <type>Enchantment Creature - Beast Construct</type>
@@ -3326,7 +3326,7 @@ Whenever an ability of a creature you control targets Spirit of Growth, put a +1
 
 <card>
     <name>Shade of Acceptance</name>
-    <set picURL="/Shade of Acceptance.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Shade of Acceptance.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2BB</manacost>
     <type>Enchantment Creature - Shade Construct</type>
@@ -3338,7 +3338,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Forest of Eternal Autumn</name>
-    <set picURL="/Forest of Eternal Autumn.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Forest of Eternal Autumn.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3350,7 +3350,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Cloud Ruins</name>
-    <set picURL="/Cloud Ruins.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Cloud Ruins.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3362,7 +3362,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Dream Glade</name>
-    <set picURL="/Dream Glade.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Dream Glade.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3374,7 +3374,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Rabbit Family Farm</name>
-    <set picURL="/Rabbit Family Farm.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Rabbit Family Farm.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3386,7 +3386,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Boiling Labworks</name>
-    <set picURL="/Boiling Labworks.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Boiling Labworks.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3398,7 +3398,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Icarus' Resting Place</name>
-    <set picURL="/Icarus' Resting Place.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Icarus' Resting Place.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3410,7 +3410,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Foggy Beachfront</name>
-    <set picURL="/Foggy Beachfront.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Foggy Beachfront.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3422,7 +3422,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Furnace of the Edge</name>
-    <set picURL="/Furnace of the Edge.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Furnace of the Edge.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3434,7 +3434,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Ancient Tidepools</name>
-    <set picURL="/Ancient Tidepools.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ancient Tidepools.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost></manacost>
     <type>Land</type>
@@ -3446,7 +3446,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
 
 <card>
     <name>Territorial Toad</name>
-    <set picURL="/Territorial Toad.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Territorial Toad.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>1{G/U}</manacost>
     <type>Creature - Frog Warrior</type>
@@ -3459,7 +3459,7 @@ Whenever Territorial Toad blocks, it gets +1/+0 until end of turn.
 
 <card>
     <name>Tawnty the Evidence-Burner</name>
-    <set picURL="/Tawnty the Evidence-Burner.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Tawnty the Evidence-Burner.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2R</manacost>
     <type>Creature - Human</type>
@@ -3471,7 +3471,7 @@ Whenever a spell or ability would have you reveal one or more cards, untap Forge
 
 <card>
     <name>Assimilamorph</name>
-    <set picURL="/Assimilamorph.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Assimilamorph.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1UU</manacost>
     <type>Creature - Shapeshifter</type>
@@ -3483,7 +3483,7 @@ Whenever a creature ducks behind Assimilamorph, it becomes a copy of that creatu
 
 <card>
     <name>Nate and Tate</name>
-    <set picURL="/Nate and Tate.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Nate and Tate.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>2{U/B}</manacost>
     <type>Creature - Hydra Duck Citizen</type>
@@ -3495,7 +3495,7 @@ When Nate and Tate dies, make two 1/1 blue Duck citizen tokens with, "Duck - Scr
 
 <card>
     <name>Outgrow</name>
-    <set picURL="/Outgrow.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Outgrow.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>RG</manacost>
     <type>Sorcery</type>
@@ -3505,7 +3505,7 @@ When Nate and Tate dies, make two 1/1 blue Duck citizen tokens with, "Duck - Scr
 
 <card>
     <name>Twin-Stalk Spore</name>
-    <set picURL="/Twin-Stalk Spore.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Twin-Stalk Spore.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BG</color>
     <manacost>3{B/G}</manacost>
     <type>Creature - Fungus</type>
@@ -3517,7 +3517,7 @@ Twin-Stalk Spore may duck behind two creatures simultaneously.</text>
 
 <card>
     <name>Collapsing Fortress</name>
-    <set picURL="/Collapsing Fortress.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Collapsing Fortress.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>2{2/W}</manacost>
     <type>Creature - Wall Construct</type>
@@ -3529,7 +3529,7 @@ When Collapsing Fortress dies, tap target creature.</text>
 
 <card>
     <name>Coltz, Jumpspark Mage</name>
-    <set picURL="/Coltz, Jumpspark Mage.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Coltz, Jumpspark Mage.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>UURR</manacost>
     <type>Legendary Creature - Bird Wizard</type>
@@ -3542,7 +3542,7 @@ The first instant or sorcery you cast each turn has Rivalstorm. (Make a copy of 
 
 <card>
     <name>Cache Dragon</name>
-    <set picURL="/Cache Dragon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Cache Dragon.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>4BR</manacost>
     <type>Creature - Dragon Fort</type>
@@ -3555,7 +3555,7 @@ When Cache Dragon dies, sacrifice any number of Treasures. Cache Dragon deals th
 
 <card>
     <name>Acrobatic Stunt</name>
-    <set picURL="/Acrobatic Stunt.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Acrobatic Stunt.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>1{W/U}</manacost>
     <type>Instant</type>
@@ -3565,7 +3565,7 @@ When Cache Dragon dies, sacrifice any number of Treasures. Cache Dragon deals th
 
 <card>
     <name>Intrusive Thoughts</name>
-    <set picURL="/Intrusive Thoughts.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Intrusive Thoughts.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>{U/R}</manacost>
     <type>Instant</type>
@@ -3576,7 +3576,7 @@ Scry 2. As you do so, you may play either of those cards if able.</text>
 
 <card>
     <name>Triumphant Shout</name>
-    <set picURL="/Triumphant Shout.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Triumphant Shout.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>{U/R}</manacost>
     <type>Instant</type>
@@ -3588,7 +3588,7 @@ If Triumphant Shout was kicked, that creature gets +3/+0 instead of +2/+0.</text
 
 <card>
     <name>Cocky Rooster</name>
-    <set picURL="/Cocky Rooster.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Cocky Rooster.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>1{U/R}</manacost>
     <type>Creature - Bird</type>
@@ -3600,19 +3600,19 @@ Reveal an unrevealed card from your hand: untap Cocky Rooster. It gets +1/+0 unt
 
 <card>
     <name>A Good Cry</name>
-    <set picURL="/A Good Cry.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/A Good Cry.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>U</manacost>
     <type>Sorcery </type>
     <tablerow>0</tablerow>
-    <text>Choose 1--
+    <text>BRUHB RUASDASDChoose 1--
 - Target creature gets -1/-1 until end of turn. Tap it. 
 - Target creature you control gets -2/-2 until end of turn and target creature gets -5/-5 until end of turn.</text>
 </card>
 
 <card>
     <name>Hall of Chimes</name>
-    <set picURL="/Hall of Chimes.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Hall of Chimes.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost></manacost>
     <type>Enchantment Land</type>
@@ -3623,7 +3623,7 @@ Reveal an unrevealed card from your hand: untap Cocky Rooster. It gets +1/+0 unt
 
 <card>
     <name>Extentoad</name>
-    <set picURL="/Extentoad.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Extentoad.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>1G</manacost>
     <type>Creature - Frog</type>
@@ -3635,7 +3635,7 @@ Duck - target creature Extentoad is ducking behind gains reach and +1/+1 until e
 
 <card>
     <name>Daycare Grand Opening</name>
-    <set picURL="/Daycare Grand Opening.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Daycare Grand Opening.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>3WG</manacost>
     <type>Instant</type>
@@ -3647,7 +3647,7 @@ Make three 1/1 green and white Alpaca creature tokens with "Duck - gain 1 life."
 
 <card>
     <name>Political Divination</name>
-    <set picURL="/Political Divination.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Political Divination.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>UU</manacost>
     <type>Sorcery</type>
@@ -3658,7 +3658,7 @@ Horde 3 - If you control at least 3 creatures, add {u}.</text>
 
 <card>
     <name>Draining Relationship</name>
-    <set picURL="/Draining Relationship.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Draining Relationship.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>{W/B}{W/B}</manacost>
     <type>Enchantment - Aura</type>
@@ -3670,7 +3670,7 @@ Enchanted creature has +1/+1.</text>
 
 <card>
     <name>Crystal, Naturalist</name>
-    <set picURL="/Crystal, Naturalist.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Crystal, Naturalist.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>2{W/B}</manacost>
     <type>Legendary Creature - Rabbit</type>
@@ -3682,7 +3682,7 @@ As long as your life total is 5 or more above your starting life total, creature
 
 <card>
     <name>Darkest Heart</name>
-    <set picURL="/Darkest Heart.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Darkest Heart.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>1B</manacost>
     <type>Artifact</type>
@@ -3694,7 +3694,7 @@ When Darkest Heart exploits a creature, put charge counters on it equal to that 
 
 <card>
     <name>Let Go</name>
-    <set picURL="/Let Go.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Let Go.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>{W/U}</manacost>
     <type>Instant</type>
@@ -3704,7 +3704,7 @@ When Darkest Heart exploits a creature, put charge counters on it equal to that 
 
 <card>
     <name>Never Too Late</name>
-    <set picURL="/Never Too Late.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Never Too Late.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Instant</type>
@@ -3715,7 +3715,7 @@ Flashback {3}{w}{w}</text>
 
 <card>
     <name>Silver-Thread Cloak</name>
-    <set picURL="/Silver-Thread Cloak.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Silver-Thread Cloak.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color></color>
     <manacost>1</manacost>
     <type>Enchantment Artifact - Equipment</type>
@@ -3727,7 +3727,7 @@ Equipped creature has ward {1}.
 
 <card>
     <name>Aggressor Captain</name>
-    <set picURL="/Aggressor Captain.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Aggressor Captain.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>2RR</manacost>
     <type>Creature - Goblin Dwarf</type>
@@ -3740,7 +3740,7 @@ Whenever a creature you control attacks, creatures you control get +1/+0 until e
 
 <card>
     <name>Nomad Shade</name>
-    <set picURL="/Nomad Shade.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Nomad Shade.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>1{W/B}</manacost>
     <type>Enchantment Creature - Spirit Monk</type>
@@ -3755,7 +3755,7 @@ Flying</text>
 
 <card>
     <name>Avus Father</name>
-    <set picURL="/Avus Father.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Avus Father.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>3W</manacost>
     <type>Creature - Cleric</type>
@@ -3767,7 +3767,7 @@ Enchantment spells you cast cost {1} less to cast. </text>
 
 <card>
     <name>Precocious Bolt</name>
-    <set picURL="/Precocious Bolt.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Precocious Bolt.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>1R</manacost>
     <type>Instant</type>
@@ -3778,7 +3778,7 @@ Precocious Bolt deals 1 damage to target player and 1 damage to target creature 
 
 <card>
     <name>Determinate</name>
-    <set picURL="/Determinate.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Determinate.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>B</manacost>
     <type>Instant </type>
@@ -3788,7 +3788,7 @@ Precocious Bolt deals 1 damage to target player and 1 damage to target creature 
 
 <card>
     <name>Father's Will</name>
-    <set picURL="/Father's Will.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Father's Will.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UB</color>
     <manacost>1{U/B}</manacost>
     <type>Instant</type>
@@ -3798,7 +3798,7 @@ Precocious Bolt deals 1 damage to target player and 1 damage to target creature 
 
 <card>
     <name>Conniving Pyromiggy</name>
-    <set picURL="/Conniving Pyromiggy.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Conniving Pyromiggy.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WR</color>
     <manacost>WR</manacost>
     <type>Creature - Dwarf Alpaca</type>
@@ -3809,7 +3809,7 @@ Precocious Bolt deals 1 damage to target player and 1 damage to target creature 
 
 <card>
     <name>Mourning Morning</name>
-    <set picURL="/Mourning Morning.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mourning Morning.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>BB</manacost>
     <type>Instant</type>
@@ -3820,7 +3820,7 @@ Draw a card. If a creature you controlled died this turn, draw two cards instead
 
 <card>
     <name>Humble</name>
-    <set picURL="/Humble.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Humble.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>W</manacost>
     <type>Sorcery</type>
@@ -3830,7 +3830,7 @@ Draw a card. If a creature you controlled died this turn, draw two cards instead
 
 <card>
     <name>Heel Swipe</name>
-    <set picURL="/Heel Swipe.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Heel Swipe.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>{R/G}</manacost>
     <type>Instant</type>
@@ -3840,7 +3840,7 @@ Draw a card. If a creature you controlled died this turn, draw two cards instead
 
 <card>
     <name>Pick Off</name>
-    <set picURL="/Pick Off.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Pick Off.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>BR</color>
     <manacost>{B/R}</manacost>
     <type>Instant</type>
@@ -3851,7 +3851,7 @@ Deal 2 damage to target creature with base toughness 2 or less.</text>
 
 <card>
     <name>Fearful Megafauna</name>
-    <set picURL="/Fearful Megafauna.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Fearful Megafauna.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>4{G/R}</manacost>
     <type>Creature - Deer</type>
@@ -3863,7 +3863,7 @@ Whenever a spell or ability you don't control deals damage to Fearful Megafauna,
 
 <card>
     <name>Absorb the Mist</name>
-    <set picURL="/Absorb the Mist.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Absorb the Mist.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>G</manacost>
     <type>Instant</type>
@@ -3875,7 +3875,7 @@ Whenever a spell or ability you don't control deals damage to Fearful Megafauna,
 
 <card>
     <name>Make Amends</name>
-    <set picURL="/Make Amends.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Make Amends.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>1W</manacost>
     <type>Instant</type>
@@ -3887,7 +3887,7 @@ Whenever a spell or ability you don't control deals damage to Fearful Megafauna,
 
 <card>
     <name>Quad-Palm Jerry</name>
-    <set picURL="/Quad-Palm Jerry.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Quad-Palm Jerry.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WB</color>
     <manacost>4{W/B}{W/B}</manacost>
     <type>Creature - Cyclops</type>
@@ -3899,7 +3899,7 @@ Whenever a spell or ability you don't control deals damage to Fearful Megafauna,
 
 <card>
     <name>Storm-Seed Fairy</name>
-    <set picURL="/Storm-Seed Fairy.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Storm-Seed Fairy.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1UU</manacost>
     <type>Creature - Fairy</type>
@@ -3911,7 +3911,7 @@ Whenever this creature deals combat damage to a player, proliferate or place a -
 
 <card>
     <name>Grit Teeth</name>
-    <set picURL="/Grit Teeth.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Grit Teeth.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>1{R/G}</manacost>
     <type>Instant</type>
@@ -3922,7 +3922,7 @@ Prevent the next X damage that would be dealt to target creature. It gains death
 
 <card>
     <name>Knowledge Parasite</name>
-    <set picURL="/Knowledge Parasite.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Knowledge Parasite.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3U</manacost>
     <type>Creature - Elemental Construct</type>
@@ -3935,7 +3935,7 @@ Whenever Knowledge Parasite deals combat damage, target player draws a card.
 
 <card>
     <name>Unstable Hydra</name>
-    <set picURL="/Unstable Hydra.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Unstable Hydra.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>UR</manacost>
     <type>Enchantment Creature - Hydra Weird</type>
@@ -3947,7 +3947,7 @@ Whenever you cast an instant or sorcery, Unstable Hydra or enchanted creature ge
 
 <card>
     <name>Forced Experiment</name>
-    <set picURL="/Forced Experiment.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Forced Experiment.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>UU</manacost>
     <type>Instant</type>
@@ -3959,7 +3959,7 @@ Flashback {3}{u}{u}</text>
 
 <card>
     <name>Insistent Assistant</name>
-    <set picURL="/Insistent Assistant.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Insistent Assistant.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>3R</manacost>
     <type>Creature - Reptile Scientist</type>
@@ -3972,7 +3972,7 @@ When Insistent Assistant enters, target opponent reveals a card.</text>
 
 <card>
     <name>Mental Tripwire</name>
-    <set picURL="/Mental Tripwire.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mental Tripwire.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>6U</manacost>
     <type>Sorcery</type>
@@ -3983,7 +3983,7 @@ Tap each creature target opponent controls.</text>
 
 <card>
     <name>Jealousy Flare</name>
-    <set picURL="/Jealousy Flare.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Jealousy Flare.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>3R</manacost>
     <type>Instant</type>
@@ -3994,7 +3994,7 @@ Make a Treasure for each card in target opponent's hand.</text>
 
 <card>
     <name>Gode the Gloating Goat</name>
-    <set picURL="/Gode the Gloating Goat.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Gode the Gloating Goat.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>2{R/G}</manacost>
     <type>Creature - Goat Citizen</type>
@@ -4005,7 +4005,7 @@ Make a Treasure for each card in target opponent's hand.</text>
 
 <card>
     <name>Ravenous Studies</name>
-    <set picURL="/Ravenous Studies.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Ravenous Studies.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>RRR</manacost>
     <type>Instant</type>
@@ -4016,7 +4016,7 @@ Rivalstorm (Copy this spell for each spell an opponent has cast this turn.)</tex
 
 <card>
     <name>Titan of the Grove</name>
-    <set picURL="/Titan of the Grove.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Titan of the Grove.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WBG</color>
     <manacost>3BGW</manacost>
     <type>Legendary Creature - Elemental Giant</type>
@@ -4029,7 +4029,7 @@ Deathtouch, Lifelink</text>
 
 <card>
     <name>The Raze</name>
-    <set picURL="/The Raze.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/The Raze.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>RG</color>
     <manacost>RRGG</manacost>
     <type>Legendary Creature - Elemental Horror</type>
@@ -4044,7 +4044,7 @@ The Raze gets +1/+1 for each revealed card in all players' hands and other Trans
 
 <card>
     <name>Vitriolic Ritual</name>
-    <set picURL="/Vitriolic Ritual.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Vitriolic Ritual.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>R</color>
     <manacost>5RR</manacost>
     <type>Sorcery</type>
@@ -4055,7 +4055,7 @@ Rivalstorm (Copy this spell for each spell an opponent cast this turn.)</text>
 
 <card>
     <name>Crumblemite Barrier</name>
-    <set picURL="/Crumblemite Barrier.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Crumblemite Barrier.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WG</color>
     <manacost>2{G/W}</manacost>
     <type>Artifact Creature - Insect Wall</type>
@@ -4067,7 +4067,7 @@ Whenever Crumblemite Barrier blocks, put a -1/-1 counter on it. Create a 0/1 col
 
 <card>
     <name>Unfocused Summoner</name>
-    <set picURL="/Unfocused Summoner.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Unfocused Summoner.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1U</manacost>
     <type>Creature - Bird Wizard</type>
@@ -4079,7 +4079,7 @@ At the beginning of your endstep, if an opponent has not cast a spell this turn,
 
 <card>
     <name>Thriso, One With Water</name>
-    <set picURL="/Thriso, One With Water.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Thriso, One With Water.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>1UU</manacost>
     <type>Legendary Creature - Human Warrior</type>
@@ -4091,7 +4091,7 @@ Fluid - Each time a creature enters or leaves the battlefield, Thriso gets +1/+1
 
 <card>
     <name>Prompting Emu</name>
-    <set picURL="/Prompting Emu.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Prompting Emu.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UG</color>
     <manacost>4{G/U}</manacost>
     <type>Creature - Bird Giant</type>
@@ -4103,7 +4103,7 @@ When Prompting Emu enters, return target nonland permanent to its owner's hand. 
 
 <card>
     <name>Not Quite Myself</name>
-    <set picURL="/Not Quite Myself.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Not Quite Myself.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3U</manacost>
     <type>Instant</type>
@@ -4114,7 +4114,7 @@ Flashback {3}{u}{u}</text>
 
 <card>
     <name>Lonkru, Self-Coronated</name>
-    <set picURL="/Lonkru, Self-Coronated.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Lonkru, Self-Coronated.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>B</color>
     <manacost>2B</manacost>
     <type>Legendary Creature - Dwarf</type>
@@ -4128,7 +4128,7 @@ Sacrifice two creatures: Lonkru gains double strike until end of turn.
 
 <card>
     <name>Prized Secret</name>
-    <set picURL="/Prized Secret.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Prized Secret.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>2U</manacost>
     <type>Enchantment</type>
@@ -4139,7 +4139,7 @@ If you lost 5 or more life this turn, the exiled card loses suspend and any coun
 
 <card>
     <name>Sudden Sprouting</name>
-    <set picURL="/Sudden Sprouting.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Sudden Sprouting.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>G</color>
     <manacost>XGG</manacost>
     <type>Enchantment</type>
@@ -4151,7 +4151,7 @@ Sacrifice Sudden Sprouting and X other enchantments: you gain X life.</text>
 
 <card>
     <name>Evacugator</name>
-    <set picURL="/Evacugator.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Evacugator.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3U</manacost>
     <type>Creature - Reptile Citizen</type>
@@ -4163,7 +4163,7 @@ If an effect or ability would cause Evacugator to leave the battlefield, put a +
 
 <card>
     <name>Manaformer</name>
-    <set picURL="/Manaformer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Manaformer.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>3UR</manacost>
     <type>Artifcat</type>
@@ -4173,7 +4173,7 @@ If an effect or ability would cause Evacugator to leave the battlefield, put a +
 
 <card>
     <name>Mental Lockdown</name>
-    <set picURL="/Mental Lockdown.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Mental Lockdown.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>WU</color>
     <manacost>3UW</manacost>
     <type>Enchantment</type>
@@ -4184,7 +4184,7 @@ At the beginning of each opponents' upkeep, they may reveal a card.</text>
 
 <card>
     <name>Trigger Word</name>
-    <set picURL="/Trigger Word.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Trigger Word.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>U</color>
     <manacost>3U</manacost>
     <type>Enchantment</type>
@@ -4197,7 +4197,7 @@ Whenever you cast a spell with mana value equal to the number of charge counters
 
 <card>
     <name>Exaggerate Effect</name>
-    <set picURL="/Exaggerate Effect.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Exaggerate Effect.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>UR</color>
     <manacost>3UR</manacost>
     <type>Instant</type>
@@ -4207,7 +4207,7 @@ Whenever you cast a spell with mana value equal to the number of charge counters
 
 <card>
     <name>Stand Strong</name>
-    <set picURL="/Stand Strong.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <set picURL="/Stand Strong.full.jpg" picURLHq="" picURLSt="">DoD</set>
     <color>W</color>
     <manacost>W</manacost>
     <type>Instant</type>
@@ -4215,5 +4215,6 @@ Whenever you cast a spell with mana value equal to the number of charge counters
     <text>Target creature you control gets vigilance, and protection from a color of your choice or colorless until end of turn.</text>
 </card>
 
-</cards>
-</cockatrice_carddatabase>
+    </cards>
+    </cockatrice_carddatabase>
+    

@@ -1,4 +1,4 @@
-September 21, 2024 at 01:07
+September 24, 2024 at 21:02
 Welcome to ChickenSnake, for fast custom playtest cards!
 [User input]: y
 
@@ -244,10 +244,10 @@ Trigger Word's text was too large to fit properly.
 
 Done!
 
-Program execution time: 11.12 seconds
+Program execution time: 11.15 seconds
 =========================================
 Generated card images at:
->>>   C:\Users\Roey Shapiro\Documents\AAB Backup\Programming\MtGDoD3\Playtest_Card_Images
+>>>   C:\Users\Roey Shapiro\Documents\AAB Backup\Programming\MtGDoD3\Playtest_Card_Images_DoD
 
 Cockatrice set file (.xml) and Drafting file (.txt) generated at:
 >>>   C:\Users\Roey Shapiro\Documents\AAB Backup\Programming\MtGDoD3
