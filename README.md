@@ -42,34 +42,34 @@ Revealing Cards - Mechanically, Flavorfully
 =
 Revealed cards give the opponent information. Right away this allows us to buff some cards to compensate for information lost. Sometimes we can augment them with "built-in" counterspells. This makes our opponent question our plan in a new way. It can also be really dumb :)
 <br>
-<img src=".\Playtest_Card_Images\Rambunny.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Direct Bolt.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Blundering Ninja.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Rambunny.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Direct Bolt.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Blundering Ninja.jpg" width="210" height="294">
 
 
 <br>Transparency can take on a few different connotations flavor-wise, too. For red and green it's often blunt honesty, bravery, or excitement. Blue lays your thoughts and memories out. For white it might be truth or evidence.
 <br><br>
-<img src=".\Playtest_Card_Images\Proud Fangirl.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Truth-Seeker Elf.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Secret Wrangler.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Out.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Proud Fangirl.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Truth-Seeker Elf.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Secret Wrangler.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Out.jpg" width="210" height="294">
 
 Pop-up
 =
 Revealing cards is also an outlet to trigger certain effects. Chief among them is *Pop-up* - it's the reveal analog to Madness. Whenever you reveal a card with Pop-up, you can cast it for its Pop-up cost. To me this interestingly conveys surprise, eagerness, and spontaneity:
 <br><br>
-<img src=".\Playtest_Card_Images\Law-Bind Eagle.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Thunder Chief.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Imposing Aura.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Law-Bind Eagle.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Thunder Chief.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Imposing Aura.jpg" width="210" height="294">
 <br>
 
 Duck
 =
 I also wanted a mechanic that felt tangible and physical. Creatures can run for cover behind others, often assisting them from behind:
 <br>
-<img src=".\Playtest_Card_Images\Encouraging Bixy.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Fumble-Finger Necromaniac.jpg" width="210" height="294">
-<img src=".\Playtest_Card_Images\Rhino Dan.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Encouraging Bixy.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Fumble-Finger Necromaniac.jpg" width="210" height="294">
+<img src=".\Playtest_Card_Images_DoD\Rhino Dan.jpg" width="210" height="294">
 
 Archetypes
 =
