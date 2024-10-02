@@ -64,7 +64,7 @@
     },
     {
         "name":  "Fade to Mist",
-        "mana_cost":  "{1}{U}{B}",
+        "mana_cost":  "{U}{B}",
         "type":  "Instant",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Fade to Mist.jpg"
@@ -1175,11 +1175,11 @@
                         }
     },
     {
-        "name":  "Plague Bearer",
-        "mana_cost":  "{1}{B}{B/P}",
+        "name":  "Miasma Bearer",
+        "mana_cost":  "{1}{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Plague Bearer.jpg"
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Miasma Bearer.jpg"
                         }
     },
     {
@@ -1264,7 +1264,7 @@
     },
     {
         "name":  "Meek Saboteur",
-        "mana_cost":  "{R}{R}",
+        "mana_cost":  "{1}{R}",
         "type":  "Creature",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Meek Saboteur.jpg"
@@ -1360,7 +1360,7 @@
     },
     {
         "name":  "Battlefield Confusion",
-        "mana_cost":  "{R}{R}",
+        "mana_cost":  "{2}{R}",
         "type":  "Sorcery",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Battlefield Confusion.jpg"
@@ -1920,7 +1920,7 @@
     },
     {
         "name":  "Gargantuan Nail Trap",
-        "mana_cost":  "{4}",
+        "mana_cost":  "{5}",
         "type":  "Artifact",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Gargantuan Nail Trap.jpg"
@@ -1984,7 +1984,7 @@
     },
     {
         "name":  "End the Lies",
-        "mana_cost":  "{5}{R/G}{R/G}",
+        "mana_cost":  "{B}{R}{G}",
         "type":  "Sorcery",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/End the Lies.jpg"
@@ -2001,7 +2001,7 @@
     {
         "name":  "Wounded Tree",
         "mana_cost":  "{2}{B/G}{B/G}",
-        "type":  "Land Creature",
+        "type":  "Creature",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Wounded Tree.jpg"
                         }
@@ -2704,7 +2704,7 @@
     },
     {
         "name":  "Mental Tripwire",
-        "mana_cost":  "{6}{U}",
+        "mana_cost":  "{5}{U}",
         "type":  "Sorcery",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Mental Tripwire.jpg"
@@ -2744,7 +2744,7 @@
     },
     {
         "name":  "The Raze",
-        "mana_cost":  "{R}{R}{G}{G}",
+        "mana_cost":  "{1}{R}{R}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/The Raze.jpg"
@@ -2911,14 +2911,6 @@
                         }
     },
     {
-        "name":  "Clarian, Phage's Apprentice",
-        "mana_cost":  "{B}",
-        "type":  "Legendary Creature",
-        "image_uris":  {
-                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Clarian, Phage's Apprentice.jpg"
-                        }
-    },
-    {
         "name":  "Appetite Riler",
         "mana_cost":  "{2}{G}",
         "type":  "Enchantment Creature",
@@ -2940,6 +2932,38 @@
         "type":  "Enchantment Creature",
         "image_uris":  {
                             "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Burst of Laughter.jpg"
+                        }
+    },
+    {
+        "name":  "Taunic Masochist",
+        "mana_cost":  "{2}{B}{B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Taunic Masochist.jpg"
+                        }
+    },
+    {
+        "name":  "Haughty Blacksmith",
+        "mana_cost":  "{1}{B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Haughty Blacksmith.jpg"
+                        }
+    },
+    {
+        "name":  "Whipweilder Tuyon",
+        "mana_cost":  "{2}{W/B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Whipweilder Tuyon.jpg"
+                        }
+    },
+    {
+        "name":  "Flashbang Specialist",
+        "mana_cost":  "{2}{W/B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/Playtest_Card_Images_DoD/Flashbang Specialist.jpg"
                         }
     }
 ]
@@ -3079,6 +3103,8 @@ Stand Strong
 Parting Gift
 Stance-Change Inu
 On Your Feet
+Haughty Blacksmith
+Whipweilder Tuyon
 [Uncommon]
 Secret Wrangler
 Ambitious Contortionist
@@ -3128,7 +3154,7 @@ Absorb Shock
 Manashower
 Acceptance
 Postmortem Author
-Plague Bearer
+Miasma Bearer
 Death-Defying Hookshot
 Afterlife Leech
 Fuse-burners
@@ -3187,6 +3213,8 @@ Unfocused Summoner
 Prized Secret
 Evacugator
 Thought Smuggler
+Taunic Masochist
+Flashbang Specialist
 [Rare]
 Secret-Gorger
 Obliging Confession
@@ -3283,7 +3311,6 @@ Manaformer
 Mental Lockdown
 Trigger Word
 Exaggerate Effect
-Clarian, Phage's Apprentice
 Appetite Riler
 Corpse Processor
 Burst of Laughter

@@ -69,17 +69,17 @@ Whenever Secret-Gorger deals combat damage, draw a card. The defending player dr
     <tablerow>0</tablerow>
     <text>Flash, Equip {2}{u/b}
 When Clandestilla enters, attach it to target creature you control.
-Equipped creature gets +X/+0 for each revealed card in your hand and +0/+X for each unrevealed one. Whenever it deals combat damage to a player, you may reveal a card from your hand.</text>
+Equipped creature gets +1/+0 for each revealed card in your hand and +0/+1 for each unrevealed one. Whenever it deals combat damage to a player, you may reveal a card from your hand.</text>
 </card>
 
 <card>
     <name>Fade to Mist</name>
     <set picURL="/Fade to Mist.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>UB</color>
-    <manacost>1UB</manacost>
+    <manacost>UB</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Target opponent loses life and you gain life equal to the number of revealed cards in your hand.
+    <text>Target opponent loses life equal to the number of revealed cards in your hand.
 Unreveal a card in your hand, then draw a card and put a card from your hand on the bottom of your library.</text>
 </card>
 
@@ -230,8 +230,8 @@ Tactless Show-Host gets +2/+2 as long as it's attacking a player whose entire ha
     <manacost>1WU</manacost>
     <type>Enchantment</type>
     <tablerow>0</tablerow>
-    <text>You choose two cards from target opponent's hand and they reveal them. Exile target revealed card in their hand until Expose leaves the battlefield. (Then it returns to their hand.) 
-{4}: Sacrifice Expose. Its controller draws a card. Any player may activate this ability. </text>
+    <text>Target opponent reveals two unrevealed cards. Exile target revealed card in their hand until Expose leaves the battlefield. (Then it returns to their hand.)
+{4}: Sacrifice Expose. Its controller draws two cards. Any player may activate this ability. </text>
 </card>
 
 <card>
@@ -337,7 +337,7 @@ Trample</text>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>As an additional cost to casting this spell, sacrifice a creature.
-Mill the top 4 cards of your library. You may cast a creature from among them with mana value less than or equal to that of the sacrificed creature.</text>
+Mill the top 4 cards of your library. You may cast a creature from among them with mana value less than or equal to that of the sacrificed creature without paying its mana cost.</text>
 </card>
 
 <card>
@@ -393,9 +393,8 @@ Search your graveyard for a land and put it on the battlefield. Untap it.</text>
     <manacost>2{U/R}{U/R}</manacost>
     <type>Enchantment</type>
     <tablerow>0</tablerow>
-    <text>Evaporating Wish enters with 3 time counters. 
-Any time you reveal a card from your hand or library, remove a time counter from Evaporating Wish. Then if it has none, sacrifice it.
-When Evaporating Wish is put into your graveyard from the battlefield, add {u}{r} and distribute up to three prowess counters on up to three target creatures you control.
+    <text>Evaporating Wish enters with 3 time counters; Whenever you reveal a card from your hand or library, remove a time counter from it. Then if it has none, sacrifice it.
+When Evaporating Wish is enters your graveyard from the battlefield, add {u}{r} and distribute three prowess counters among three target creatures you control.
 Exile Evaporating Wish from your hand: add {u}{r}.</text>
 </card>
 
@@ -665,7 +664,7 @@ When Imminent-Flame Crollock dies, destroy target artifact.</text>
     <type>Creature - Reptile Wizard</type>
 	<pt>2/3</pt>
     <tablerow>0</tablerow>
-    <text>{p/r}, tap creatures you control with total power 4 or greater: Blood-Vent Mage deals 2 damage to any target. 
+    <text>{u/r}, Tap creatures you control with total power 4 or greater: Blood-Vent Mage deals 2 damage to any target. 
 Whenever you cast a noncreature spell, you may untap target creature with power 3 or less.</text>
 </card>
 
@@ -992,7 +991,7 @@ If Fiesty Rollick was kicked, add {r}.</text>
     <tablerow>0</tablerow>
     <text>Pop-up {r/b}{r/b}
 Discard each revealed card in your hand and draw that many.
-Deathmist Detonation does that much damage to target creature controlled by an opponent who lost this turn.</text>
+Deathmist Detonation does that much damage to target creature controlled by an opponent who lost life this turn.</text>
 </card>
 
 <card>
@@ -1025,7 +1024,7 @@ Backup 1
     <color>RG</color>
     <manacost>RG</manacost>
     <type>Creature - Human</type>
-	<pt>3/3</pt>
+	<pt>2/3</pt>
     <tablerow>0</tablerow>
     <text>Transparent
 Whenever Terra-Reformist attacks, you may pay {r}{g}. If you do, search your library for a land and put it onto the battlefield tapped.</text>
@@ -1326,7 +1325,7 @@ Reveal a card: target opponent reveals a card. Activate only once per turn.</tex
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Landfall - Whenever a land enters under your control, you may tap target creature or artifact.
-Reveal Navigator Captain from your hand: search your library for a plains, reveal it, and put it into your hand. Then shuffle.</text>
+Reveal Worldly Navi-Gator from your hand: search your library for a plains, reveal it, and put it into your hand. Then shuffle.</text>
 </card>
 
 <card>
@@ -1529,7 +1528,7 @@ Grave Horde - Carrion Bird gets +X/+0, where X is the number of Birds in your gr
 	<pt>1/1</pt>
     <tablerow>0</tablerow>
     <text>Whenever Oozing Oozer deals combat damage to a player, make a tapped green Ooze token whose power and toughness are equal to the number of Oozes you control.
-Landfall - Oozing Oozer gains deathtouch until end of turn.</text>
+Landfall - Whenever a land enters under your control, Oozing Oozer gains deathtouch until end of turn.</text>
 </card>
 
 <card>
@@ -1713,17 +1712,17 @@ Overload {2}{r} (You may cast this spell for its overload cost. If you do, repla
 </card>
 
 <card>
-    <name>Plague Bearer</name>
-    <set picURL="/Plague Bearer.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <name>Miasma Bearer</name>
+    <set picURL="/Miasma Bearer.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>B</color>
-    <manacost>1B{B/P}</manacost>
+    <manacost>1BB</manacost>
     <type>Creature - Horror</type>
 	<pt>5/5</pt>
     <tablerow>0</tablerow>
     <text>Lifelink
-Plague Bearer enters with two -1/-1 counters on it.
-At the beginning of your upkeep, put a -1/-1 counter on Plague Bearer or move one onto it from another creature you control.
-When Plague Bearer dies, distribute any -1/-1 counters on it among any number of target creatures.</text>
+Miasma Bearer enters with two -1/-1 counters on it.
+At the beginning of your upkeep, put a -1/-1 counter on Miasma Bearer or move one onto it from another creature you control.
+When Miasma Bearer dies, distribute any -1/-1 counters on it among any number of target creatures.</text>
 </card>
 
 <card>
@@ -1734,9 +1733,10 @@ When Plague Bearer dies, distribute any -1/-1 counters on it among any number of
     <type>Artifact - Equipment</type>
     <tablerow>0</tablerow>
     <text>Flash
-When Death-Defying Hookshot enters, attach it to target creature you control.
-Equipped creature gets +1/+1 and has undying. 
-Equip {2}{b}</text>
+When Death-Defying Hookshot enters, attach it to target creature you control. It gains undying until end of turn. 
+Equipped creature gets +1/+1.
+Equip {1}
+{3}: Return Death-Defying Hookshot to your hand.</text>
 </card>
 
 <card>
@@ -1784,7 +1784,7 @@ Equipped creature gets +1/+1 and "Landfall - Put a +1/+1 counter on this creatur
     <color>G</color>
     <manacost>3G</manacost>
     <type>Creature - Tuyon</type>
-	<pt>3/3</pt>
+	<pt>3/2</pt>
     <tablerow>0</tablerow>
     <text>Reach
 Persistent Tuyon can block as many creatures as it has power.
@@ -1823,12 +1823,11 @@ At the beginning of your end step, if Afterlife Leech is an aura, place a +1/+1 
     <color>R</color>
     <manacost>RRR</manacost>
     <type>Creature - Plant Weird</type>
-	<pt>3/3</pt>
+	<pt>3/2</pt>
     <tablerow>0</tablerow>
     <text>Haste, Duck - Put a time counter on Fuse-burners. It deals 1 damage to each other creature.
-At the beginning of each end step, put a time counter on Fuse-burners.
-Whenever Fuse-burners deals combat damage, put a +1/+1 counter on it.
-Fuse-burners gets -0/-1 for each time counter on it.</text>
+At the beginning of each end step, put a time counter on Fuse-burners; It gets -0/-1 for each one on it.
+Whenever Fuse-burners deals combat damage, put a +1/+1 counter on it.</text>
 </card>
 
 <card>
@@ -1860,13 +1859,12 @@ Whenever Compulsive Maniac deals combat damage, exile the top two cards of your 
     <name>Meek Saboteur</name>
     <set picURL="/Meek Saboteur.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>R</color>
-    <manacost>RR</manacost>
+    <manacost>1R</manacost>
     <type>Creature - Wizard Imp</type>
-	<pt>2/2</pt>
+	<pt>2/1</pt>
     <tablerow>0</tablerow>
     <text>First Strike
-Duck - Target creature can block 1 less creature until end of turn. Meek Saboteur gets +0/+1 until end of turn.
-Sacrifice Meek Saboteur: It deals 1 damage to target opponent and they reveal a card.</text>
+Duck - Target creature can block 1 less creature until end of turn. Meek Saboteur gets +0/+1 until end of turn.</text>
 </card>
 
 <card>
@@ -1905,7 +1903,7 @@ Whenever a creature ducks behind Mother Alpakon, Mother Alpakon gets +1/+0 until
     <text>Ward {1}
 Frozen Dragon enters tapped with two stun counters on it if it was cast.
 Whenever Frozen Dragon attacks, you may place up to 2 stun counters in any way on up to 2 target permanents. 
-Islands you control have "{1}, {t}: tap target permanent."</text>
+Islands you control have "{1}, {t}: Tap target permanent."</text>
 </card>
 
 <card>
@@ -1916,7 +1914,7 @@ Islands you control have "{1}, {t}: tap target permanent."</text>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Until end of turn, whenever you scry one or more, you may tap or untap that many target creatures or artifacts.
-Swampcycling {2}</text>
+Islandcycling {2}</text>
 </card>
 
 <card>
@@ -2003,7 +2001,7 @@ If Viss would be returned to the battlefield from the graveyard, it does so with
     <name>Battlefield Confusion</name>
     <set picURL="/Battlefield Confusion.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>R</color>
-    <manacost>RR</manacost>
+    <manacost>2R</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
     <text>Each creature deals 1 damage to its controller and 1 damage to itself.
@@ -2018,7 +2016,7 @@ Rivalstorm (Copy this spell for each spell an opponent has cast this turn.)</tex
     <type>Legendary Creature - Horror</type>
 	<pt>6/6</pt>
     <tablerow>0</tablerow>
-    <text>Indestructible
+    <text>Indestructible, Must be blocked if able
 Whenever Void Dweller deals combat damage, put a +1/+1 counter on it.
 Discard a card, pay 2 life: Void Dweller loses indestructible until end of turn.
 Sacrifice creatures with total power at least 2: Void Dweller gets -2/-2 until end of turn.
@@ -2066,7 +2064,7 @@ Return any number of creatures you control to your hand. That many target creatu
     <type>Creature - Ghoul</type>
 	<pt>3/1</pt>
     <tablerow>0</tablerow>
-    <text>Flying
+    <text>Feeding Wraith must be blocked if able.
 When Feeding Wraith enters, destroy up to one target enchantment. If you do, make a Food.</text>
 </card>
 
@@ -2112,9 +2110,8 @@ Forestcycling {g}</text>
 	<pt>7/7</pt>
     <tablerow>0</tablerow>
     <text>Aisul can't be exiled and gets -1/-1 for each other creature you control.
-When Aisul attacks alone, choose one or both--
-- {r}: Aisul gains trample and gets +2/+0 until end of turn
-- {b}: Aisul gains lifelink and deathtouch until end of turn.</text>
+When Aisul attacks alone, it gains trample.
+Whenever a creature enters your graveyard, Aisul gets lifelink until end of turn.</text>
 </card>
 
 <card>
@@ -2149,7 +2146,7 @@ When Indecisive threat dies, split the nonland permanents target opponent contro
     <tablerow>0</tablerow>
     <text>Choose 1--
 - {u}: Put target nonland permanent at the bottom of its owner's library.
-- {g}: Destroy target creature or enchantment.</text>
+- {1}{g}: Destroy target creature or enchantment.</text>
 </card>
 
 <card>
@@ -2306,7 +2303,7 @@ If you kicked Mob Momentum, it has Rivalstorm. (Copy it for each spell an oppone
     <type>Enchantment</type>
     <tablerow>0</tablerow>
     <text>When Hit the Ground Running enters, you may search your library for a basic land and put it onto the battlefield tapped. Target creature you control gains haste until end of turn.
-Landfall - Put a 1/+1 counter on target creature that entered the battlefield this turn. It gains haste until end of turn. </text>
+Landfall - Put a 1/+1 counter on the next creature to enter under your control this turn. It gains haste until end of turn. </text>
 </card>
 
 <card>
@@ -2455,7 +2452,7 @@ Crew 2</text>
     <manacost>2WB</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>Choose artifacts, enchantments, or creatures, then exile all nonland permanents of the chosen type. All players reveal their hands to each other.</text>
+    <text>Choose artifacts, enchantments, or creatures, then exile all nonland permanents of the chosen type. All players reveal their hands.</text>
 </card>
 
 <card>
@@ -2469,7 +2466,7 @@ Crew 2</text>
     <text>Whenever Olfactory Disrupter attacks, target creature can't block this turn.
 Whenever a creature ducks behind Olfactory Disrupter choose 1--
 - Target opponent reveals an unrevealed card.
-- Put a -1/-1 counter on target creature.</text>
+- Target creature gets -1/-1 until end of turn.</text>
 </card>
 
 <card>
@@ -2573,7 +2570,7 @@ Whenever Exploitative Liz enters or ducks behind an attacking or blocking creatu
     <type>Creature - Human</type>
 	<pt>1/4</pt>
     <tablerow>0</tablerow>
-    <text>When Renee enters, you may unreveal a card from your hand, draw a card, then put a card from your hand on the bottom of your library.
+    <text>When Renee enters, target player mills 5 cards. You may put a revealed card from your hand on the bottom of your library and draw a card.
 Landfall - you may cast target creature or enchantment from your graveyard until end of turn.</text>
 </card>
 
@@ -2646,7 +2643,7 @@ The second time you reveal a card each turn, draw a card.</text>
     <tablerow>0</tablerow>
     <text>When Okal enters, search your library for up to two lands. Put up to one in your hand and up to one on the battlefield tapped.
 Okal's power and toughness are each equal to the number of lands you control. 
-Landfall - Put a +1/+1 counter on target creature you control. Then proliferate.</text>
+Landfall - Whenever a land enters under your control, put a +1/+1 counter on target creature you control. Then proliferate.</text>
 </card>
 
 <card>
@@ -2736,7 +2733,7 @@ The first time an opponent reveals a card to you from their hand on each of thei
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Whenever you sacrifice a creature and Flaminghost is untapped, you may tap it. If you do, target opponent discards a card.
-Cycling {1}{b}</text>
+Swampcycling {1}{b}</text>
 </card>
 
 <card>
@@ -2747,7 +2744,9 @@ Cycling {1}{b}</text>
     <type>Creature - Goblin</type>
 	<pt>2/1</pt>
     <tablerow>0</tablerow>
-    <text>Sacrifice a creature you control with power greater than Goblidant's: Goblidant deals 1 damage to any target. Put a +1/+1 counter on it.</text>
+    <text>Transparent
+{3}: Goblidant must be blocked if able until end of turn.
+Sacrifice a creature you control with power greater than Goblidant's: Goblidant deals 1 damage to any target. Put a +1/+1 counter on it.</text>
 </card>
 
 <card>
@@ -2825,11 +2824,11 @@ When Glittering Starchild dies, add {w}, {b}, or {r}.</text>
     <name>Gargantuan Nail Trap</name>
     <set picURL="/Gargantuan Nail Trap.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color></color>
-    <manacost>4</manacost>
+    <manacost>5</manacost>
     <type>Artifact</type>
     <tablerow>0</tablerow>
-    <text>You may cast this card face down for {2}. Turn it face up on a later turn for {1}.
-When this card enters face up or is turned face up, destroy target creature with trample or total power and toughness above 5.
+    <text>You may cast this card face down for {2}. Turn it face up on a later turn for {2}.
+When this card enters face up or is turned face up, destroy target creature with total power and toughness above 5.
 {2}, sacrifice Gargantuan Nail Trap: Draw a card.</text>
 </card>
 
@@ -2917,12 +2916,12 @@ Choose 1--
 <card>
     <name>End the Lies</name>
     <set picURL="/End the Lies.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>RG</color>
-    <manacost>5{R/G}{R/G}</manacost>
+    <color>BRG</color>
+    <manacost>BRG</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
-    <text>End the Lies costs {1} less to cast for each card in your hand you've revealed or Transparent permanent you control.
-Each opponent discards their entire hand and loses life equal to the number of cards discarded this way.</text>
+    <text>Each opponent discards their entire hand and loses life equal to the number of cards discarded this way.
+Flashback - {b}{r}{g}, Reveal an unrevealed card from your hand</text>
 </card>
 
 <card>
@@ -2940,12 +2939,12 @@ Each opponent discards their entire hand and loses life equal to the number of c
     <set picURL="/Wounded Tree.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>BG</color>
     <manacost>2{B/G}{B/G}</manacost>
-    <type>Land Creature - Plant</type>
+    <type>Creature - Plant</type>
 	<pt>0/6</pt>
     <tablerow>0</tablerow>
     <text>Defender, Transparent
-{t}: Add {g} for each Transparent permanent in your graveyard.
-Whenever a creature ducks behind Wounded Tree, you gain 1 life. Until end of turn, that creature has hexproof and damage that would be dealt to that it is dealt to Wounded Tree instead.</text>
+{t}: Add {g} for each creature in your graveyard.
+Whenever a creature ducks behind Wounded Tree, until end of turn, that creature has hexproof and damage that would be dealt to that it is dealt to Wounded Tree instead.</text>
 </card>
 
 <card>
@@ -3189,7 +3188,7 @@ Sacrifice this creature: counter target spell with mana cost less than or equal 
 	<pt>2/1</pt>
     <tablerow>0</tablerow>
     <text>Backup
-Adapt 1 {g}</text>
+Adapt 1 {u/g}</text>
 </card>
 
 <card>
@@ -3263,7 +3262,7 @@ Duck - prevent all combat damage that would be dealt to target creature Bravenin
     <type>Creature - Human Sorcerer</type>
 	<pt>2/4</pt>
     <tablerow>0</tablerow>
-    <text>Deathtouch
+    <text>{t}, Put a -1/-1 counter on this creature: Put a -1/-1 counter on target creature.
 Duck - return target creature from a graveyard to the battlefield under your control. It gains haste. Exile it at the beginning of the next end step.</text>
 </card>
 
@@ -3453,7 +3452,7 @@ When Spirit of Acceptance or another creature you control dies, add {b} equal to
     <type>Creature - Frog Warrior</type>
 	<pt>2/1</pt>
     <tablerow>0</tablerow>
-    <text>Territorial Toad has vigilance as long as you control two or less creatures.
+    <text>Ego 2 - Territorial Toad has vigilance as long as you control two or less creatures.
 Whenever Territorial Toad blocks, it gets +1/+0 until end of turn.
 {6}{u/g}, {t}: Tap all creatures target opponent controls.</text>
 </card>
@@ -3467,7 +3466,7 @@ Whenever Territorial Toad blocks, it gets +1/+0 until end of turn.
 	<pt>3/2</pt>
     <tablerow>0</tablerow>
     <text>{t}, discard a card: Draw a card.
-Whenever a spell or ability would have you reveal one or more cards, untap Tawnty the Evidence Burner</text>
+Whenever a spell or ability would have you reveal one or more cards, untap Tawnty the Evidence Burner.</text>
 </card>
 
 <card>
@@ -3688,7 +3687,7 @@ As long as your life total is 5 or more above your starting life total, creature
     <manacost>1B</manacost>
     <type>Artifact</type>
     <tablerow>0</tablerow>
-    <text>Exploit
+    <text>Exalted, Exploit
 When Darkest Heart exploits a creature, put charge counters on it equal to that creature's power. Then target opponent discards a card.
 {1}{b}, sacrifice Darkest Heart: destroy target creature with power less than or equal to the number of charge counters on Darkest Heart.</text>
 </card>
@@ -3974,7 +3973,7 @@ Whenever a player casts their second spell that turn, they may exile the top car
     <name>Mental Tripwire</name>
     <set picURL="/Mental Tripwire.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>U</color>
-    <manacost>6U</manacost>
+    <manacost>5U</manacost>
     <type>Sorcery</type>
     <tablerow>0</tablerow>
     <text>Mental Tripwire costs {1} less to cast for each card in the hand of the opponent it targets.
@@ -4031,7 +4030,7 @@ Deathtouch, Lifelink</text>
     <name>The Raze</name>
     <set picURL="/The Raze.full.jpg" picURLHq="" picURLSt="">DOD</set>
     <color>RG</color>
-    <manacost>RRGG</manacost>
+    <manacost>1RRGG</manacost>
     <type>Legendary Creature - Elemental Horror</type>
 	<pt>1/1</pt>
     <tablerow>0</tablerow>
@@ -4084,9 +4083,9 @@ At the beginning of your endstep, create a 1/1 blue and white Bird creature toke
     <color>U</color>
     <manacost>1UU</manacost>
     <type>Legendary Creature - Human Warrior</type>
-	<pt>0/4</pt>
+	<pt>1/4</pt>
     <tablerow>0</tablerow>
-    <text>Double Strike, Ward - Return a permanent you control to your hand
+    <text>Double Strike, Ward - Return a permanent you control to your hand. 
 Fluid - Whenever a creature enters or leaves the battlefield, Thriso gets +1/+1 until end of turn. </text>
 </card>
 
@@ -4096,7 +4095,7 @@ Fluid - Whenever a creature enters or leaves the battlefield, Thriso gets +1/+1 
     <color>UG</color>
     <manacost>4{G/U}</manacost>
     <type>Creature - Bird Giant</type>
-	<pt>3/3</pt>
+	<pt>4/3</pt>
     <tablerow>0</tablerow>
     <text>Ward - Cast a spell
 When Prompting Emu enters, return target nonland permanent to its owner's hand. </text>
@@ -4121,10 +4120,8 @@ Flashback {3}{u}{u}</text>
     <type>Legendary Creature - Dwarf</type>
 	<pt>1/2</pt>
     <tablerow>0</tablerow>
-    <text>Bow Down - Whenever Lonkru attacks alone, tap X untapped creatures you control. He gets +X/+X until end of turn.
-Creatures you control other than Lonkru don't untap in your upkeep unless you pay {2}{b}.
-Sacrifice two creatures: Lonkru gains double strike until end of turn.
-</text>
+    <text>Subservience - Whenever Lonkru attacks alone, tap X untapped creatures you control. He gets +X/+X until end of turn.
+Kneel - Creatures can't block Lonkru unless their controller taps another creature they control not blocking Lonkru.</text>
 </card>
 
 <card>
@@ -4190,8 +4187,8 @@ At the beginning of each opponents' upkeep, they may reveal a card.</text>
     <manacost>3U</manacost>
     <type>Enchantment</type>
     <tablerow>0</tablerow>
-    <text>When Trigger Word enters, put any number of charge counters on it. Target opponent reveals a card. Then pick a revealed card from their hand and exile it.
-Whenever you cast a spell with mana value equal to the number of charge counters on Trigger Word, the exiled spell's owner casts a copy of it and you add {u}.
+    <text>When Trigger Word enters, put any number of charge counters on it. Exile a card from your hand.
+Whenever you cast a spell with mana value equal to the number of charge counters on Trigger Word, target opponent casts a copy of the exiled card.
 {8}: Sacrifice Trigger Word. Any player may activate this ability.</text>
 </card>
 
@@ -4223,7 +4220,7 @@ Whenever you cast a spell with mana value equal to the number of charge counters
     <type>Enchantment</type>
     <tablerow>0</tablerow>
     <text>When Parting Gift leaves the battlefield, put a +1/+1 counter on target creature you control.
-{u}, Sacrifice Parting Gift: Draw a card.</text>
+{u}, Sacrifice Parting Gift: Scry 1 and draw a card.</text>
 </card>
 
 <card>
@@ -4259,7 +4256,7 @@ Ego 2 - If you control 2 or less creatures, Stance-Change Inu has vigilance.</te
     <tablerow>0</tablerow>
     <text>Haste, Lifelink
 When The Ravenous enters, create 4 black and white 1/1 Spirit creature tokens.
-Ego 1 - If you control 1 or less creatures, The Ravenous cannot be blocked.
+Ego 1 - If you control 1 or less creatures, The Ravenous cannot be blocked and gets +1/+1.
 At the beginning of your upkeep, sacrifice a creature.</text>
 </card>
 
@@ -4273,20 +4270,6 @@ At the beginning of your upkeep, sacrifice a creature.</text>
     <tablerow>0</tablerow>
     <text>Bestow a Secret {1}{u}{u} - Disguise the top card of your library. Turn it face-up at any time for its mana cost minus {1}. Attach Thought Smuggler to it. 
 {t}: Put Thought Smuggler on the bottom of your library and draw a card.</text>
-</card>
-
-<card>
-    <name>Clarian, Phage's Apprentice</name>
-    <set picURL="/Clarian, Phage's Apprentice.full.jpg" picURLHq="" picURLSt="">DOD</set>
-    <color>B</color>
-    <manacost>B</manacost>
-    <type>Legendary Creature - Minion</type>
-	<pt>2/2</pt>
-    <tablerow>0</tablerow>
-    <text>Bestow {3}{b}{b}
-You cannot cast Clarian unless it is to bestow a creature.
-Deathtouch
-Whenever Clarian deals combat damage to a player, they lose 5 life.</text>
 </card>
 
 <card>
@@ -4328,6 +4311,52 @@ Whenever a permanent would enter enchanted player's graveyard, you may instead e
 When enchanted player plays their third spell that turn, detatch Burst of Laughter from them.
 Whenever enchanted player casts a spell, put a prowess counter on Burst of Laughter.
 Haste</text>
+</card>
+
+<card>
+    <name>Taunic Masochist</name>
+    <set picURL="/Taunic Masochist.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>B</color>
+    <manacost>2BB</manacost>
+    <type>Creature - Cleric</type>
+	<pt>3/3</pt>
+    <tablerow>0</tablerow>
+    <text>At the beginning of your endstep, if a creature you controlled died this turn, add {b}{b}.</text>
+</card>
+
+<card>
+    <name>Haughty Blacksmith</name>
+    <set picURL="/Haughty Blacksmith.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>B</color>
+    <manacost>1B</manacost>
+    <type>Creature - Alpaca Artisan</type>
+	<pt>3/1</pt>
+    <tablerow>0</tablerow>
+    <text>Haughty Blacksmith must be blocked if able.</text>
+</card>
+
+<card>
+    <name>Whipweilder Tuyon</name>
+    <set picURL="/Whipweilder Tuyon.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>WB</color>
+    <manacost>2{B/W}</manacost>
+    <type>Creature - Tuyon</type>
+	<pt>1/3</pt>
+    <tablerow>0</tablerow>
+    <text>Whipweilder Tuyon must be blocked if able.
+{t}: Tap target creature.</text>
+</card>
+
+<card>
+    <name>Flashbang Specialist</name>
+    <set picURL="/Flashbang Specialist.full.jpg" picURLHq="" picURLSt="">DOD</set>
+    <color>WB</color>
+    <manacost>2{W/B}</manacost>
+    <type>Creature - Tuyon</type>
+	<pt>2/3</pt>
+    <tablerow>0</tablerow>
+    <text>Ninjitsu {1}{w/b}
+When Flashbang Specialist enters, prevent all combat damage until end of turn.</text>
 </card>
 
         </cards>
