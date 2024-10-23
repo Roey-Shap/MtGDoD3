@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>AoT</name>
+<longname>InformationMatters</longname>
+<releasedate>2024-10-23</releasedate>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+    <name>Information Stimulation</name>
+    <set picURL="/Information Stimulation.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>U</manacost>
+    <type>Enchantment - Aura</type>
+    <tablerow>0</tablerow>
+    <text>Enchant creature
+Whenever you expose or conceal a card, enchanted creature gets +1/+1 until end of turn.
+{4}{u}: Enchanted creature can't be blocked until end of turn.</text>
+</card>
+
+<card>
+    <name>Underground Chapel</name>
+    <set picURL="/Underground Chapel.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost></manacost>
+    <type>Land - Cave</type>
+    <tablerow>0</tablerow>
+    <text>The first and second time you you discard or conceal a card each turn, add {c}.
+{t}: Conceal 1.</text>
+</card>
+
+<card>
+    <name>Zealous Titan</name>
+    <set picURL="/Zealous Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>1R</manacost>
+    <type>Creature - Dwarf Giant</type>
+	<pt>1/1</pt>
+    <tablerow>0</tablerow>
+    <text>Pop-up {0}
+Haste</text>
+</card>
+
+<card>
+    <name>Young Erwin Smith</name>
+    <set picURL="/Young Erwin Smith.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>RG</color>
+    <manacost>RG</manacost>
+    <type>Creature - Eldian</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>When Young Erwin Smith enters, investigate.
+{t}, Expose 2 cards from your hand: Add {r}{g}.</text>
+</card>
+
+<card>
+    <name>Young Armin</name>
+    <set picURL="/Young Armin.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UR</color>
+    <manacost>UR</manacost>
+    <type>Legendary Creature - Eldian Child</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Pop-up {u/r}
+Whenever you expose one or more cards, Young Armin deals 1 damage to target creature.
+Whenever you conceal one or more cards, untap Young Armin.</text>
+</card>
+
+<card>
+    <name>Secret Merchant</name>
+    <set picURL="/Secret Merchant.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>2U</manacost>
+    <type>Creature - Eldian Citizen</type>
+	<pt>2/3</pt>
+    <tablerow>0</tablerow>
+    <text>Conceal a card: Scry 1.
+{2/b}, Put an exposed card you control into your graveyard: Make a Treasure.</text>
+</card>
+
+<card>
+    <name>Floch, Jaegerist</name>
+    <set picURL="/Floch, Jaegerist.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost></manacost>
+    <type>Legendary Creature - Eldian Devil Soldier</type>
+    <tablerow>0</tablerow>
+    <text>{t}: Goad target creature. If you control it, put a +1/+1 counter on it.
+Sacrifice a Blood: untap Floch, Jaegerist.
+Whenever you would make a Blood token, make that many plus one instead.</text>
+</card>
+
+<card>
+    <name>Awkward Infiltator</name>
+    <set picURL="/Awkward Infiltator.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UB</color>
+    <manacost>UB</manacost>
+    <type>Creature - Eldian Marleyan</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>When Awkward Infiltator enters, you may expose a card from your hand. If you do, target opponent does the same. 
+Whenever Awkward Infiltator attacks a player with 3 or exposed cards, it gets +2/+2 until end of turn.</text>
+</card>
+
+<card>
+    <name>Revolutionary Smuggler</name>
+    <set picURL="/Revolutionary Smuggler.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>1U</manacost>
+    <type>Creature - Eldian Rebel</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Bestow a Secret {1}{u}{u} (Disguise the top card of your library. Turn it face-up at any time for its mana cost minus {1}. Attach Revolutionary Smuggler to it.)
+{t}: Put Revolutionary Smuggler on the bottom of your library and draw a card.</text>
+</card>
+
+<card>
+    <name>Historia Riess</name>
+    <set picURL="/Historia Riess.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WR</color>
+    <manacost>1{R/W}{R/W}</manacost>
+    <type>Legendary Creature - Eldian Royal</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Vigilance
+Historia Riess gets +2/+2 for each 3 exposed cards you own.</text>
+</card>
+
+<card>
+    <name>Dina Fritz</name>
+    <set picURL="/Dina Fritz.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>2{W/B}</manacost>
+    <type>Legendary Creature - Eldian Royal Rebel</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>When Dina Fritz enters, conceal 1.
+Monstrosity 4 {4}{w/b}
+When Dina Fritz becomes monstrous, she gains trample and must attack an opponent who controls a creature if able.</text>
+</card>
+
+<card>
+    <name>Desperate Charger</name>
+    <set picURL="/Desperate Charger.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WU</color>
+    <manacost>2R</manacost>
+    <type>Creature - Eldian Scout</type>
+	<pt>2/1</pt>
+    <tablerow>0</tablerow>
+    <text>Pop-up - {1}{r}, Expose a card
+Backup 1
+When this creature dies, it deals 1 damage to any target.</text>
+</card>
+
+<card>
+    <name>Unwilling Distracter</name>
+    <set picURL="/Unwilling Distracter.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>2{B/W}</manacost>
+    <type>Creature - Eldian Scout</type>
+	<pt>1/3</pt>
+    <tablerow>0</tablerow>
+    <text>Unwilling Distracter must be blocked if able.
+{t}: Tap target creature.</text>
+</card>
+
+<card>
+    <name>Floch, Unwilling Rallier</name>
+    <set picURL="/Floch, Unwilling Rallier.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>1RR</manacost>
+    <type>Creature - Eldian Scout</type>
+	<pt>3/2</pt>
+    <tablerow>0</tablerow>
+    <text>Pop-up {r}
+Creatures you control have haste.
+At the beginning of combat, if you've exposed at least 2 cards this turn, Floch, Unwilling Rallier gets +1/+1 and first strike until end of turn.</text>
+</card>
+
+<card>
+    <name>Cocky Scout</name>
+    <set picURL="/Cocky Scout.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>RG</color>
+    <manacost>1{R/G}</manacost>
+    <type>Creature - Eldian Scout</type>
+	<pt>1/2</pt>
+    <tablerow>0</tablerow>
+    <text>First Strike
+Expose a card from your hand: Untap Cocky Scout. It gets +1/+0 until end of turn.</text>
+</card>
+
+<card>
+    <name>Grisha Jaeger, Unwilling Oracle</name>
+    <set picURL="/Grisha Jaeger, Unwilling Oracle.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>URG</color>
+    <manacost>URG</manacost>
+    <type>Legendary Creature - Eldian Shapeshifter</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever Grisha Jaeger, Unwilling Oracle takes X damage, scry X.
+At the beginning of your endstep, expose the top card of your library. If it's a land, you may put it on the battlefield under your control. If it's an instant or sorcery, make a Blood token.
+{4}{u}{r}{g}: Transform Grisha Jaeger, Unwilling Oracle. This ability costs {2} less for each Blood you sacrifice to activate it.</text>
+</card>
+
+<card>
+    <name>Blinding Rocket Spearer</name>
+    <set picURL="/Blinding Rocket Spearer.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>W</color>
+    <manacost>2W</manacost>
+    <type>Creature - Eldian Soldier</type>
+	<pt>4/1</pt>
+    <tablerow>0</tablerow>
+    <text>Flash, Reach
+When Blinding Rocket Spearer enters, tap target permanent. Then if its controller owns at least 3 exposed cards, Blinding Rocket Spearer deals 3 damage to target tapped creature they control.</text>
+</card>
+
+<card>
+    <name>Paratrooper Invader</name>
+    <set picURL="/Paratrooper Invader.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WU</color>
+    <manacost>UW</manacost>
+    <type>Creature - Eldian Soldier</type>
+	<pt>3/2</pt>
+    <tablerow>0</tablerow>
+    <text>Semi-Transparent 1
+Flying
+When Paratrooper Invader enters, if it was exposed, creatures you control gain flying until end of turn.</text>
+</card>
+
+<card>
+    <name>Owl's Informant</name>
+    <set picURL="/Owl's Informant.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>1U</manacost>
+    <type>Creature - Eldian Spy</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Owl's Informant can't be blocked by Marleyans.
+Whenever Owl's Informant deals combat damage to a player, choose 1-
+- Scry 1 and draw a card.
+- Put an exposed card that player owns into their graveyard and expose the top card of their library.</text>
+</card>
+
+<card>
+    <name>Shinganshina Runaway</name>
+    <set picURL="/Shinganshina Runaway.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UB</color>
+    <manacost>2{U/B}</manacost>
+    <type>Creature - Eldian Thief</type>
+	<pt>1/3</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever you conceal one or more cards, draw a card. (You finish the concealing first.)
+{2}{u/b}, {t}: Conceal 1.</text>
+</card>
+
+<card>
+    <name>Smuggler's Trenchcoat</name>
+    <set picURL="/Smuggler's Trenchcoat.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>1</manacost>
+    <type>Artifact - Equipment</type>
+    <tablerow>0</tablerow>
+    <text>If equipped creature is unblocked, target creature in your hand gains ninjitsu {X} until end of turn, where X is its mana cost minus 3. If you cast it for its ninjitsu cost this turn, it must target equipped creature.
+Equip {1}</text>
+</card>
+
+<card>
+    <name>Annie's Ring</name>
+    <set picURL="/Annie's Ring.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>1</manacost>
+    <type>Artifact - Equipment</type>
+    <tablerow>0</tablerow>
+    <text>Equip {1}
+{1}, {t}: Annie's Ring deals 1 damage to equipped creature. Create a Blood token.</text>
+</card>
+
+<card>
+    <name>Hard steel Blades</name>
+    <set picURL="/Hard steel Blades.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>1</manacost>
+    <type>Artifact - Equipment</type>
+    <tablerow>0</tablerow>
+    <text>Equip {2}, Equip Scout {1}
+Equipped creature gets +2/+0 and first strike. If another equipment is attached to it, it gets double strike.</text>
+</card>
+
+<card>
+    <name>Dauper Village Bow</name>
+    <set picURL="/Dauper Village Bow.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>1</manacost>
+    <type>Artifact - Equipment</type>
+    <tablerow>0</tablerow>
+    <text>Equip {2}
+When Dauper Village Bow or a Scout enters, you may attach it to them.
+Equipped creature gets +1/+1 and has reach and, "{t}, Sacrifice an artifact: This creature deals 1 damage to any target."</text>
+</card>
+
+<card>
+    <name>3D Movement Gear</name>
+    <set picURL="/3D Movement Gear.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>2</manacost>
+    <type>Artifact - Equipment</type>
+    <tablerow>0</tablerow>
+    <text>Equip {2}
+When 3D Movement Gear or a Scout enters, you may attach it to them.
+Equipped creature gets +1/+1 and has haste and "Tap a creature you control with reach or defender: This creature gets +1+1 and flying until end of turn."
+</text>
+</card>
+
+<card>
+    <name>Gleeful Three-Meter</name>
+    <set picURL="/Gleeful Three-Meter.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>3G</manacost>
+    <type>Creature - Giant</type>
+	<pt>4/3</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever another creature enters under your control, Gleeful Three-Meter deals 1 damage to each creature without flying.
+Pop-up costs of spells you control cost {1} less.</text>
+</card>
+
+<card>
+    <name>Pure Field Titan</name>
+    <set picURL="/Pure Field Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>2RR</manacost>
+    <type>Creature - Giant</type>
+	<pt>4/3</pt>
+    <tablerow>0</tablerow>
+    <text>Haste
+Pure Field Titan must attack an opponent that controls a creature if able.</text>
+</card>
+
+<card>
+    <name>Abnormal Six-Meter</name>
+    <set picURL="/Abnormal Six-Meter.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BR</color>
+    <manacost>3BR</manacost>
+    <type>Creature - Giant</type>
+	<pt>4/3</pt>
+    <tablerow>0</tablerow>
+    <text>Haste
+Erratic - At the beginning of your combat step, flip a coin. If heads, this creature gets +2/-2 until end of turn.
+When Abnormal Six-Meter dies, it deals 1 damage to each creature.</text>
+</card>
+
+<card>
+    <name>Abnormal Two-Meter</name>
+    <set picURL="/Abnormal Two-Meter.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>RG</color>
+    <manacost>2{R/G}</manacost>
+    <type>Creature - Giant</type>
+	<pt>3/2</pt>
+    <tablerow>0</tablerow>
+    <text>Erratic - When this creature enters, flip a coin. If heads, it gains haste and must attack if able until end of turn. If tails, put a +1/+1 counter on it and tap it.
+When Abnormal Two-Meter dies, it deals 1 damage to target creature.</text>
+</card>
+
+<card>
+    <name>Sawney, 4-Meter</name>
+    <set picURL="/Sawney, 4-Meter.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WG</color>
+    <manacost>2{G/W}</manacost>
+    <type>Creature - Giant</type>
+	<pt>3/2</pt>
+    <tablerow>0</tablerow>
+    <text>Trample
+Sawney, 4-Meter must attack an opponent that controls a creature if able.</text>
+</card>
+
+<card>
+    <name>Bean, 7-Meter</name>
+    <set picURL="/Bean, 7-Meter.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>RG</color>
+    <manacost>4{R/G}</manacost>
+    <type>Creature - Giant</type>
+	<pt>5/3</pt>
+    <tablerow>0</tablerow>
+    <text>Trample, Reach
+Bean, 7-Meter must attack an opponent that controls a creature if able.</text>
+</card>
+
+<card>
+    <name>Titan Steam</name>
+    <set picURL="/Titan Steam.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>1G</manacost>
+    <type>Tribal Instant - Giant</type>
+    <tablerow>0</tablerow>
+    <text>Kicker {r}
+Prevent all combat damage that would be dealt this turn.
+If Titan Steam was kicked, at the beginning of the next endstep, Titan Steam deals 1 damage to each creature.</text>
+</card>
+
+<card>
+    <name>The Talking Titan</name>
+    <set picURL="/The Talking Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>2{W/B}</manacost>
+    <type>Legendary Creature - Giant</type>
+	<pt>2/3</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever an non-Giant creature dies, remove a charge counter from The Talking Titan.
+As long as The Talking Titan has a charge counter on it, it must attack an opponent that controls a creature if able. If it doesn't, it has vigilance and gets +1/+1.</text>
+</card>
+
+<card>
+    <name>Bertolt's Colossal Titan</name>
+    <set picURL="/Bertolt's Colossal Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BG</color>
+    <manacost></manacost>
+    <type>Legendary Creature - Giant Shapeshifter</type>
+	<pt>8/8</pt>
+    <tablerow>0</tablerow>
+    <text>Trample, Reach
+When Bertolt's Colossal Titan enters, each player puts all exposed cards they own in their graveyard. Bertolt's Colossal Titan deals 4 damage to each creature.
+Put two -1/-1 counters on this creature: It deals 2 damage to each creature.
+When this creature dies, return it to the battlefield transformed with a -1/-1 counter.</text>
+</card>
+
+<card>
+    <name>Annie's Female Titan</name>
+    <set picURL="/Annie's Female Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <type>Legendary Creature - Giant Shapeshifter</type>
+	<pt>4/4</pt>
+    <tablerow>0</tablerow>
+    <text>Vigilance, Trample, Reach, Persist
+Put a -1/-1 counter on Annie's Female Titan: It gains +2/+2 until end of turn. Untap up to 3 Giants you control. Giant spells you cast cost {1} less to cast until end of turn.</text>
+</card>
+
+<card>
+    <name>Reiner's Armored Titan</name>
+    <set picURL="/Reiner's Armored Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost></manacost>
+    <type>Legendary Creature - Giant Shapeshifter</type>
+	<pt>6/6</pt>
+    <tablerow>0</tablerow>
+    <text>Vigilance, Trample, Reach, Persist
+Whenever Reiner's Armored Titan attacks, you may put two -1/-1 counters on it. If you do, it gains indestructible until end of turn or destroy target Wall.</text>
+</card>
+
+<card>
+    <name>Ymir's Jaw Titan</name>
+    <set picURL="/Ymir's Jaw Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <type>Legendary Creature - Giant Shapeshifter</type>
+	<pt>6/3</pt>
+    <tablerow>0</tablerow>
+    <text>Haste, Trample, First Strike, Persist
+Whenever a creature that Ymir's Jaw Titan dealt damage to this turn dies, make a Blood token.</text>
+</card>
+
+<card>
+    <name>Fleeting Skeleton</name>
+    <set picURL="/Fleeting Skeleton.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>4</manacost>
+    <type>Creature - Giant Skeleton</type>
+	<pt>0/5</pt>
+    <tablerow>0</tablerow>
+    <text>You may cast Fleeting Skeleton as though it had flash if you sacrifice a Giant in addition to paying its other costs.
+Defender
+When Fleeting Skeleton enters, investigate.
+At the beginning of your upkeep, put a -1/-1 counter on Fleeting Skeleton.</text>
+</card>
+
+<card>
+    <name>Wall Titan</name>
+    <set picURL="/Wall Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>6</manacost>
+    <type>Artifact Creature - Giant Wall</type>
+	<pt>4/7</pt>
+    <tablerow>0</tablerow>
+    <text>Defender, Reach, Trample
+Monstrosity 2 {6}.
+When Wall Titan becomes monstrous, it loses defender.</text>
+</card>
+
+<card>
+    <name>Wall Maria</name>
+    <set picURL="/Wall Maria.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>6</manacost>
+    <type>Legendary Creature - Giant Wall</type>
+	<pt>3/6</pt>
+    <tablerow>0</tablerow>
+    <text>Defender, Reach, Trample
+Monstrosity 2 {6}.
+When Wall Maria becomes monstrous, it loses defender.</text>
+</card>
+
+<card>
+    <name>Wall Sina</name>
+    <set picURL="/Wall Sina.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>4</manacost>
+    <type>Legendary Creature - Giant Wall</type>
+	<pt>1/4</pt>
+    <tablerow>0</tablerow>
+    <text>Defender, Reach, Trample
+Monstrosity 2 {4}.
+When Wall Sina becomes monstrous, it loses defender.</text>
+</card>
+
+<card>
+    <name>Wall Rose</name>
+    <set picURL="/Wall Rose.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>5</manacost>
+    <type>Legendary Creature - Giant Wall</type>
+	<pt>2/5</pt>
+    <tablerow>0</tablerow>
+    <text>Defender, Reach, Trample
+Monstrosity 2 {5}.
+When Wall Rose becomes monstrous, it loses defender.</text>
+</card>
+
+<card>
+    <name>Yelena, Whistleblower</name>
+    <set picURL="/Yelena, Whistleblower.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>RG</color>
+    <manacost>1RG</manacost>
+    <type>Creature - Goblin</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Haste
+Whenever you expose a card or turn a card face-up, Yelena, Whistleblower gets +1/+1 until end of turn.</text>
+</card>
+
+<card>
+    <name>Forward Sleuth</name>
+    <set picURL="/Forward Sleuth.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>1R</manacost>
+    <type>Creature - Human Detective</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>When Forward Sleuth enters, expose up to two cards from your hand. Investigate for each card revealed this way.</text>
+</card>
+
+<card>
+    <name>Kenny Squad Rebel</name>
+    <set picURL="/Kenny Squad Rebel.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2BB</manacost>
+    <type>Creature - Human Mercenary</type>
+	<pt>3/3</pt>
+    <tablerow>0</tablerow>
+    <text>Flying, first strike
+At the beginning of your endstep, if a creature died this turn, make a Treasure token.</text>
+</card>
+
+<card>
+    <name>Jaegerist Guard</name>
+    <set picURL="/Jaegerist Guard.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>2{W/B}{W/B}</manacost>
+    <type>Creature - Human Soldier</type>
+	<pt>3/4</pt>
+    <tablerow>0</tablerow>
+    <text>Vigilance
+Alternate costs can't be used to pay for spells opponents cast so long as Jaegerist Guard is untapped. (An alternative cost is any cost that isn't spending mana to pay for the base mana cost. Cost reduction abilities such as convoke are not alternative costs.)</text>
+</card>
+
+<card>
+    <name>Jaegerist Soldier</name>
+    <set picURL="/Jaegerist Soldier.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BR</color>
+    <manacost>{B/R}</manacost>
+    <type>Creature - Human Soldier</type>
+	<pt>1/1</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever Jaegerist Soldier deals combat damage to a player, you may sacrifice it. If you do, make a Blood token.</text>
+</card>
+
+<card>
+    <name>Magath, Master Tactician</name>
+    <set picURL="/Magath, Master Tactician.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WU</color>
+    <manacost>1{W/U}{W/U}</manacost>
+    <type>Legendary Creature - Human Warrior</type>
+	<pt>1/4</pt>
+    <tablerow>0</tablerow>
+    <text>Double Strike, Ward - Return a permanent you control to your hand. 
+Fluid - Whenever a creature enters or leaves the battlefield, Magath, Master Tactician gets +1/+1 until end of turn. </text>
+</card>
+
+<card>
+    <name>Young Marcel</name>
+    <set picURL="/Young Marcel.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>2U</manacost>
+    <type>Legendary Creature - Marleyan Child</type>
+	<pt>3/1</pt>
+    <tablerow>0</tablerow>
+    <text>When Young Marcel enters, return target nonland permanent to its owner's hand.
+When Young Marcel dies, make a Blood token.</text>
+</card>
+
+<card>
+    <name>Distractable Thief</name>
+    <set picURL="/Distractable Thief.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2B</manacost>
+    <type>Creature - Marleyan Citizen</type>
+	<pt>3/1</pt>
+    <tablerow>0</tablerow>
+    <text>Ward - Expose 2 cards
+{t}: Put target exposed card in its owner's graveyard.</text>
+</card>
+
+<card>
+    <name>Young Reiner</name>
+    <set picURL="/Young Reiner.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>W</color>
+    <manacost>2W</manacost>
+    <type>Legendary Creature - Marleyan Citizen</type>
+	<pt>2/3</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever Young Reiner and another creature you control block another together, they each get +1/+1 until end of turn.
+When Young Reiner dies, make a Blood token.</text>
+</card>
+
+<card>
+    <name>Young Annie</name>
+    <set picURL="/Young Annie.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2B</manacost>
+    <type>Legendary Creature - Marleyan Citizen</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Exalted
+Whenever Young Annie attacks alone, she gains menace until end of turn.
+When Young Annie dies, make a Blood token.</text>
+</card>
+
+<card>
+    <name>Young Bertolt</name>
+    <set picURL="/Young Bertolt.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>2U</manacost>
+    <type>Legendary Creature - Marleyan Citizen</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>If a Giant attacks you, you may return Young Bertolt to your hand and scry 1.
+When Young Bertolt dies, make a Blood token.</text>
+</card>
+
+<card>
+    <name>Annie Leonhart</name>
+    <set picURL="/Annie Leonhart.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UB</color>
+    <manacost>2UB</manacost>
+    <type>Legendary Creature - Marleyan Shapeshifter</type>
+	<pt>2/4</pt>
+    <tablerow>0</tablerow>
+    <text>Deathtouch, Skulk
+{7}{u/b}: Transform Annie Leonhart. This ability costs {2} less for each Blood you sacrifice to activate it.
+{t}, {5}{u/b}: Exile Annie Leonhart with 4 time counters on her. She has suspend for as long as she's exiled.</text>
+</card>
+
+<card>
+    <name>Reiner Braun</name>
+    <set picURL="/Reiner Braun.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>2WB</manacost>
+    <type>Legendary Creature - Marleyan Shapeshifter</type>
+	<pt>4/5</pt>
+    <tablerow>0</tablerow>
+    <text>Vigilance
+Whenever a creature an opponent controls that Reiner Braun dealt excess combat damage this turn, tap him.
+{7}{w/b}: Transform Reiner Braun. This ability costs {2} less for each Blood you sacrifice to activate it and {2} less if a creature you controlled died this turn.</text>
+</card>
+
+<card>
+    <name>Bertolt Hoover</name>
+    <set picURL="/Bertolt Hoover.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BG</color>
+    <manacost>2BG</manacost>
+    <type>Legendary Creature - Marleyan Shapeshifter</type>
+	<pt>3/5</pt>
+    <tablerow>0</tablerow>
+    <text>Exile two creatures from your graveyard: Make a Blood token.
+{10}{g/b}: Transform Bertolt Hoover. This ability costs {2} less for each Blood you sacrifice to activate it.</text>
+</card>
+
+<card>
+    <name>Ymir Fritz</name>
+    <set picURL="/Ymir Fritz.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BR</color>
+    <manacost>2BR</manacost>
+    <type>Legendary Creature - Marleyan Shapeshifter</type>
+	<pt>3/3</pt>
+    <tablerow>0</tablerow>
+    <text>When Ymir Fritz enters, make two 1/1 white Marleyan creature tokens named Follower with "Sacrifice this creature: Make a Blood token."
+Whenever an non-Giant dies, if Ymir Fritz has no charge counters on her, put one on her.
+{2}{b}{r}: Transform Ymir Fritz. Activate only if she has a charge counter on her.</text>
+</card>
+
+<card>
+    <name>Liberio Guard</name>
+    <set picURL="/Liberio Guard.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>1{W/B}</manacost>
+    <type>Creature - Marleyan Soldier</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>{2}, {t}: Liberio Guard deals 2 damage to target tapped creature.
+When Liberio Guard dies, make a Blood token.</text>
+</card>
+
+<card>
+    <name>Haughty Footsoldier</name>
+    <set picURL="/Haughty Footsoldier.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>1B</manacost>
+    <type>Creature - Marleyan Soldier</type>
+	<pt>3/1</pt>
+    <tablerow>0</tablerow>
+    <text>Haughty Footsoldier must be blocked if able.</text>
+</card>
+
+<card>
+    <name>Flashbang Specialist</name>
+    <set picURL="/Flashbang Specialist.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>2{W/B}</manacost>
+    <type>Creature - Marleyan Soldier</type>
+	<pt>2/3</pt>
+    <tablerow>0</tablerow>
+    <text>Ninjutsu {1}{w/b}
+When Flashbang Specialist enters, prevent all combat damage until end of turn.
+When Flashbang Specialist leaves the battlefield, conceal 1.</text>
+</card>
+
+<card>
+    <name>Young Annie Leonhart</name>
+    <set picURL="/Young Annie Leonhart.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2B</manacost>
+    <type>Creature - Marleyan Spy</type>
+	<pt>2/3</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever Young Annie Leonhart deals combat damage to a player, they may lose 2 life. If they don't, they expose the top card of their library and one from their hand.
+{1}{b}: Young Annie Leonhart gets +1/-1 until end of turn.</text>
+</card>
+
+<card>
+    <name>Open Growth Naiad</name>
+    <set picURL="/Open Growth Naiad.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>2GG</manacost>
+    <type>Enchantment Creature - Plant Spirit</type>
+	<pt>3/3</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever you turn a card face-up, add {g}.
+The first time you expose a card each turn, you may pay {g}. If you do, search your library for a basic land and expose it. Then shuffle your library.</text>
+</card>
+
+<card>
+    <name>Dedicated Trainee</name>
+    <set picURL="/Dedicated Trainee.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>2R</manacost>
+    <type>Creature - Reptile Scientist</type>
+	<pt>3/3</pt>
+    <tablerow>0</tablerow>
+    <text>Semi-Transparent 2
+When Dedicated Trainee enters, if it was exposed, put a prowess counter on it. Then it gains haste until end of turn.</text>
+</card>
+
+<card>
+    <name>William Tyber's Speech</name>
+    <set picURL="/William Tyber's Speech.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2B</manacost>
+    <type>Enchantment - Saga</type>
+    <tablerow>0</tablerow>
+    <text>[Ch1] [Make a 1/1 black Eldian Noble creature token. Each player makes 3 Blood tokens.]
+[Ch2] [Until end of turn, whenever you discard a card, you make a 1/1 colorless Eldian creature token.]
+[Ch3] [Sacrifice any number of Eldians you control. Put twice that many +1/+1 counters on target creature you control. It fights target creature you don't control.]</text>
+</card>
+
+<card>
+    <name>Expedition Corps</name>
+    <set picURL="/Expedition Corps.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WG</color>
+    <manacost>1WG</manacost>
+    <type>Creature - Scout Army</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Whenever a creature you don't control with power 4 or greater enters or is turned face-up, investigate.
+Landfall - Whenever a land enters under your control, Expedition Corps explores.</text>
+</card>
+
+<card>
+    <name>Maneuvering Expert</name>
+    <set picURL="/Maneuvering Expert.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UG</color>
+    <manacost>1{G/U}</manacost>
+    <type>Creature - Soldier</type>
+	<pt>2/2</pt>
+    <tablerow>0</tablerow>
+    <text>Reach
+{t}: Target other blocking creature gains reach and gets +1/+1 until end of turn.</text>
+</card>
+
+<card>
+    <name>Training Corps Cadet</name>
+    <set picURL="/Training Corps Cadet.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>W</color>
+    <manacost>W</manacost>
+    <type>Creature - Soldier</type>
+	<pt>1/1</pt>
+    <tablerow>0</tablerow>
+    <text>When Training Corps Cadet enters, put two charge counters on it.
+Remove a charge counter from Training Corps Cadet: they get +1/+1 until end of turn.
+Remove two charge counters from Training Corps Cadet: Look at the top five cards of your library, put an artifact from among them into your hand, and shuffle the rest into your library.</text>
+</card>
+
+<card>
+    <name>Gossip Gang</name>
+    <set picURL="/Gossip Gang.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BR</color>
+    <manacost>BR</manacost>
+    <type>Creature - Student Army</type>
+	<pt>1/1</pt>
+    <tablerow>0</tablerow>
+    <text>Trample
+Whenever an opponent draws a card, they may reveal it. If they don't, Amass Students 1.
+Whenever Gossip Gang deals combat damage to a player with at least 4 exposed cards, they discard a card.</text>
+</card>
+
+<card>
+    <name>Conspirator's Airship</name>
+    <set picURL="/Conspirator's Airship.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>5</manacost>
+    <type>Artifact - Vehicle</type>
+	<pt>3/3</pt>
+    <tablerow>0</tablerow>
+    <text>Flying
+When Conspirator's Airship enters, make two 1/1 black Eldian Spy tokens.
+Crew 2</text>
+</card>
+
+<card>
+    <name>Battle for Trost</name>
+    <set picURL="/Battle for Trost.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>W</color>
+    <manacost>3WW</manacost>
+    <type>Battle</type>
+    <tablerow>0</tablerow>
+    <text>When this battle enters, you may search your library for up to two Giant creatures, reveal them, and put on the battlefield and the other into your hand.
+At the beginning of your endstep, if a creature died this turn, you may remove a defense counter from this battle.
+When this battle is defeated, Titanize target permanent. Then investigate.</text>
+</card>
+
+<card>
+    <name>Battle for Shinganshina</name>
+    <set picURL="/Battle for Shinganshina.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UB</color>
+    <manacost>4{U/B}{U/B}</manacost>
+    <type>Battle</type>
+    <tablerow>0</tablerow>
+    <text>When this battle enters, look at target opponent's hand and expose any number of creatures they control there. Then make 3 2/2 red Giant creature tokens.
+When this battle is defeated, put an Eldian from any graveyard onto the battlefield under your control with a +1/+1 counter on it.</text>
+</card>
+
+<card>
+    <name>The Invasion That Day</name>
+    <set picURL="/The Invasion That Day.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UR</color>
+    <manacost>3UR</manacost>
+    <type>Battle</type>
+    <tablerow>0</tablerow>
+    <text>When this battle enters, it deals 4 damage to target Wall.
+Whenever one or more defense counters are removed from this battle, you may return target Eldian to your hand.
+When this battle is defeated, return any number of Giants to their owners' hands. Put a +1/+1 counter on each Eldian you control.</text>
+</card>
+
+<card>
+    <name>Inform the Masses</name>
+    <set picURL="/Inform the Masses.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>2UU</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Expose up to 4 cards from your hand. For each card exposed this way, put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.</text>
+</card>
+
+<card>
+    <name>Slip into Chaos</name>
+    <set picURL="/Slip into Chaos.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BR</color>
+    <manacost>3BR</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Target opponent exposes as many of 3 cards as they can from their hand - call X the number of cards they exposed this way. Creatures you control get +X/+X until end of turn. Conceal X.</text>
+</card>
+
+<card>
+    <name>Subtle Evasion</name>
+    <set picURL="/Subtle Evasion.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UB</color>
+    <manacost>BU</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Counter target spell with converted mana cost 4 or less.
+Conceal 2.</text>
+</card>
+
+<card>
+    <name>Gossip Scheme</name>
+    <set picURL="/Gossip Scheme.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>4B</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>When Gossip Scheme enters, target player discards a card.
+At the beginning of each player's endstep, if they have 2 or less cards in their hand, put a +1/+1 counter on target creature you control.</text>
+</card>
+
+<card>
+    <name>Dazzling Trick</name>
+    <set picURL="/Dazzling Trick.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>W</color>
+    <manacost>W</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Expose up to 3 cards from your hand. Tap a creature for each card exposed this way.</text>
+</card>
+
+<card>
+    <name>Lay Before</name>
+    <set picURL="/Lay Before.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WG</color>
+    <manacost>1WG</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Buyback {2}
+If you buyback this spell, expose it as it's put into your hand.
+Your exposed cards cost {1} less to cast until end of turn.</text>
+</card>
+
+<card>
+    <name>Mutual Confiding</name>
+    <set picURL="/Mutual Confiding.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>BW</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Expose up to 3 cards from your hand. Target opponent exposes a card from their hand for each card you exposed this way.</text>
+</card>
+
+<card>
+    <name>Guilty Confession</name>
+    <set picURL="/Guilty Confession.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>BB</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Expose up to 2 cards from your hand. 
+You lose X life and draw X cards, where X is the number of cards exposed this way.</text>
+</card>
+
+<card>
+    <name>Extortion Beatdown</name>
+    <set picURL="/Extortion Beatdown.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2BB</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Target opponent exposes up to 7 cards from their hand. You gain 1 life for each card exposed this way and they lose 7 minus that amount.</text>
+</card>
+
+<card>
+    <name>Back Before Your Eyes</name>
+    <set picURL="/Back Before Your Eyes.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BG</color>
+    <manacost>1BG</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Mill 5 cards, then expose target permanent from your graveyard.</text>
+</card>
+
+<card>
+    <name>Open Casket</name>
+    <set picURL="/Open Casket.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BG</color>
+    <manacost>3BG</manacost>
+    <type>Legendary Artifact</type>
+    <tablerow>0</tablerow>
+    <text>You may only cast spells and play lands from your graveyard or if they're exposed.
+Spells you cast cost {1} less to cast.
+You may play an additional land on each of your turns.
+{t}: Expose a card from your hand.</text>
+</card>
+
+<card>
+    <name>Overbearing Supervision</name>
+    <set picURL="/Overbearing Supervision.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>3B</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Whenever you attack a player, they draw a card and expose it.
+At the beginning of each opponent's endstep, if they have no cards in hand, they lose 2 life.</text>
+</card>
+
+<card>
+    <name>Speak Bluntly</name>
+    <set picURL="/Speak Bluntly.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>2G</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Expose the top 3 cards of your library with 1 time counter on each.
+Put a +1/+1 counter target creature you control.</text>
+</card>
+
+<card>
+    <name>Eren's Broadcast</name>
+    <set picURL="/Eren's Broadcast.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>2U</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Spellmorph {u}
+Scry 3 and draw a card.</text>
+</card>
+
+<card>
+    <name>Titan's Hunger</name>
+    <set picURL="/Titan's Hunger.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>1G</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Spellmorph {g}
+Target creature you control gets +4/+4 until end of turn.
+If this spell is cast for its spellmorph cost, that creature also gains trample until end of turn.</text>
+</card>
+
+<card>
+    <name>Deceptive Titan-Swarm</name>
+    <set picURL="/Deceptive Titan-Swarm.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>RR</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Spellmorph {r}
+Make two 1/1 red Dwarf Giant creature tokens. If it's combat, they enter tapped and attacking.</text>
+</card>
+
+<card>
+    <name>Titan Regeneration</name>
+    <set picURL="/Titan Regeneration.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>W</color>
+    <manacost>1W</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Spellmorph {1}{w}
+You gain 5 life.
+If this spell was cast for its spellmorph cost, put a defense counter on target creature you control.</text>
+</card>
+
+<card>
+    <name>Call Forth the Titan</name>
+    <set picURL="/Call Forth the Titan.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2B</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Spellmorph {b}
+Target creature gets -1/-1 until end of turn.
+If a creature died this turn, make a 2/2 black Zombie Giant creature token.</text>
+</card>
+
+<card>
+    <name>Peaceful Dementia</name>
+    <set picURL="/Peaceful Dementia.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>1UU</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>{u}, Put an exposed card into its owner's graveyard: exile target creature, then return it to the battlefield.</text>
+</card>
+
+<card>
+    <name>Cape Flip</name>
+    <set picURL="/Cape Flip.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UB</color>
+    <manacost>1UB</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Conceal 4 as an additional cost to Cape Flip. 
+If you concealed at least two cards this way, Cape Flip costs {b} less to cast.  
+Counter target spell. </text>
+</card>
+
+<card>
+    <name>Halt</name>
+    <set picURL="/Halt.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>U</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Counter target exposed spell. Its controller draws a card.</text>
+</card>
+
+<card>
+    <name>Out</name>
+    <set picURL="/Out.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>{W/B}</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>As an additional cost to cast Out, expose a card.
+Exile target creature at the beginning of the next end step. When you do, its controller makes a 1/1 colorless creature token with no types named "Outcast" with deathtouch.</text>
+</card>
+
+<card>
+    <name>Storm of Tears</name>
+    <set picURL="/Storm of Tears.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>1U</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Kicker - Expose a card from your hand.
+Tap up to two target creatures. If this spell was kicked, put a stun counter on one of them.</text>
+</card>
+
+<card>
+    <name>Precocious Bolt</name>
+    <set picURL="/Precocious Bolt.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>1R</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Expose Precocious Bolt from your hand: It deals 1 damage to you and target creature.
+Precocious Bolt deals 1 damage to target player and 1 damage to target creature they control.</text>
+</card>
+
+<card>
+    <name>Mounting Storm</name>
+    <set picURL="/Mounting Storm.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>U</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Transparent 2
+Put target creature with mana value 4 or less on the top of its owner's library.
+Storm</text>
+</card>
+
+<card>
+    <name>Expose</name>
+    <set picURL="/Expose.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WU</color>
+    <manacost>1WU</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Target opponent exposes 3 cards from their hand. Exile up to target exposed cards until Expose leaves the battlefield. (They become exposed again when they are returned.)
+{4}: Sacrifice Expose. Its controller draws two cards. Any player may activate this ability. </text>
+</card>
+
+<card>
+    <name>Pixis' Intuition</name>
+    <set picURL="/Pixis' Intuition.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>1U</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Choose 1--
+- Target player exposes a card from their hand and you draw a card.
+- Put target exposed card on the bottom of its owner's library. They draw a card and expose it.</text>
+</card>
+
+<card>
+    <name>Show of Power</name>
+    <set picURL="/Show of Power.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>G</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>As an additional cost to this spell, expose a creature card from your hand.
+Target creature you control gets +1/+1 and gains trample until end of turn. 
+You may pay {1}{g}. If you do, target creature you control gets +X/+0 until end of turn, where X is the exposed creature's power.</text>
+</card>
+
+<card>
+    <name>Pay in Confidence</name>
+    <set picURL="/Pay in Confidence.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>1G</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Expose a card from your hand. Add X mana of any one color, where X is the number of non-generic symbols in its mana cost.</text>
+</card>
+
+<card>
+    <name>Preemptive Funeral</name>
+    <set picURL="/Preemptive Funeral.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BG</color>
+    <manacost>BG</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>As an additional cost to casting this spell, sacrifice a creature.
+Mill the top 4 cards of your library. You may cast a creature from among them with mana value less than or equal to that of the sacrificed creature without paying its mana cost.</text>
+</card>
+
+<card>
+    <name>Open Burial</name>
+    <set picURL="/Open Burial.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BG</color>
+    <manacost>6{B/G}{B/G}</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>This spell costs {1} less to cast for each card you expose from your hand as you cast it.
+Return target creature from any graveyard under your control with a finality counter. Untap it. It gains haste until end of turn.
+Search your graveyard for a land and put it on the battlefield. Untap it.</text>
+</card>
+
+<card>
+    <name>Exposed Metal</name>
+    <set picURL="/Exposed Metal.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BG</color>
+    <manacost>1{B/G}</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Target opponent exposes a card of your choice from their hand. If it's an artifact, you may have them put it in their graveyard. If you don't, you may destroy target artifact.</text>
+</card>
+
+<card>
+    <name>Dead On Sight</name>
+    <set picURL="/Dead On Sight.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2B</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Choose 1--
+- Target opponent puts target exposed card they own in their graveyard and loses 1 life.
+- Destroy target creature with total power and toughness 5 or less.</text>
+</card>
+
+<card>
+    <name>Own Up</name>
+    <set picURL="/Own Up.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>U</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Spree
++{1} - Expose target creature.
++{r} - Target player exposes a card from their hand. Own Up deals damage to target permanent they control equal to the number of exposed cards they own.</text>
+</card>
+
+<card>
+    <name>Honest Brutality</name>
+    <set picURL="/Honest Brutality.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>1B</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Transparent 1
+Destroy target creature unless its controller pays {3}.</text>
+</card>
+
+<card>
+    <name>Grit Teeth</name>
+    <set picURL="/Grit Teeth.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>RG</color>
+    <manacost>1{R/G}</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Pop-up {r/g}
+Prevent the next X damage that would be dealt to target creature. It gains deathtouch and trample until end of turn. If X is 3 or more, you lose X life.</text>
+</card>
+
+<card>
+    <name>Attack Titan's Command</name>
+    <set picURL="/Attack Titan's Command.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>UU</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Target opponent exposes a card.
+Choose an exposed card that opponent owns. They cast it without paying its mana cost if able and any time the card says "may", they must. Add {u} for each spell they've cast this turn.
+Flashback {3}{u}{u}</text>
+</card>
+
+<card>
+    <name>Mental Tripwire</name>
+    <set picURL="/Mental Tripwire.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>5U</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Mental Tripwire costs {1} less to cast for each card in the hand of the opponent it targets.
+Tap each creature target opponent controls.</text>
+</card>
+
+<card>
+    <name>Innocent Dreams of Freedom</name>
+    <set picURL="/Innocent Dreams of Freedom.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>1U</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Ward - {1}, Expose or conceal a card
+At the beginning of your endstep, create a 1/1 blue and white Bird creature token with flying unless an opponent has cast a spell this turn. </text>
+</card>
+
+<card>
+    <name>Sudden Peace</name>
+    <set picURL="/Sudden Peace.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>XGG</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Pop-up {X}{g}
+When Sudden Peace enters, make X 0/1 green Plant enchantment creature tokens.
+Sacrifice Sudden Peace and X other enchantments: you gain X life.</text>
+</card>
+
+<card>
+    <name>Make Amends</name>
+    <set picURL="/Make Amends.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>W</color>
+    <manacost>1W</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Choose 1--
+- {g}: Exile target artifact or enchantment.
+- {1}: Gain 1 life for each enchantment on the battlefield.</text>
+</card>
+
+<card>
+    <name>Mourning Morning</name>
+    <set picURL="/Mourning Morning.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>1B</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Pop-up {b}
+Draw a card. If a creature you controlled died this turn, draw two cards instead.</text>
+</card>
+
+<card>
+    <name>Intrusive Thoughts</name>
+    <set picURL="/Intrusive Thoughts.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>UR</color>
+    <manacost>{U/R}</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Transparent 1
+Scry 2. As you do so, you may play either of those cards if able.</text>
+</card>
+
+<card>
+    <name>Triumphant Shout</name>
+    <set picURL="/Triumphant Shout.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>R</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Kicker - Expose a card from your hand.
+Target creature gets +2/+0 until end of turn. If Triumphant Shout was kicked, that creature gets an additional +1/+0.</text>
+</card>
+
+<card>
+    <name>Honest Lifestyle</name>
+    <set picURL="/Honest Lifestyle.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WUG</color>
+    <manacost>WUG</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Ward {2}
+At the beginning of your endstep, you gain life equal to the number of exposed cards you control. Then put one of them on the bottom of your library and draw a card.</text>
+</card>
+
+<card>
+    <name>Key to the Basement</name>
+    <set picURL="/Key to the Basement.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>3</manacost>
+    <type>Artifact</type>
+    <tablerow>0</tablerow>
+    <text>When Key to the Basement enters, investigate.
+{t}, Expose the top card of your library: Put a memory counter on Key to the Basement. If it has three or more, sacrifice it.</text>
+</card>
+
+<card>
+    <name>Survey Expedition</name>
+    <set picURL="/Survey Expedition.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>4G</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Convoke
+Up to 3 target creatures you control explore.</text>
+</card>
+
+<card>
+    <name>Survey Corps Recruitment</name>
+    <set picURL="/Survey Corps Recruitment.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WG</color>
+    <manacost>2WG</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>When Survey Corps Recruitment enters, search your library for a plains and expose it. Then you may put an exposed land you own onto the battlefield under your control.
+Landfall - Whenever a land enters under your control, Amass Scouts 1.</text>
+</card>
+
+<card>
+    <name>Analyze the Steam</name>
+    <set picURL="/Analyze the Steam.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>2U</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Analyze the Steam deals 1 damage to you.
+Investigate twice, then draw a card.</text>
+</card>
+
+<card>
+    <name>Force the Transformation</name>
+    <set picURL="/Force the Transformation.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>R</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Make a Blood token.
+You may pay {r/b}. If you do, this spell deals 1 damage to you, you make a Blood token, and you may pay {r/b}. If you do, this spell does another 1 damage to you and you make another 2 Blood tokens.</text>
+</card>
+
+<card>
+    <name>Fate-sealing Syringe</name>
+    <set picURL="/Fate-sealing Syringe.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>3</manacost>
+    <type>Artifact</type>
+    <tablerow>0</tablerow>
+    <text>Fate-sealing Syringe enters with a charge counter on it.
+Whenever a creature you control dies, put a charge counter on Fate-sealing Syringe.
+{t}, Remove a charge counter from Fate-sealing Syringe: Titanize (Activate target permanent's ability that would have them turn face-up or become monstrous.)</text>
+</card>
+
+<card>
+    <name>Beast Titan's Call</name>
+    <set picURL="/Beast Titan's Call.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>RG</color>
+    <manacost>3{R/G}</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Choose 1 —
+• Titanize target permanent.
+• Destroy target creature. Its controller makes a 3/3 green Giant creature token for each creature destroyed this way.
+Overload {5}{r/g}</text>
+</card>
+
+<card>
+    <name>Scramble for Answers</name>
+    <set picURL="/Scramble for Answers.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>1R</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Put an exposed card into your graveyard or discard a card as an additional cost to casting this spell.
+Expose the top two cards of your library. You may play them until the end of your next turn.</text>
+</card>
+
+<card>
+    <name>Coddle the King</name>
+    <set picURL="/Coddle the King.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>B</color>
+    <manacost>2B</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Make 2 Treasures. 
+Conceal 1.</text>
+</card>
+
+<card>
+    <name>Eldian Cannon</name>
+    <set picURL="/Eldian Cannon.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>3</manacost>
+    <type>Artifact</type>
+    <tablerow>0</tablerow>
+    <text>When Eldian Cannon enters, make a colorless artifact token named Cannonball.
+{t}, Sacrifice another artifact or creature: Eldian Cannon deals 3 damage to target creature.</text>
+</card>
+
+<card>
+    <name>Titanize</name>
+    <set picURL="/Titanize.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color></color>
+    <manacost>5</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Destroy target non-Giant creature. Its controller makes a 3/3 colorless Giant creature token with trample and, "This creature must attack a player controlling a creature if able."</text>
+</card>
+
+<card>
+    <name>Nape Strike</name>
+    <set picURL="/Nape Strike.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WR</color>
+    <manacost>{R/W}{R/W}</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Destroy target Giant or creature with total power and toughness 7 or greater.</text>
+</card>
+
+<card>
+    <name>Dedicate Your Hearts!</name>
+    <set picURL="/Dedicate Your Hearts!.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>RG</color>
+    <manacost>2{G/R}{G/R}</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Creatures you control get +2/+2 until end of turn. If you own three or more exposed cards, they get an additional +1/+1 until end of turn.</text>
+</card>
+
+<card>
+    <name>Founder's Denial</name>
+    <set picURL="/Founder's Denial.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>2U</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Counter target spell. If it was a Giant spell, tap target permanent.</text>
+</card>
+
+<card>
+    <name>Attack Titan's Will</name>
+    <set picURL="/Attack Titan's Will.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>U</color>
+    <manacost>1UUU</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Look at the top seven cards of target opponent's library. Exile a nonland card from among them face-down with 5 time counters on it and put the rest back on the top of their library in any order. At the beginning of that player's upkeep, remove one. Then if it has none, put it in their graveyard and cast a copy of it. You choose targets for the copy.
+Rebound</text>
+</card>
+
+<card>
+    <name>Karl Fritz's Command</name>
+    <set picURL="/Karl Fritz's Command.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>W</color>
+    <manacost>WWW</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Choose 2—
+• Prevent all combat damage that would be dealt this turn.
+• Monstrous abilities and abilities that would cause a card to flip or transform cannot be activated until end of turn.
+• Make a 0/4 colorless Giant Wall artifact creature token with defender.
+• Each player puts each exposed card they own in their graveyard and exposes the same number from the top of their library.</text>
+</card>
+
+<card>
+    <name>Moonlit Paradis</name>
+    <set picURL="/Moonlit Paradis.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>BG</color>
+    <manacost>2{G/B}</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Vanishing 4
+Giant creatures have vigilance and haste.</text>
+</card>
+
+<card>
+    <name>Sunlit Landscape</name>
+    <set picURL="/Sunlit Landscape.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WR</color>
+    <manacost>2{R/W}</manacost>
+    <type>Enchantment</type>
+    <tablerow>0</tablerow>
+    <text>Vanishing 4
+Whenever a Giant attacks, tap it and put a stun counter on it. 
+Giant creatures lose haste.</text>
+</card>
+
+<card>
+    <name>From Between the Trees</name>
+    <set picURL="/From Between the Trees.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>G</color>
+    <manacost>4G</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Make two 3/1 green Giant creatures with "This creature must attack a player that controls a creature if able."
+</text>
+</card>
+
+<card>
+    <name>Kicked into Paradis</name>
+    <set picURL="/Kicked into Paradis.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WB</color>
+    <manacost>3{W/B}</manacost>
+    <type>Sorcery</type>
+    <tablerow>0</tablerow>
+    <text>Make a 1/1 white Eldian creature tokens with Monstrous 2 {3}{w}.
+Then make another or Titanize.</text>
+</card>
+
+<card>
+    <name>Remote Titan Detonation</name>
+    <set picURL="/Remote Titan Detonation.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>R</color>
+    <manacost>3RR</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Put a creature with a monstrous ability or an ability that causes it to turn face-up or flip from your hand onto the battlefield. Until end of turn, it gains haste and you may activate that ability for free. Return it to your hand at the beginning of your endstep.</text>
+</card>
+
+<card>
+    <name>Plug the Wall</name>
+    <set picURL="/Plug the Wall.full.jpg" picURLHq="" picURLSt="">AoT</set>
+    <color>WG</color>
+    <manacost>1{G/W}</manacost>
+    <type>Instant</type>
+    <tablerow>0</tablerow>
+    <text>Prevent all combat damage that would be dealt this turn. Put a shield counter on a Wall you control.</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
