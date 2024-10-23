@@ -1,0 +1,403 @@
+October 23, 2024 at 17:20
+Welcome to ChickenSnake, for fast custom playtest cards!
+[User input]: y
+
+Extracting card data from input file...
+Warnings for 'Information Stimulation':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Underground Chapel':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Zealous Titan':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Young Erwin Smith':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Young Armin':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Secret Merchant':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Floch, Jaegerist':
+>  Missing a mana cost.
+>  Missing power/toughness.
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Awkward Infiltator':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Revolutionary Smuggler':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Historia Riess':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: w/r -> r/w
+>     Correcting manacost hybrid pip order: w/r -> r/w
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Dina Fritz':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Desperate Charger':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Unwilling Distracter':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: b/w -> w/b
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Floch, Unwilling Rallier':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Cocky Scout':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Grisha Jaeger, Unwilling Oracle':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Blinding Rocket Spearer':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Paratrooper Invader':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Owl's Informant':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Shinganshina Runaway':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Smuggler's Trenchcoat':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Annie's Ring':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Hard steel Blades':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Dauper Village Bow':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for '3D Movement Gear':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Gleeful Three-Meter':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Pure Field Titan':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Abnormal Six-Meter':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Abnormal Two-Meter':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Sawney, 4-Meter':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: w/g -> g/w
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Bean, 7-Meter':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Titan Steam':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'The Talking Titan':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Bertolt's Colossal Titan':
+>  Missing a mana cost.
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Annie's Female Titan':
+>  Missing a mana cost.
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Reiner's Armored Titan':
+>  Missing a mana cost.
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Ymir's Jaw Titan':
+>  Missing a mana cost.
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Fleeting Skeleton':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Wall Titan':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Wall Maria':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Wall Sina':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Wall Rose':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Yelena, Whistleblower':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Forward Sleuth':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Kenny Squad Rebel':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Jaegerist Guard':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Jaegerist Soldier':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Magath, Master Tactician':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Young Marcel':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Distractable Thief':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Young Reiner':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Young Annie':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Young Bertolt':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Annie Leonhart':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Reiner Braun':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Bertolt Hoover':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Ymir Fritz':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Liberio Guard':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Haughty Footsoldier':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Flashbang Specialist':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Young Annie Leonhart':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Open Growth Naiad':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Dedicated Trainee':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'William Tyber's Speech':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Expedition Corps':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Maneuvering Expert':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: u/g -> g/u
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Training Corps Cadet':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Gossip Gang':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Conspirator's Airship':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Battle for Trost':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Battle for Shinganshina':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'The Invasion That Day':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Inform the Masses':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Slip into Chaos':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Subtle Evasion':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Gossip Scheme':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Dazzling Trick':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Lay Before':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Mutual Confiding':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Guilty Confession':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Extortion Beatdown':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Back Before Your Eyes':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Open Casket':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Overbearing Supervision':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Speak Bluntly':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Eren's Broadcast':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Titan's Hunger':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Deceptive Titan-Swarm':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Titan Regeneration':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Call Forth the Titan':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Peaceful Dementia':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Cape Flip':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Halt':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Out':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Storm of Tears':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Precocious Bolt':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Mounting Storm':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Expose':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Pixis' Intuition':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Show of Power':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Pay in Confidence':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Preemptive Funeral':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Open Burial':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Exposed Metal':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Dead On Sight':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Own Up':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Honest Brutality':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Grit Teeth':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Attack Titan's Command':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Mental Tripwire':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Innocent Dreams of Freedom':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Sudden Peace':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Make Amends':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Mourning Morning':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Intrusive Thoughts':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Triumphant Shout':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Honest Lifestyle':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Key to the Basement':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Survey Expedition':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Survey Corps Recruitment':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Analyze the Steam':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Force the Transformation':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Fate-sealing Syringe':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Beast Titan's Call':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Scramble for Answers':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Coddle the King':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Eldian Cannon':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Titanize':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Nape Strike':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: w/r -> r/w
+>     Correcting manacost hybrid pip order: w/r -> r/w
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Dedicate Your Hearts!':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: g/r -> r/g
+>     Correcting manacost hybrid pip order: g/r -> r/g
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Founder's Denial':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Attack Titan's Will':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Karl Fritz's Command':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Moonlit Paradis':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: g/b -> b/g
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Sunlit Landscape':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: w/r -> r/w
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'From Between the Trees':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Kicked into Paradis':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Remote Titan Detonation':
+>  Missing rarity. Defaulting to COMMON.
+Warnings for 'Plug the Wall':
+>  Had a manacost pip-order error:
+>     Correcting manacost hybrid pip order: w/g -> g/w
+>  Missing rarity. Defaulting to COMMON.
+
+Initializing image creation assets...
+Generated file .\Playtest_Base_Images\normal_w_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_w_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_u_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_u_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_b_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_b_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_r_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_r_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_g_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_g_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_w_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_w_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_u_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_u_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_b_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_b_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_r_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_r_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\normal_g_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_normal_g_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_w_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_w_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_u_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_u_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_b_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_b_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_r_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_r_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_g_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_g_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_w_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_w_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_u_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_u_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_b_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_b_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_r_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_r_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\enchantment_g_base.png already exists! Simply loading/resizing.
+Generated file .\Playtest_Base_Images\token_enchantment_g_base.png already exists! Simply loading/resizing.
+Accessing base file to simply load it into memory .\Playtest_Base_Images\normal_m_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\token_normal_m_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\normal_artifact_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\token_normal_artifact_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\normal_c_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\token_normal_c_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\enchantment_m_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\token_enchantment_m_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\enchantment_artifact_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\token_enchantment_artifact_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\enchantment_c_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\token_enchantment_c_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_w_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_u_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_b_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_r_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_g_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_m_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_artifact_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_c_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\pt_vehicle_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\set_symbol_common_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\set_symbol_uncommon_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\set_symbol_rare_base.png
+Accessing base file to simply load it into memory .\Playtest_Base_Images\set_symbol_mythic_base.png
+
+Generating card images...
+Grisha Jaeger, Unwilling Oracle's text is too large for default font size. Resizing...
+Bertolt's Colossal Titan's text is too large for default font size. Resizing...
+William Tyber's Speech's text is too large for default font size. Resizing...
+Training Corps Cadet's text is too large for default font size. Resizing...
+Attack Titan's Will's text is too large for default font size. Resizing...
+Karl Fritz's Command's text is too large for default font size. Resizing...
+
+Done!
+
+
+
+Program execution time: 6.38 seconds
+
+Generated card images at:
+      C:\Users\Roey Shapiro\Documents\AAB Backup\Programming\MtGDoD3\test set\Playtest_Card_Images
+
+Cockatrice set files (.xml) and Drafting file (.txt) generated at:
+      C:\Users\Roey Shapiro\Documents\AAB Backup\Programming\MtGDoD3\test set
+
+Copy and paste this URL as a 'Card Source' in Cockatrice to download your images on the fly:
+      https://roey-shap.github.io/MtGDoD3/!setname_lower!/Playtest_Card_Images/!name!.jpg
+
+This entire program output has also been printed to a log file there.
+

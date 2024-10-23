@@ -1,0 +1,1280 @@
+
+[Settings]
+{
+    "layouts": {
+        "Rare": {
+            "weight": 7,
+            "slots": {
+                "Common": 10,
+                "Uncommon": 3,
+                "Rare": 1
+            }
+        },
+        "Mythic": {
+            "weight": 1,
+            "slots": {
+                "Common": 10,
+                "Uncommon": 3,
+                "Mythic": 1
+            }
+        }
+    }
+}
+[CustomCards]
+[
+    {
+        "name":  "Information Stimulation",
+        "mana_cost":  "{U}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Information Stimulation.jpg"
+                        }
+    },
+    {
+        "name":  "Underground Chapel",
+        "mana_cost":  "",
+        "type":  "Land",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Underground Chapel.jpg"
+                        }
+    },
+    {
+        "name":  "Zealous Titan",
+        "mana_cost":  "{1}{R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Zealous Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Young Erwin Smith",
+        "mana_cost":  "{R}{G}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Young Erwin Smith.jpg"
+                        }
+    },
+    {
+        "name":  "Young Armin",
+        "mana_cost":  "{U}{R}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Young Armin.jpg"
+                        }
+    },
+    {
+        "name":  "Secret Merchant",
+        "mana_cost":  "{2}{U}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Secret Merchant.jpg"
+                        }
+    },
+    {
+        "name":  "Floch, Jaegerist",
+        "mana_cost":  "",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Floch, Jaegerist.jpg"
+                        }
+    },
+    {
+        "name":  "Awkward Infiltator",
+        "mana_cost":  "{U}{B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Awkward Infiltator.jpg"
+                        }
+    },
+    {
+        "name":  "Revolutionary Smuggler",
+        "mana_cost":  "{1}{U}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Revolutionary Smuggler.jpg"
+                        }
+    },
+    {
+        "name":  "Historia Riess",
+        "mana_cost":  "{1}{R/W}{R/W}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Historia Riess.jpg"
+                        }
+    },
+    {
+        "name":  "Dina Fritz",
+        "mana_cost":  "{2}{W/B}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Dina Fritz.jpg"
+                        }
+    },
+    {
+        "name":  "Desperate Charger",
+        "mana_cost":  "{2}{R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Desperate Charger.jpg"
+                        }
+    },
+    {
+        "name":  "Unwilling Distracter",
+        "mana_cost":  "{2}{W/B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Unwilling Distracter.jpg"
+                        }
+    },
+    {
+        "name":  "Floch, Unwilling Rallier",
+        "mana_cost":  "{1}{R}{R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Floch, Unwilling Rallier.jpg"
+                        }
+    },
+    {
+        "name":  "Cocky Scout",
+        "mana_cost":  "{1}{R/G}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Cocky Scout.jpg"
+                        }
+    },
+    {
+        "name":  "Grisha Jaeger, Unwilling Oracle",
+        "mana_cost":  "{U}{R}{G}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Grisha Jaeger, Unwilling Oracle.jpg"
+                        }
+    },
+    {
+        "name":  "Blinding Rocket Spearer",
+        "mana_cost":  "{2}{W}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Blinding Rocket Spearer.jpg"
+                        }
+    },
+    {
+        "name":  "Paratrooper Invader",
+        "mana_cost":  "{U}{W}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Paratrooper Invader.jpg"
+                        }
+    },
+    {
+        "name":  "Owl's Informant",
+        "mana_cost":  "{1}{U}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Owl's Informant.jpg"
+                        }
+    },
+    {
+        "name":  "Shinganshina Runaway",
+        "mana_cost":  "{2}{U/B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Shinganshina Runaway.jpg"
+                        }
+    },
+    {
+        "name":  "Smuggler's Trenchcoat",
+        "mana_cost":  "{1}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Smuggler's Trenchcoat.jpg"
+                        }
+    },
+    {
+        "name":  "Annie's Ring",
+        "mana_cost":  "{1}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Annie's Ring.jpg"
+                        }
+    },
+    {
+        "name":  "Hard steel Blades",
+        "mana_cost":  "{1}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Hard steel Blades.jpg"
+                        }
+    },
+    {
+        "name":  "Dauper Village Bow",
+        "mana_cost":  "{1}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Dauper Village Bow.jpg"
+                        }
+    },
+    {
+        "name":  "3D Movement Gear",
+        "mana_cost":  "{2}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/3D Movement Gear.jpg"
+                        }
+    },
+    {
+        "name":  "Gleeful Three-Meter",
+        "mana_cost":  "{3}{G}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Gleeful Three-Meter.jpg"
+                        }
+    },
+    {
+        "name":  "Pure Field Titan",
+        "mana_cost":  "{2}{R}{R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Pure Field Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Abnormal Six-Meter",
+        "mana_cost":  "{3}{B}{R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Abnormal Six-Meter.jpg"
+                        }
+    },
+    {
+        "name":  "Abnormal Two-Meter",
+        "mana_cost":  "{2}{R/G}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Abnormal Two-Meter.jpg"
+                        }
+    },
+    {
+        "name":  "Sawney, 4-Meter",
+        "mana_cost":  "{2}{G/W}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Sawney, 4-Meter.jpg"
+                        }
+    },
+    {
+        "name":  "Bean, 7-Meter",
+        "mana_cost":  "{4}{R/G}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Bean, 7-Meter.jpg"
+                        }
+    },
+    {
+        "name":  "Titan Steam",
+        "mana_cost":  "{1}{G}",
+        "type":  "Tribal Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Titan Steam.jpg"
+                        }
+    },
+    {
+        "name":  "The Talking Titan",
+        "mana_cost":  "{2}{W/B}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/The Talking Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Bertolt's Colossal Titan",
+        "mana_cost":  "",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Bertolt's Colossal Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Annie's Female Titan",
+        "mana_cost":  "",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Annie's Female Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Reiner's Armored Titan",
+        "mana_cost":  "",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Reiner's Armored Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Ymir's Jaw Titan",
+        "mana_cost":  "",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Ymir's Jaw Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Fleeting Skeleton",
+        "mana_cost":  "{4}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Fleeting Skeleton.jpg"
+                        }
+    },
+    {
+        "name":  "Wall Titan",
+        "mana_cost":  "{6}",
+        "type":  "Artifact Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Wall Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Wall Maria",
+        "mana_cost":  "{6}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Wall Maria.jpg"
+                        }
+    },
+    {
+        "name":  "Wall Sina",
+        "mana_cost":  "{4}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Wall Sina.jpg"
+                        }
+    },
+    {
+        "name":  "Wall Rose",
+        "mana_cost":  "{5}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Wall Rose.jpg"
+                        }
+    },
+    {
+        "name":  "Yelena, Whistleblower",
+        "mana_cost":  "{1}{R}{G}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Yelena, Whistleblower.jpg"
+                        }
+    },
+    {
+        "name":  "Forward Sleuth",
+        "mana_cost":  "{1}{R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Forward Sleuth.jpg"
+                        }
+    },
+    {
+        "name":  "Kenny Squad Rebel",
+        "mana_cost":  "{2}{B}{B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Kenny Squad Rebel.jpg"
+                        }
+    },
+    {
+        "name":  "Jaegerist Guard",
+        "mana_cost":  "{2}{W/B}{W/B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Jaegerist Guard.jpg"
+                        }
+    },
+    {
+        "name":  "Jaegerist Soldier",
+        "mana_cost":  "{B/R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Jaegerist Soldier.jpg"
+                        }
+    },
+    {
+        "name":  "Magath, Master Tactician",
+        "mana_cost":  "{1}{W/U}{W/U}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Magath, Master Tactician.jpg"
+                        }
+    },
+    {
+        "name":  "Young Marcel",
+        "mana_cost":  "{2}{U}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Young Marcel.jpg"
+                        }
+    },
+    {
+        "name":  "Distractable Thief",
+        "mana_cost":  "{2}{B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Distractable Thief.jpg"
+                        }
+    },
+    {
+        "name":  "Young Reiner",
+        "mana_cost":  "{2}{W}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Young Reiner.jpg"
+                        }
+    },
+    {
+        "name":  "Young Annie",
+        "mana_cost":  "{2}{B}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Young Annie.jpg"
+                        }
+    },
+    {
+        "name":  "Young Bertolt",
+        "mana_cost":  "{2}{U}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Young Bertolt.jpg"
+                        }
+    },
+    {
+        "name":  "Annie Leonhart",
+        "mana_cost":  "{2}{U}{B}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Annie Leonhart.jpg"
+                        }
+    },
+    {
+        "name":  "Reiner Braun",
+        "mana_cost":  "{2}{W}{B}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Reiner Braun.jpg"
+                        }
+    },
+    {
+        "name":  "Bertolt Hoover",
+        "mana_cost":  "{2}{B}{G}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Bertolt Hoover.jpg"
+                        }
+    },
+    {
+        "name":  "Ymir Fritz",
+        "mana_cost":  "{2}{B}{R}",
+        "type":  "Legendary Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Ymir Fritz.jpg"
+                        }
+    },
+    {
+        "name":  "Liberio Guard",
+        "mana_cost":  "{1}{W/B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Liberio Guard.jpg"
+                        }
+    },
+    {
+        "name":  "Haughty Footsoldier",
+        "mana_cost":  "{1}{B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Haughty Footsoldier.jpg"
+                        }
+    },
+    {
+        "name":  "Flashbang Specialist",
+        "mana_cost":  "{2}{W/B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Flashbang Specialist.jpg"
+                        }
+    },
+    {
+        "name":  "Young Annie Leonhart",
+        "mana_cost":  "{2}{B}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Young Annie Leonhart.jpg"
+                        }
+    },
+    {
+        "name":  "Open Growth Naiad",
+        "mana_cost":  "{2}{G}{G}",
+        "type":  "Enchantment Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Open Growth Naiad.jpg"
+                        }
+    },
+    {
+        "name":  "Dedicated Trainee",
+        "mana_cost":  "{2}{R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Dedicated Trainee.jpg"
+                        }
+    },
+    {
+        "name":  "William Tyber's Speech",
+        "mana_cost":  "{2}{B}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/William Tyber's Speech.jpg"
+                        }
+    },
+    {
+        "name":  "Expedition Corps",
+        "mana_cost":  "{1}{W}{G}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Expedition Corps.jpg"
+                        }
+    },
+    {
+        "name":  "Maneuvering Expert",
+        "mana_cost":  "{1}{G/U}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Maneuvering Expert.jpg"
+                        }
+    },
+    {
+        "name":  "Training Corps Cadet",
+        "mana_cost":  "{W}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Training Corps Cadet.jpg"
+                        }
+    },
+    {
+        "name":  "Gossip Gang",
+        "mana_cost":  "{B}{R}",
+        "type":  "Creature",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Gossip Gang.jpg"
+                        }
+    },
+    {
+        "name":  "Conspirator's Airship",
+        "mana_cost":  "{5}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Conspirator's Airship.jpg"
+                        }
+    },
+    {
+        "name":  "Battle for Trost",
+        "mana_cost":  "{3}{W}{W}",
+        "type":  "Battle",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Battle for Trost.jpg"
+                        }
+    },
+    {
+        "name":  "Battle for Shinganshina",
+        "mana_cost":  "{4}{U/B}{U/B}",
+        "type":  "Battle",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Battle for Shinganshina.jpg"
+                        }
+    },
+    {
+        "name":  "The Invasion That Day",
+        "mana_cost":  "{3}{U}{R}",
+        "type":  "Battle",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/The Invasion That Day.jpg"
+                        }
+    },
+    {
+        "name":  "Inform the Masses",
+        "mana_cost":  "{2}{U}{U}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Inform the Masses.jpg"
+                        }
+    },
+    {
+        "name":  "Slip into Chaos",
+        "mana_cost":  "{3}{B}{R}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Slip into Chaos.jpg"
+                        }
+    },
+    {
+        "name":  "Subtle Evasion",
+        "mana_cost":  "{B}{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Subtle Evasion.jpg"
+                        }
+    },
+    {
+        "name":  "Gossip Scheme",
+        "mana_cost":  "{4}{B}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Gossip Scheme.jpg"
+                        }
+    },
+    {
+        "name":  "Dazzling Trick",
+        "mana_cost":  "{W}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Dazzling Trick.jpg"
+                        }
+    },
+    {
+        "name":  "Lay Before",
+        "mana_cost":  "{1}{W}{G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Lay Before.jpg"
+                        }
+    },
+    {
+        "name":  "Mutual Confiding",
+        "mana_cost":  "{B}{W}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Mutual Confiding.jpg"
+                        }
+    },
+    {
+        "name":  "Guilty Confession",
+        "mana_cost":  "{B}{B}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Guilty Confession.jpg"
+                        }
+    },
+    {
+        "name":  "Extortion Beatdown",
+        "mana_cost":  "{2}{B}{B}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Extortion Beatdown.jpg"
+                        }
+    },
+    {
+        "name":  "Back Before Your Eyes",
+        "mana_cost":  "{1}{B}{G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Back Before Your Eyes.jpg"
+                        }
+    },
+    {
+        "name":  "Open Casket",
+        "mana_cost":  "{3}{B}{G}",
+        "type":  "Legendary Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Open Casket.jpg"
+                        }
+    },
+    {
+        "name":  "Overbearing Supervision",
+        "mana_cost":  "{3}{B}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Overbearing Supervision.jpg"
+                        }
+    },
+    {
+        "name":  "Speak Bluntly",
+        "mana_cost":  "{2}{G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Speak Bluntly.jpg"
+                        }
+    },
+    {
+        "name":  "Eren's Broadcast",
+        "mana_cost":  "{2}{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Eren's Broadcast.jpg"
+                        }
+    },
+    {
+        "name":  "Titan's Hunger",
+        "mana_cost":  "{1}{G}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Titan's Hunger.jpg"
+                        }
+    },
+    {
+        "name":  "Deceptive Titan-Swarm",
+        "mana_cost":  "{R}{R}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Deceptive Titan-Swarm.jpg"
+                        }
+    },
+    {
+        "name":  "Titan Regeneration",
+        "mana_cost":  "{1}{W}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Titan Regeneration.jpg"
+                        }
+    },
+    {
+        "name":  "Call Forth the Titan",
+        "mana_cost":  "{2}{B}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Call Forth the Titan.jpg"
+                        }
+    },
+    {
+        "name":  "Peaceful Dementia",
+        "mana_cost":  "{1}{U}{U}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Peaceful Dementia.jpg"
+                        }
+    },
+    {
+        "name":  "Cape Flip",
+        "mana_cost":  "{1}{U}{B}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Cape Flip.jpg"
+                        }
+    },
+    {
+        "name":  "Halt",
+        "mana_cost":  "{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Halt.jpg"
+                        }
+    },
+    {
+        "name":  "Out",
+        "mana_cost":  "{W/B}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Out.jpg"
+                        }
+    },
+    {
+        "name":  "Storm of Tears",
+        "mana_cost":  "{1}{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Storm of Tears.jpg"
+                        }
+    },
+    {
+        "name":  "Precocious Bolt",
+        "mana_cost":  "{1}{R}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Precocious Bolt.jpg"
+                        }
+    },
+    {
+        "name":  "Mounting Storm",
+        "mana_cost":  "{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Mounting Storm.jpg"
+                        }
+    },
+    {
+        "name":  "Expose",
+        "mana_cost":  "{1}{W}{U}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Expose.jpg"
+                        }
+    },
+    {
+        "name":  "Pixis' Intuition",
+        "mana_cost":  "{1}{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Pixis' Intuition.jpg"
+                        }
+    },
+    {
+        "name":  "Show of Power",
+        "mana_cost":  "{G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Show of Power.jpg"
+                        }
+    },
+    {
+        "name":  "Pay in Confidence",
+        "mana_cost":  "{1}{G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Pay in Confidence.jpg"
+                        }
+    },
+    {
+        "name":  "Preemptive Funeral",
+        "mana_cost":  "{B}{G}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Preemptive Funeral.jpg"
+                        }
+    },
+    {
+        "name":  "Open Burial",
+        "mana_cost":  "{6}{B/G}{B/G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Open Burial.jpg"
+                        }
+    },
+    {
+        "name":  "Exposed Metal",
+        "mana_cost":  "{1}{B/G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Exposed Metal.jpg"
+                        }
+    },
+    {
+        "name":  "Dead On Sight",
+        "mana_cost":  "{2}{B}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Dead On Sight.jpg"
+                        }
+    },
+    {
+        "name":  "Own Up",
+        "mana_cost":  "{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Own Up.jpg"
+                        }
+    },
+    {
+        "name":  "Honest Brutality",
+        "mana_cost":  "{1}{B}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Honest Brutality.jpg"
+                        }
+    },
+    {
+        "name":  "Grit Teeth",
+        "mana_cost":  "{1}{R/G}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Grit Teeth.jpg"
+                        }
+    },
+    {
+        "name":  "Attack Titan's Command",
+        "mana_cost":  "{U}{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Attack Titan's Command.jpg"
+                        }
+    },
+    {
+        "name":  "Mental Tripwire",
+        "mana_cost":  "{5}{U}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Mental Tripwire.jpg"
+                        }
+    },
+    {
+        "name":  "Innocent Dreams of Freedom",
+        "mana_cost":  "{1}{U}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Innocent Dreams of Freedom.jpg"
+                        }
+    },
+    {
+        "name":  "Sudden Peace",
+        "mana_cost":  "{X}{G}{G}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Sudden Peace.jpg"
+                        }
+    },
+    {
+        "name":  "Make Amends",
+        "mana_cost":  "{1}{W}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Make Amends.jpg"
+                        }
+    },
+    {
+        "name":  "Mourning Morning",
+        "mana_cost":  "{1}{B}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Mourning Morning.jpg"
+                        }
+    },
+    {
+        "name":  "Intrusive Thoughts",
+        "mana_cost":  "{U/R}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Intrusive Thoughts.jpg"
+                        }
+    },
+    {
+        "name":  "Triumphant Shout",
+        "mana_cost":  "{R}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Triumphant Shout.jpg"
+                        }
+    },
+    {
+        "name":  "Honest Lifestyle",
+        "mana_cost":  "{W}{U}{G}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Honest Lifestyle.jpg"
+                        }
+    },
+    {
+        "name":  "Key to the Basement",
+        "mana_cost":  "{3}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Key to the Basement.jpg"
+                        }
+    },
+    {
+        "name":  "Survey Expedition",
+        "mana_cost":  "{4}{G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Survey Expedition.jpg"
+                        }
+    },
+    {
+        "name":  "Survey Corps Recruitment",
+        "mana_cost":  "{2}{W}{G}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Survey Corps Recruitment.jpg"
+                        }
+    },
+    {
+        "name":  "Analyze the Steam",
+        "mana_cost":  "{2}{U}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Analyze the Steam.jpg"
+                        }
+    },
+    {
+        "name":  "Force the Transformation",
+        "mana_cost":  "{R}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Force the Transformation.jpg"
+                        }
+    },
+    {
+        "name":  "Fate-sealing Syringe",
+        "mana_cost":  "{3}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Fate-sealing Syringe.jpg"
+                        }
+    },
+    {
+        "name":  "Beast Titan's Call",
+        "mana_cost":  "{3}{R/G}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Beast Titan's Call.jpg"
+                        }
+    },
+    {
+        "name":  "Scramble for Answers",
+        "mana_cost":  "{1}{R}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Scramble for Answers.jpg"
+                        }
+    },
+    {
+        "name":  "Coddle the King",
+        "mana_cost":  "{2}{B}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Coddle the King.jpg"
+                        }
+    },
+    {
+        "name":  "Eldian Cannon",
+        "mana_cost":  "{3}",
+        "type":  "Artifact",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Eldian Cannon.jpg"
+                        }
+    },
+    {
+        "name":  "Titanize",
+        "mana_cost":  "{5}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Titanize.jpg"
+                        }
+    },
+    {
+        "name":  "Nape Strike",
+        "mana_cost":  "{R/W}{R/W}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Nape Strike.jpg"
+                        }
+    },
+    {
+        "name":  "Dedicate Your Hearts!",
+        "mana_cost":  "{2}{R/G}{R/G}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Dedicate Your Hearts!.jpg"
+                        }
+    },
+    {
+        "name":  "Founder's Denial",
+        "mana_cost":  "{2}{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Founder's Denial.jpg"
+                        }
+    },
+    {
+        "name":  "Attack Titan's Will",
+        "mana_cost":  "{1}{U}{U}{U}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Attack Titan's Will.jpg"
+                        }
+    },
+    {
+        "name":  "Karl Fritz's Command",
+        "mana_cost":  "{W}{W}{W}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Karl Fritz's Command.jpg"
+                        }
+    },
+    {
+        "name":  "Moonlit Paradis",
+        "mana_cost":  "{2}{B/G}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Moonlit Paradis.jpg"
+                        }
+    },
+    {
+        "name":  "Sunlit Landscape",
+        "mana_cost":  "{2}{R/W}",
+        "type":  "Enchantment",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Sunlit Landscape.jpg"
+                        }
+    },
+    {
+        "name":  "From Between the Trees",
+        "mana_cost":  "{4}{G}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/From Between the Trees.jpg"
+                        }
+    },
+    {
+        "name":  "Kicked into Paradis",
+        "mana_cost":  "{3}{W/B}",
+        "type":  "Sorcery",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Kicked into Paradis.jpg"
+                        }
+    },
+    {
+        "name":  "Remote Titan Detonation",
+        "mana_cost":  "{3}{R}{R}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Remote Titan Detonation.jpg"
+                        }
+    },
+    {
+        "name":  "Plug the Wall",
+        "mana_cost":  "{1}{G/W}",
+        "type":  "Instant",
+        "image_uris":  {
+                            "en":  "https://roey-shap.github.io/MtGDoD3/test set/Playtest_Card_Images/Plug the Wall.jpg"
+                        }
+    }
+]
+[Common]
+Information Stimulation
+Underground Chapel
+Zealous Titan
+Young Erwin Smith
+Young Armin
+Secret Merchant
+Floch, Jaegerist
+Awkward Infiltator
+Revolutionary Smuggler
+Historia Riess
+Dina Fritz
+Desperate Charger
+Unwilling Distracter
+Floch, Unwilling Rallier
+Cocky Scout
+Grisha Jaeger, Unwilling Oracle
+Blinding Rocket Spearer
+Paratrooper Invader
+Owl's Informant
+Shinganshina Runaway
+Smuggler's Trenchcoat
+Annie's Ring
+Hard steel Blades
+Dauper Village Bow
+3D Movement Gear
+Gleeful Three-Meter
+Pure Field Titan
+Abnormal Six-Meter
+Abnormal Two-Meter
+Sawney, 4-Meter
+Bean, 7-Meter
+Titan Steam
+The Talking Titan
+Bertolt's Colossal Titan
+Annie's Female Titan
+Reiner's Armored Titan
+Ymir's Jaw Titan
+Fleeting Skeleton
+Wall Titan
+Wall Maria
+Wall Sina
+Wall Rose
+Yelena, Whistleblower
+Forward Sleuth
+Kenny Squad Rebel
+Jaegerist Guard
+Jaegerist Soldier
+Magath, Master Tactician
+Young Marcel
+Distractable Thief
+Young Reiner
+Young Annie
+Young Bertolt
+Annie Leonhart
+Reiner Braun
+Bertolt Hoover
+Ymir Fritz
+Liberio Guard
+Haughty Footsoldier
+Flashbang Specialist
+Young Annie Leonhart
+Open Growth Naiad
+Dedicated Trainee
+William Tyber's Speech
+Expedition Corps
+Maneuvering Expert
+Training Corps Cadet
+Gossip Gang
+Conspirator's Airship
+Battle for Trost
+Battle for Shinganshina
+The Invasion That Day
+Inform the Masses
+Slip into Chaos
+Subtle Evasion
+Gossip Scheme
+Dazzling Trick
+Lay Before
+Mutual Confiding
+Guilty Confession
+Extortion Beatdown
+Back Before Your Eyes
+Open Casket
+Overbearing Supervision
+Speak Bluntly
+Eren's Broadcast
+Titan's Hunger
+Deceptive Titan-Swarm
+Titan Regeneration
+Call Forth the Titan
+Peaceful Dementia
+Cape Flip
+Halt
+Out
+Storm of Tears
+Precocious Bolt
+Mounting Storm
+Expose
+Pixis' Intuition
+Show of Power
+Pay in Confidence
+Preemptive Funeral
+Open Burial
+Exposed Metal
+Dead On Sight
+Own Up
+Honest Brutality
+Grit Teeth
+Attack Titan's Command
+Mental Tripwire
+Innocent Dreams of Freedom
+Sudden Peace
+Make Amends
+Mourning Morning
+Intrusive Thoughts
+Triumphant Shout
+Honest Lifestyle
+Key to the Basement
+Survey Expedition
+Survey Corps Recruitment
+Analyze the Steam
+Force the Transformation
+Fate-sealing Syringe
+Beast Titan's Call
+Scramble for Answers
+Coddle the King
+Eldian Cannon
+Titanize
+Nape Strike
+Dedicate Your Hearts!
+Founder's Denial
+Attack Titan's Will
+Karl Fritz's Command
+Moonlit Paradis
+Sunlit Landscape
+From Between the Trees
+Kicked into Paradis
+Remote Titan Detonation
+Plug the Wall
+[Uncommon]
+[Rare]
+[Mythic]
